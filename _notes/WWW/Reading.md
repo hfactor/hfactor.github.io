@@ -2,6 +2,13 @@
 - [വിലായത്ത് ബുദ്ധ](https://buybooks.mathrubhumi.com/product/vilayath-budha/), by G R Indugopan
 - [Crossing the Chasm](https://amzn.to/36x4kzQ) by Geoffrey A. Moore
 - [A Promised Land](https://amzn.to/3rf1ckc) by Barack Obama
+- [Indistractable](https://amzn.to/2TCEarH) by Nir Eyal
+- [Brand Flip](https://amzn.to/2Ue1OeN) by Marty Neumeier
+- [Wild Swans](https://amzn.to/3vrJ34o) by Jung Chang
+- [മാമുക്കോയ](https://www.amazon.in/MAMUKKOYA-THAHA-MADAI/dp/8126414529) by Thaha Madayi
+- ധർമ്മരാജ, by C V Raman Pillai
+- ധർമ്മപുരാണം, by O V Vijayan
+
 ### 2020
 - [ഉറുമ്പ്ദേശം](https://www.flipkart.com/urumb-desam/p/itm90dc38292cba6?pid=RBKFWBJ8PQW99GVN) by Vinod Krishna
 - [About Face: The Essentials of Interaction Design](https://amzn.to/38mFkvd) by Alan Cooper, Robert Reimann , David Cronin, Christopher Noessel

@@ -1,22 +1,18 @@
 ---
-title: Making notes is the easiest part
+title : Making notes is the easiest part
 notetype : lit
-date: 2021-02-01
+date: 2021-04-03
 ---
 
-Making notes is the easiest part when it comes to knowledge management. Links, Wikipedia, copy-paste, kindle highlights - all can be considered as notes.The idea of note taking is not to collect, but to develop ideas, arguments and discussions.
+Making notes is the easiest part when it comes to knowledge management, if you consider all sources, web links, and copy-pasted text as part of notes. 
 
-**More Notes ≠ More Output.**
+The idea of note taking is not to collect, but to develop ideas, arguments and discussions. Notes are active way of thinking, not materials to do [[Spaced Repeatation]]
 
-Principles I follow : 
-- Make [[Atomic]] notes, one concept per note. 
-- Write in my own words. Mark #🔖quote at source
-- Link notes, but don't try to build a Section Subsection relation 
-- No Tags, No Categorization use notes with MOC instead of tags. 
-- Use Hashtags to mark states, not to build category. 
-More on [[Essay- My Workflow + Daily Plan]]
-
-**Source :**
+## Source / Thoughts
 - [[Book- How to Take Smart Notes]]
 
-#🌱opinion / [[§NoteTaking]]
+---
+
+#🌵seed [[350 Note-taking]]
+
+---

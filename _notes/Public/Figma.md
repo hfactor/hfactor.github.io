@@ -1,12 +1,16 @@
 ---
-title: Figma
+title : Figma
 notetype : lit
-date: 2021-01-05
+date: 2021-04-02
 ---
 
 Figma is a vector graphics editor and prototyping tool and is primarily web-based. 
 
-**Source :**
+## Source
 - [Figma Website](http://www.figma.com)
 
-#🌲topic / [[§Design]]
+---
+
+#🌵seed [[210 Product]]
+
+---
