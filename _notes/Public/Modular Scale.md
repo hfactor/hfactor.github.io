@@ -1,13 +1,13 @@
 ---
 title: Modular Scale
-notetype : lit
+notetype : concept
 date: 2021-02-04
 
 ---
 
-A modular scale in Typography is a sequence of numbers that relate to one another in a meaningful way, mostly with a common multiplier. This helps to create a proportion, which helps in building visual hierarchy. 
-
-*A modular scale, like a musical scale, is a prearranged set of harmonious proportions.* #🚩quote 
+- [[Typography]] combinations demands a scale, while documenting the usage pattern. Modular scale a concept, in which the sequence of such numbers relate to one another in a meaningful way, mostly with a common multiplier. 
+- This helps to create a proportion, which helps in building visual hierarchy. 
+- *A modular scale, like a musical scale, is a prearranged set of harmonious proportions.* #💬QUOTE 
 
 ## Source
 
@@ -16,6 +16,6 @@ A modular scale in Typography is a sequence of numbers that relate to one anothe
 
 ---
 
-#🌵seed [[110 Typography]]
+#🌱CONCEPT 
 
 ---

@@ -2,7 +2,7 @@
 
 {% assign note_items = site.notes | sort: "date" | reverse %}
 {% for note_items in note_items %}
-{%- if note_items.notetype == "lit" -%}
+{%- if note_items.notetype == "working" -%}
 <div class="feed-title-excerpt-block disable-select" data-url="{{site.url}}{{note_items.url}}">
     <a href="{{note_items.url}}" style="text-decoration: none; color: #333333;">
         <p class="feed-title">{{ note_items.title }}</p>
