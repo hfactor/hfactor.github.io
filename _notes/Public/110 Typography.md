@@ -1,6 +1,6 @@
 ---
 title: 110 Typography
-notetype : lit
+notetype : context
 date: 2021-02-01
 ---
 
