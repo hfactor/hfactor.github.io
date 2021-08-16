@@ -3,11 +3,8 @@ permalink: /reading
 ---
 
 ### To-Read / Reading Now
-- [The Thrilling Adventures of Lovelace and Babbage](https://amzn.to/3ib7nUt), by Sydney Padua
-- പരിണാമം, by M P Narayana Pillai
 - [Super Thinking](https://amzn.to/2V6rNp9) by Gabriel Weinberg, Lauren McCann
 - [War Of Art](https://amzn.to/3x8JMIl), by Steven Pressfield
-
 
 ### 2021 
 - [വിലായത്ത് ബുദ്ധ](https://buybooks.mathrubhumi.com/product/vilayath-budha/), by G R Indugopan
@@ -18,6 +15,8 @@ permalink: /reading
 - [Wild Swans](https://amzn.to/3vrJ34o) by Jung Chang
 - [മാമുക്കോയ](https://www.amazon.in/MAMUKKOYA-THAHA-MADAI/dp/8126414529) by Thaha Madayi
 - [കളക്ടർ ബ്രൊ : ഇനി ഞാൻ തള്ളട്ടെ](https://amzn.to/3BYh28Q) by Prashanth Nair IAS
+- [The Thrilling Adventures of Lovelace and Babbage](https://amzn.to/3ib7nUt), by Sydney Padua
+- പരിണാമം, by M P Narayana Pillai
 
 ### 2020
 - [ഉറുമ്പ്ദേശം](https://www.flipkart.com/urumb-desam/p/itm90dc38292cba6?pid=RBKFWBJ8PQW99GVN) by Vinod Krishna
