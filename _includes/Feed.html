@@ -47,11 +47,9 @@
     <div class="box-feed" data-url="{{site.url}}{{note_items.url}}">
         <a href="{{note_items.url}}" style="text-decoration: none;">
             <h4>{{ note_items.title }}</h4>
-            <div class="content">
                 <p style="margin: 0px;">
                     {{ note_items.content | strip_html | strip | remove: "[[" | remove: "]]" | escape | truncate: 260 }}
                 </p>
-            </div>
         </a>
     </div>
 </div>
