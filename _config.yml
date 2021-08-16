@@ -28,10 +28,10 @@ url: "https://jekyll-garden.github.io/" # the base hostname & protocol for your 
 # your social media links etc
 #######################################################################
 
-heading: Digital Garden # Change this 
+heading: Hiran Venugopalan # Change this 
 copyright:  
   year: 2021
-  msg: Your Name # This is a mandatory attribute for copyright to be displayed ; If deleting this, edit at footer layout.
+  msg: Hiran Venugopalan # This is a mandatory attribute for copyright to be displayed ; If deleting this, edit at footer layout.
 
 
 #####################################################################
