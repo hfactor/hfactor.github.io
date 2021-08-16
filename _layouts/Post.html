@@ -1,0 +1,174 @@
+---
+---
+
+<!-------------------------------------------------------------------------------------
+*
+* MIT License
+* Copyright (c) 2020 Raghuveer S, Hiran Venugopalan, Asim K T
+*
+* Permission is hereby granted, free of charge, to any person obtaining a copy
+* of this software and associated documentation files (the "Software"), to deal
+* in the Software without restriction, including without limitation the rights
+* to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+* copies of the Software, and to permit persons to whom the Software is
+* furnished to do so, subject to the following conditions:
+*
+* The above copyright notice and this permission notice shall be included in all
+* copies or substantial portions of the Software.
+*
+* THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+* IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+* FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+* AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+* LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+* OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+* SOFTWARE.
+*
+------------------------------------------------------------------------------------>
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta content="width=device-width, initial-scale=1" name="viewport" />
+    <meta content="Digital Garden" property="og:site_name" />
+    <meta
+        content="A Jekyll theme for Obsidian users to build digital garden"
+        property="og:description">
+    <meta content="{{ site.url }}/about/" property="article:author">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,600;1,400;1,600&display=swap"
+        rel="stylesheet">
+    {%- if page.title -%}
+    <meta content="{{ page.title }}" property="og:title">
+    <meta content="article" property="og:type">
+    <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+    {%- else -%}
+    <meta content="website" property="og:type">
+    <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+    {%- endif -%}
+
+    <title>{{site.heading}}</title>
+
+    <link rel="canonical" href="{{site.url}}{{page.url}}" />
+    <link rel="apple-touch-icon" href="/assets/img/profile.png">
+    <link rel="icon" href="/assets/img/favicon.png" type="image/png" sizes="16x16" />
+    <link href="/assets/css/style.css" rel="stylesheet" media="all" class="default" />
+    <link href="/assets/css/main.css" rel="stylesheet" media="all" class="default" />
+    <link href="/assets/css/Util.css" rel="stylesheet" media="all" class="default" />
+    <link href="/assets/css/vendor/Katex.css" rel="stylesheet" media="all" class="default" />
+
+    <!--[if IE]>
+        <link href="/assets/css/ie-target.css" rel="stylesheet" type="text/css"/>
+    <![endif]-->
+    <!--<link href="/assets/css/prism.css" rel="stylesheet" />-->
+    <link rel="alternate" type="application/rss+xml" href="{{ site.url }}/feed.xml">
+</head>
+
+<body>
+    {%- include Header.html -%}
+    <section class="section">
+        <div class="columns is-centered">
+            <!--- CASE 1 : Homepage-->
+
+            {%- if page.permalink == "/" -%}
+                    {%- if site.preferences.homepage.enabled -%}
+                            <!--- Show Homepage -->
+                            {%- include Homepage.html -%}
+                            <script src="/assets/js/modeswitcher.js"></script>
+                    {%- else -%}
+                            <!--- Show Feed Part -->
+                    <div class="column is-half">
+                            {%- include FeedContent.html -%}
+                            {%- include Feed.html -%}
+                            {%- include Footer.html -%}             
+                </div>
+                    {%- endif -%}
+            {%- endif -%}
+
+            <!---CASE 2 : Notes & Blog Page-->
+
+            {%- if page.content-type == "notes" 
+            or page.content-type == "post"  -%}
+                <div class="column is-three-fifths">
+                    <main>
+                        <div class="note-page-section">
+                            <div class="buttons for-back-home">
+                                {%- if site.preferences.homepage.enabled -%}
+                                <a class="button is-text button__page-back" onclick="window.location.assign('/notes');">
+                                {%- else -%}
+                                <a class="button is-text button__page-back" onclick="window.location.assign('/');">
+                                {%- endif -%}
+                                    <span class="icon is-small">
+                                        <svg width="12" height="20" viewBox="0 0 12 20" fill="none"
+                                        xmlns="http://www.w3.org/2000/svg">
+                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                        d="M11.0309 0.468998C11.1007 0.538667 11.1561 0.62143 11.1939 0.712548C11.2318 0.803665 11.2512 0.901347 11.2512 0.999998C11.2512 1.09865 11.2318 1.19633 11.1939 1.28745C11.1561 1.37857 11.1007 1.46133 11.0309 1.531L2.56038 10L11.0309 18.469C11.1717 18.6098 11.2508 18.8008 11.2508 19C11.2508 19.1992 11.1717 19.3902 11.0309 19.531C10.89 19.6718 10.699 19.7509 10.4999 19.7509C10.3007 19.7509 10.1097 19.6718 9.96887 19.531L0.968875 10.531C0.899031 10.4613 0.843616 10.3786 0.805806 10.2874C0.767997 10.1963 0.748535 10.0986 0.748535 10C0.748535 9.90135 0.767997 9.80367 0.805806 9.71255C0.843616 9.62143 0.899031 9.53867 0.968875 9.469L9.96887 0.468998C10.0385 0.399153 10.1213 0.343739 10.2124 0.305929C10.3035 0.26812 10.4012 0.248657 10.4999 0.248657C10.5985 0.248657 10.6962 0.26812 10.7873 0.305929C10.8784 0.343739 10.9612 0.399153 11.0309 0.468998Z"
+                                        fill="var(--text-main)" />
+                                        </svg>
+                                    </span>
+                                </a>
+                            </div>
+                        <h1>{{page.title}}</h1>
+                        {%- include Content.html -%}
+                        {%- include Backlinks.html -%}
+                        </div>
+                        {%- include Footer.html -%}
+                    </main>
+                </div>
+
+            {%- endif -%}
+
+            <!--- CASE 3 : Static Page -->
+
+            {%- if page.content-type == "eg" -%}
+                <div class="column is-half">
+                    <main>
+                        <h1>{{page.title}}</h1>
+                        {%- include Content.html -%}
+                        {%- include Footer.html -%}
+
+                    </main>
+                </div>
+            {%- endif -%}
+
+            <!--- CASE 4 :  Blog Listing page -->   
+
+            {%- if page.permalink == "/posts" -%}
+                <div class="column is-half">
+                    <h1>{{page.title}}</h1>
+                    <div class="block">
+                        {% for item in site.posts %}
+                            <div class="block note-cards">
+                                <div class="box-feed" data-url="{{site.url}}{{item.url}}">
+                                    <a href="{{item.url}}" style="text-decoration: none;">
+                                        <h4>{{ item.title }}</h4>
+                                        <div class="content">
+                                            <p style="margin: 0px;">
+                                            {{ item.content | strip_html | strip | remove: "[[" | remove: "]]" | escape | truncate: 260 }}
+                                            </p>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        {%- endfor -%}
+                    </div>
+                    {%- include Footer.html -%} 
+                </div>
+            {%- endif -%}
+
+            <!--- CASE 5 :  Notes Listing page -->   
+
+            {%- if page.permalink == "/notes" -%}
+                <div class="column is-half">
+                    {%- include FeedContent.html -%}
+                    {%- include Feed.html -%}
+                    {%- include Footer.html -%}             
+                </div>
+            {%- endif -%}
+
+        </div>
+    </section>     
+</body>
+</html>

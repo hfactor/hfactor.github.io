@@ -1,0 +1,59 @@
+{%- comment -%}
+*
+* MIT License
+* Copyright (c) 2020 Raghuveer S, Hiran Venugopalan
+*
+* Permission is hereby granted, free of charge, to any person obtaining a copy
+* of this software and associated documentation files (the "Software"), to deal
+* in the Software without restriction, including without limitation the rights
+* to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+* copies of the Software, and to permit persons to whom the Software is
+* furnished to do so, subject to the following conditions:
+*
+* The above copyright notice and this permission notice shall be included in all
+* copies or substantial portions of the Software.
+*
+* THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+* IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+* FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+* AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+* LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+* OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+* SOFTWARE.
+*
+* File: Feed.html
+* Author Raghuveer S, Hiran Venugopalan
+*
+* This file contains the markup for the context menu thingy you see when you right
+* click on the post titles on the home page.
+*
+{%- endcomment -%}
+
+{%- if site.preferences.search.enabled -%}
+
+<!-- search bar -->
+<div class="block">
+    <input class="input is-medium" type="text" placeholder="Search notes.." id="search-input" autocomplete="off">
+    <div id="search-results" class="search-results"></div>
+</div>
+<script type="text/javascript" src="/assets/js/vendor/lunr.min.js"></script>
+<script src="/assets/js/Search.js"></script>
+{%- endif -%}
+<!-- feed with filter-->
+{% assign note_items = site.notes | sort: "date" | reverse %}
+{% for note_items in note_items %}
+{%- if note_items.notetype == "feed" -%}
+<div class="block note-cards">
+    <div class="box-feed" data-url="{{site.url}}{{note_items.url}}">
+        <a href="{{note_items.url}}" style="text-decoration: none;">
+            <h4>{{ note_items.title }}</h4>
+            <div class="content">
+                <p style="margin: 0px;">
+                    {{ note_items.content | strip_html | strip | remove: "[[" | remove: "]]" | escape | truncate: 260 }}
+                </p>
+            </div>
+        </a>
+    </div>
+</div>
+{%- endif -%}
+{%- endfor -%}
