@@ -16,8 +16,6 @@ I wanted to have [a digital garden](https://maggieappleton.com/garden-history) t
 - Build a simple workflow, don't overdo it.
 - Publish my Public notes using [[My Jekyll Setup]] 
 
-## My Obsidian Setup
-
 ### Directory
 I use `_notes` as my Obsidian vault to support [[My Jekyll Setup]], containing multiple folders, which helps in separating private and public notes. Currently, there are four folders in my Obsidian Vault:
 

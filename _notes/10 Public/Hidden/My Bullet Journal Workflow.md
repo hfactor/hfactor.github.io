@@ -10,8 +10,6 @@ If you are new to Bullet Journal, [the best way to learn is by watching this sma
 
 ---
 
-## My Method
-
 ### My journal is a rough notebook
 
 I jot like how I used to take notes while at college. Also, I use one pen to write everything. Two-color annotation, highlighter, etc., doesn’t work for me. To emphasize, I use upper case text or underline.
