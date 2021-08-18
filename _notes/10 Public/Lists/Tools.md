@@ -28,12 +28,12 @@ I like audio books and podcasts. I use [Audible](https://www.audible.in/) and [S
 ### Malayalam Input
 Malayalam is my native language, and I write and chat a lot using that. [Indic Keyboard](https://play.google.com/store/apps/details?id=org.smc.inputmethod.indic&hl=en&gl=US) for Android, [Varamozhi](https://apps.apple.com/us/app/varamozhi/id514987251)  for iPad, and [Keymagic](https://junix.in/keymagic-with-malayalam/) for Mac are my current choice of tools.
 
-**Link: [Mac Malayalam Install]()**
+**Link: [[Mac Malayalam Install]]**
 
 ### Website
 This website is hosted at Github Pages powered by Jekyll. The theme used to build this website is made open source, feel free to fork and use it to build your personal website + digital garden.
 
-**Link: [Jekyll Garden HOW TO]()**
+**Link: [Jekyll Garden HOW TO](https://jekyll-garden.github.io/posts/how-to)**
 
 ### Misc Apps
 - [PCloud](https://my.pcloud.com/) for Storage
