@@ -8,5 +8,5 @@ date: 2021-07-10
 - *Talk to a salesperson about how they can sell the products, not technology. Don't nerd talk to Finance people*
 
 #### Source
--  [[BOOK- Creative Strategy and the Business of Design]]
+-  [[--BOOK- Creative Strategy and the Business of Design]]
 - [[§Leadership]]

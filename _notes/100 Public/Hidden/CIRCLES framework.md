@@ -20,7 +20,7 @@ The CIRCLES method is a problem-solving framework that helps product managers re
 	- Why do we need to solve this problem now?
 	- How we might tackle it. 
 
-- **Step 2. Identify** Identify the ideal customer persona (one or more). [[You can’t build a product that works for everyone]]
+- **Step 2. Identify** Identify the ideal customer persona (one or more). [[--You can’t build a product that works for everyone]]
 
 - **Step 3. Report customer needs** Customers have real needs and problems; our job is to solve them. Using surveys and interactions, the product team should discover user needs and document them. JTBD (Job to Be Done)
 

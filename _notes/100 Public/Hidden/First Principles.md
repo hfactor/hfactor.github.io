@@ -13,8 +13,11 @@ date: 2021-07-24
 			- Ideas & Opinion 
 - Systematically doubting. 
 	- [[Socratic Questioning]]
+- Really makes sense vs. What everyone else is doing
 
 #### Source
 -  [Youtube]([https://www.youtube.com/watch?v=NV3sBlRgzTI](https://www.youtube.com/watch?v=NV3sBlRgzTI))
+- [Why You Should Learn Physics : Musk](https://www.youtube.com/watch?v=DmIIwIP9Omk)
 -  https://jamesclear.com/first-principles
+- 
 - [[§MentalModels]]

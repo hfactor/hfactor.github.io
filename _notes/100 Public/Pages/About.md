@@ -4,7 +4,7 @@ permalink: /about
 
 Hiran Venugopalan is a maker, product and type designer, design mentor, speaker, and husband living in Bangalore, India. With over ten years of experience in designing type, product, brand, and strategies, he uses design to solve problems integrating user needs, requirements of business success, and the possibilities of technology.
 
-Hiran's design and tech career started in 2006 while playing a leadership role in reimagining and reactivating [Swathanthra Malayalam Computing](https://smc.org.in/ "Swathanthra Malayalam Computing") . Designing was something he volunteered as a contribution to FOSS Project, which soon became a freelancing option. A year later, he participated in the [Google Summer of Code](https://developers.google.com/open-source/gsoc/2007 "Google Summer of Code 2007") designing the first Decorative Unicode Malayalam typeface.
+Hiran's design and tech career started in 2006 while playing a leadership role in reimagining and reactivating [Swathanthra Malayalam Computing](https://smc.org.in/ "Swathanthra Malayalam Computing") . Designing was something he volunteered as a contribution to FOSS Project, which soon became a freelancing option. A year later, he participated in the [Google Summer of Code](https://developers.google.com/open-source/gsoc/2007) designing the first Decorative Unicode Malayalam typeface.
 
 In the first four years of his career full-time career, he envisioned and christened one of the first Indian digital marketing agencies and led the technology and design teams until acquisition by a French MNC. Since then, he is working as a Product Designer on tech products related to civic engagement, content publishing, and communication.
 

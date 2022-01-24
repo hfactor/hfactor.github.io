@@ -39,6 +39,6 @@ This website is hosted at Github Pages powered by Jekyll. The theme used to buil
 - [PCloud](https://my.pcloud.com/) for Storage
 - [Dropbox](https://www.dropbox.com/home) for Storage
 - [Flow](https://flowapp.info/) for Pomodoro in Mac
-- [Rectangle](https://rectangleapp.com/) for Window Arrangement (Mac)
+- [Magnet](https://apps.apple.com/us/app/magnet/id441258766?mt=12) for Window Arrangement (Mac)
 - [Grammarly](https://app.grammarly.com/) for grammar checking
 - [Alfred](https://www.alfredapp.com/) for custom actions (Mac)

@@ -1,7 +1,7 @@
 ---
 title: My Obsidian Workflow
 notetype: unfeed
-date: 2021-07-30
+date: 2021-09-09
 ---
 
 ## Introduction
@@ -40,6 +40,6 @@ I use some basic note naming practices to make the Obsidian experience seamless.
 For Fleet notes, I add source type in front of the name (Eg: BOOK- Atomic Habits) for ease of search.
 
 ### Workflow
-1. For every consciously consumed content (book, videos, courses, blog post), I create a fleet note, which contains what I learned from it (including Kindle Highlight). 
+1. I create a fleet note for every consciously consumed content (book, videos, courses, blog post), which contains what I learned from it (including Kindle Highlight).
 2. These fleet notes help me in generating working notes or modify existing working notes. New notes are then moved to the Public or Private folder, and fleets are deleted or stored at the Private folder. 
 3. I try to spend significant time every day going through the graph and reading and thinking about these notes, which might (or might not) lead to a new linking /modification of content. 

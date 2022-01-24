@@ -3,8 +3,15 @@ permalink: /reading
 ---
 
 ### To-Read / Reading Now
-- [Super Thinking](https://amzn.to/2V6rNp9) by Gabriel Weinberg, Lauren McCann
-- [War Of Art](https://amzn.to/3x8JMIl), by Steven Pressfield
+- സോവിയ്റ്റ് സ്റ്റേഷന്‍കടവ്, Murali Krishnan
+- ഡില്‍ഡൊ,ദേവദാസ് വി എം
+- A Philosophy of Software Design by John Ousterhout
+- Continuous Discovery Habits by Teresa Torres
+- Ask Your Developer by Jeff Lawson
+- Listen Like You Mean It by Ximena Vengoechea
+- Super Thinking by Gabriel Weinberg & Lauren McCann
+- [Democracy of Objects](http://openhumanitiespress.org/books/download/Bryant_2011_Democracy-of-Objects.pdf)
+- 
 
 ### 2021 
 - [വിലായത്ത് ബുദ്ധ](https://buybooks.mathrubhumi.com/product/vilayath-budha/), by G R Indugopan
@@ -17,6 +24,18 @@ permalink: /reading
 - [കളക്ടർ ബ്രൊ : ഇനി ഞാൻ തള്ളട്ടെ](https://amzn.to/3BYh28Q) by Prashanth Nair IAS
 - [The Thrilling Adventures of Lovelace and Babbage](https://amzn.to/3ib7nUt), by Sydney Padua ✦
 - പരിണാമം, by M P Narayana Pillai ✦
+- [Super Thinking](https://amzn.to/2V6rNp9) by Gabriel Weinberg, Lauren McCann
+- യക്ഷി, by Malayattoor Ramakrishnan ✦
+- അമ്മിണിപ്പിള്ള വെട്ടുകേസ്, by G R Indugopan
+- [War Of Art](https://amzn.to/3x8JMIl), by Steven Pressfield
+- നീലച്ചടയന്‍, അഖില്‍ ക ✦
+- നമ്മള്‍ ഉമ്മവച്ചത്തിന്റെ ചോര, ടോണി 
+- എഴുത്ത്, മനോജ് കുറൂര്‍
+- കാന്തമലചരിതം, വിഷ്ണു എം സി 
+- The War Of Art by Steven Pressfield
+- Product Roadmaps Relaunched by C. Todd Lombardo,Bruce McCarthy,Evan Ryan,Michael Connors
+- The Psychology of Money by Morgan Housel
+- നിലം പൂത്തുമലർന്ന നാൾ
 
 ### 2020
 - [ഉറുമ്പ്ദേശം](https://www.flipkart.com/urumb-desam/p/itm90dc38292cba6?pid=RBKFWBJ8PQW99GVN) by Vinod Krishna ✦

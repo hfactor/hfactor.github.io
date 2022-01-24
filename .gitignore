@@ -1,9 +1,9 @@
 _site
 .jekyll-cache
-pages/.DS_Store
 pages/tags.md
 _notes/.obsidian
-_notes/00 Inbox
-_notes/20 Private
-_notes/30 Templates
+_notes/000 Inbox
+_notes/200 Private
+_notes/300 Templates
 _notes/.obsidian
+.DS_Store

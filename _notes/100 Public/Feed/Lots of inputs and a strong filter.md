@@ -14,4 +14,4 @@ date: 2021-07-09
 #### Source
 - [[--BLOG- Lots of inputs and a strong filter]]
 - [Blog Post: Lots of inputs and a strong filter](https://www.collaborativefund.com/blog/how-to-read-lots-of-inputs-and-a-strong-filter/)
-- [[§Knowledge Building]]
+- [[§KnowledgeBuilding]]

@@ -1,7 +1,6 @@
 ---
 title: My Bullet Journal Workflow
-notetype: longform
-date: 2021-07-30
+date: 2021-09-09
 ---
 
 For the last three and a half years, I am into Bullet Journaling - a framework for analog journaling, created by [Ryder Carroll](https://twitter.com/rydercarroll) and used by thousands worldwide. It’s not like a planner you get from the store that forces you to follow specific formats. It’s an extensible, customizable, and **_re-hashable_**.

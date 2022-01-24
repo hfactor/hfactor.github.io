@@ -12,5 +12,5 @@ To validate the brand, the Brand gap suggests five criteria. They are distinctiv
 	- **Brand Depth** - number of levels
 
 #### Source
-- [[BOOK- The Brand Gap]]
+- [[--BOOK- The Brand Gap]]
 - [[§Branding]]
