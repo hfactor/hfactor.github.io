@@ -10,4 +10,4 @@ date: 2021-04-02
 #### Source
 - [[--BOOK- How to Take Smart Notes]]
 - [Andy "Notes Should Surprise you"](https://notes.andymatuschak.org/Notes_should_surprise_you)
-- [[§Notetaking]]
+- [[§KnowledgeBuilding]]

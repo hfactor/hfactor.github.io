@@ -16,4 +16,4 @@ date: 2021-07-09
 
 #### Source
 - [[--BOOK- Thinking, Fast and Slow]]
-- [[§MentalModels]]
+- [[§Systems]]

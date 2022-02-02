@@ -20,4 +20,4 @@ date: 2021-07-24
 - [Why You Should Learn Physics : Musk](https://www.youtube.com/watch?v=DmIIwIP9Omk)
 -  https://jamesclear.com/first-principles
 - 
-- [[§MentalModels]]
+- [[§Systems]]

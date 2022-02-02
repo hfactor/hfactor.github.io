@@ -9,4 +9,4 @@ An anti-pattern is a solution to a recurring problem that is usually ineffective
 #### Source
 - http://en.wikipedia.org/wiki/Anti-pattern
 - [[MIND pattern]]
-- [[§Web]]
+- [[§Dev]]

@@ -16,4 +16,4 @@ date: 2021-07-09
 #### Source
 - [Andy on Evergreen notes](https://notes.andymatuschak.org/Evergreen_notes)
 - [https://maggieappleton.com/evergreens](https://maggieappleton.com/evergreens)
-- [[§Notetaking]] #🚧WIP 
+- [[§KnowledgeBuilding]] #🚧WIP 

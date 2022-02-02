@@ -10,4 +10,4 @@ date: 2021-07-10
 #### Source
 - [Evergreen note-writing as fundamental unit of knowledge work](https://notes.andymatuschak.org/z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be)
 - [Stop Giving af](https://joelhooks.com/on-writing-more)
-- [[§Notetaking]]
+- [[§KnowledgeBuilding]]

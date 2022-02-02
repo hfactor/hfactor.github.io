@@ -20,4 +20,4 @@ date: 2021-05-19
 - Notes might change drastically, gets archived or deleted.
 - Knowledge is accumulated
 
-- [[§Notetaking]]
+- [[§KnowledgeBuilding]]

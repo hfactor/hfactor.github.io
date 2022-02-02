@@ -10,4 +10,4 @@ date: 2021-07-19
 
 #### Source
 - https://ux.mailchimp.com/patterns/data
-- [[§A11y]]
+- [[§UX]]

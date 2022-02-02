@@ -9,4 +9,4 @@ Components are portions of reusable code within your system, and they serve as t
 #### Source
 
 - [[BOOK- Design Systems Handbook]]
-- [[§System]]
+- [[§Systems]]

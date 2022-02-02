@@ -14,7 +14,7 @@ date: 2021-07-15
 		- [[Batching]]
 	- Automate
 		- Automate repeating things
-		- Build [[§System]] that makes it easier
+		- Build [[§Systems]] that makes it easier
 		- Text Expansion in Mac
 	- Delegate
 		- You don't have to do 'everything'
@@ -23,4 +23,4 @@ date: 2021-07-15
 
 #### Source
 - [Youtube Video, Ali Abdaal](https://www.youtube.com/watch?v=gcGquCZxsJc)
-- [[§System]]
+- [[§Systems]]

@@ -10,4 +10,4 @@ date: 2021-07-09
 
 #### Source
 - [[--BOOK- How to Take Smart Notes]]
-- [[§Notetaking]]
+- [[§KnowledgeBuilding]]

@@ -14,4 +14,4 @@ date: 2021-07-09
 #### Source
 - [[--BOOK- How to Take Smart Notes]]
 - [Evergreen Notes by Andy Matuschak](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C) 
--[[§Notetaking]]
+-[[§KnowledgeBuilding]]

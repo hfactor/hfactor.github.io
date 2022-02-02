@@ -14,4 +14,4 @@ date: 2021-07-09
 
 #### Source
 - [https://forum.zettelkasten.de/discussion/1039/why-are-uid-necessary-used](https://forum.zettelkasten.de/discussion/1039/why-are-uid-necessary-used)
-- [[§Notetaking]]
+- [[§KnowledgeBuilding]]
