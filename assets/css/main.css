@@ -1693,8 +1693,9 @@ a.tag:hover {
 .input, .textarea, .select select {
   border-color: var(--color-border-light);
   border-radius: 4px;
+  background: var(--color-bg-main);
   color: var(--color-text-main);
-padding-left: 1em; }
+  padding-left: 1em; }
   .input::-moz-placeholder, .textarea::-moz-placeholder, .select select::-moz-placeholder {
     color: var(--color-text-main); }
   .input::-webkit-input-placeholder, .textarea::-webkit-input-placeholder, .select select::-webkit-input-placeholder {
@@ -1792,7 +1793,8 @@ padding-left: 1em; }
     border-radius: 2px;
     font-size: 0.8rem; }
   .is-medium.input, .is-medium.textarea {
-    font-size: 1.25rem; }
+    font-size: 1.25rem;
+   }
   .is-large.input, .is-large.textarea {
     font-size: 1.25rem; }
   .is-fullwidth.input, .is-fullwidth.textarea {
@@ -3896,5 +3898,7 @@ a.tag:hover {
     left: -10px;
   }
 
-
+  input {
+    color:(--color-text-sub) !important;
+  }
   
