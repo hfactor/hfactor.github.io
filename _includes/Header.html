@@ -31,14 +31,13 @@
 
 <nav class="navbar is-transparent" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
-      <a class="navbar-item" href="../index.html">
-        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-right: 12px;">
+      <a class="navbar-item" style="padding-left: 0;"; href="../index.html">
+        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-right: 2px;">
           <rect width="24" height="24" fill=""></rect>
-          <path d="M4.79999 11.1767V5.4592C4.79999 4.19609 5.87447 3.17219 7.19999 3.17219C8.52551 3.17219 9.59999 4.19609 9.59999 5.4592V10.0332H14.16V4.3157C14.16 2.93206 15.348 1.79999 16.8 1.79999C18.1255 1.79999 19.2 2.82388 19.2 4.087V11.1767" stroke="var(--text-main)" stroke-width="1"></path>
-          <path d="M4.79999 12.5832V18.3007C4.79999 19.5639 5.87447 20.5878 7.19999 20.5878C8.52551 20.5878 9.59999 19.5639 9.59999 18.3007V13.7267H14.16V19.4442C14.16 20.8279 15.348 21.96 16.8 21.96C18.1255 21.96 19.2 20.9361 19.2 19.673V12.5832" stroke="var(--text-sub)" stroke-width="1"></path>
+          <path d="M4.79999 11.1767V5.4592C4.79999 4.19609 5.87447 3.17219 7.19999 3.17219C8.52551 3.17219 9.59999 4.19609 9.59999 5.4592V10.0332H14.16V4.3157C14.16 2.93206 15.348 1.79999 16.8 1.79999C18.1255 1.79999 19.2 2.82388 19.2 4.087V11.1767" stroke="var(--color-text-main)" stroke-width="1"></path>
+          <path d="M4.79999 12.5832V18.3007C4.79999 19.5639 5.87447 20.5878 7.19999 20.5878C8.52551 20.5878 9.59999 19.5639 9.59999 18.3007V13.7267H14.16V19.4442C14.16 20.8279 15.348 21.96 16.8 21.96C18.1255 21.96 19.2 20.9361 19.2 19.673V12.5832" stroke="var(--color-text-sub)" stroke-width="1"></path>
           </svg>
-        <h4>Hiran Venugopalan</h4>  
-      </a>
+          <h6> Hiran Venugopalan</h6></a>
       <div class="navbar-item navbar-dark-mode__mobile is-hidden-tablet" onclick="modeSwitcher()">
         <div class="buttons">
           <a class="button is-text">
@@ -57,20 +56,14 @@
     
     <div id="navbarBasicExample" class="navbar-menu">
       <div class="navbar-start">
-        <a href="/about" class="navbar-item">
-          About
-        </a>
         <a href="/notes" class="navbar-item">
           Notes
         </a>
-        <a href="/reading"  class="navbar-item">
-          Reading
+        <a href="/lists"  class="navbar-item">
+          Lists
         </a>
-        <a href="https://hiran.substack.com/" target="_blank"  class="navbar-item">
-          Newsletter
-        </a>
-        <a href="mailto: hiran.v+web@gmail.com"  target="_blank" class="navbar-item">
-          Contact
+        <a href="/about" class="navbar-item">
+          About
         </a>
       </div>
       <div class="navbar-end is-hidden-mobile" onclick="modeSwitcher()" >

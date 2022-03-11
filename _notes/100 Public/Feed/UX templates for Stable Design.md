@@ -4,17 +4,17 @@ notetype: feed
 date: 2021-05-22
 ---
 
-- It is always good to start defining design from top-down, as we need to [[Keep user experience discussions at the product level]] and not restricted to some features.
-- Once we have clarity on a product idea and user goals, we can spend some time planning screens required to achieve the flow, and try to Templatize them. 
-- Here, the intentions are: 
-	- To understand the flow, not the entire user flow, at least a high level. 
-	- This helps us to reduce complexities, combine similar processes, and create a simplified info-architecture. 
-- While doing this, we try to reuse existing templates as much as we can.
-- This is not the final UX strategy but helps us to achieve a better understanding and a stable base design faster. 
-- As a result of this process, we will know the mandatory unique pages that we have to build to attain some goals and templates repeated across the product. 
-- Frequency of template reusage will help on [[Interface Inventory]] building and on creating a [[Scorecards to Pilot Design System Migration]]
+- It is good to define designs top-down, as we need to [[Keep user experience discussions at the product level]].
+- Once we have clarity on design, convert those to UX templates. 
 
+- Similar to [[Implimenting a design System]], consider UX templates as a single source of truth, for repeated user-goals, actions or experiences. 
+- This can help designers to identify goals with similar patterns, reuse similar use journeys, thus reducing product learning curve.
 
-#### Source
+- Also while create initial designs, or base MVP of product, this encourages reuse of existing patterns and templates. 
+- This practice helps designers on building [[Interface Inventory]] and on creating a [[Scorecards to Pilot Design System Migration]]
+
+---
+
+### Source
 - [[BOOK- Design Systems Handbook]]
 - [[Design System Learning]]

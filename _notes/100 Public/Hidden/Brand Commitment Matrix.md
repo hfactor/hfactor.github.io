@@ -19,7 +19,9 @@ date: 2021-05-31
 - i.e., the Purpose should relate to Identity, the offering should focus on aims, and behave should sync with belonging.
 
 
-#### Source
+--- 
+
+### Source
 - [https://howbrandsarebuilt.com/blog/2019/07/08/marty-neumeiers-brand-commitment-matrix-and-how-it-works/](https://howbrandsarebuilt.com/blog/2019/07/08/marty-neumeiers-brand-commitment-matrix-and-how-it-works/)
 - [[BOOK- The Brand Flip]]
 - [[§Branding]]

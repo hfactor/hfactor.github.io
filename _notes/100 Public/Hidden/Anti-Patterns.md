@@ -4,9 +4,11 @@ notetype: unfeed
 date: 2021-07-17
 ---
 
-An anti-pattern is a solution to a recurring problem that is usually ineffective and risks being highly counterproductive.
+- An anti-pattern is a solution to a recurring problem that is usually ineffective and risks being highly counterproductive.
 
-#### Source
-- http://en.wikipedia.org/wiki/Anti-pattern
+--- 
+
+### Source
+- [Wikipedia](http://en.wikipedia.org/wiki/Anti-pattern)
 - [[MIND pattern]]
-- [[§Dev]]
+- [[§Design]]

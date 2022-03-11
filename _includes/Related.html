@@ -73,7 +73,7 @@
           {%- if sameTagCount >= minCommonTags -%}
             <div class="related-group"><a href="{{note.url}}">
               <h4>{{ note.title }}</h4>
-              <p class="related-excerpt">{{ post.content | markdownify | strip_html | truncate: 100 }}</p>
+              <p class="excerpt">{{ post.content | markdownify | strip_html | truncate: 100 }}</p>
             </a></div>
             {%- assign maxRelatedCounter = maxRelatedCounter | plus: 1 -%}
             {%- if maxRelatedCounter >= maxRelated -%}

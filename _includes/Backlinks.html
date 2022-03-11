@@ -60,28 +60,34 @@
 {%- assign display_class = 'show' -%}
 {%- endif -%}
 <div class="related {{display_class}}" id="jekyll-seamless-backlinks">
-    <h5 class="block-title">Links to this note</h5>
+    <h5 class="meta-title centre-title">Links to this note</h5>
     <div class="related-wrapper">
         {%- for note in site.notes -%}
         {%- if note.url != page.url -%}
             {%- if note.content contains wiki_link_title -%}
             <div class="related-group"><a href="{{note.url}}">
-                <h4>{{ note.title }}</h4>
-                <p class="related-excerpt" style="margin: 0px;">{{ note.content | markdownify | strip_html | truncate: 100 }}</p>
+                <h6>{{ note.title }}</h6>
+                <p class="excerpt" style="margin: 0px;">{{ note.content | strip_html | strip | remove: "[[" | remove: "]]" | remove: "-" | escape | truncate: 100 }}</p>
             </a></div>
             {%- endif -%}
         {%- endif -%}
         {%- endfor -%}
+        <!--
+        This code is to show other pages (note under collection) as Backlink. 
+        Disabled as I don't see a need for this right now. 
+
         {%- for note in site.pages -%}
         {%- if note.url != page.url -%}
             {%- if note.content contains wiki_link_title -%}
             <div class="related-group"><a href="{{note.url}}">
-                <h4>{{ note.title }}</h4>
-                <p class="related-excerpt" style="margin: 0px;">{{ note.content | markdownify | strip_html | truncate: 100 }}</p>
+                <h6>{{ note.title }}</h6>
+                <p class="excerpt" style="margin: 0px;">{{ note.content | strip_html | strip | remove: "[[" | remove: "]]" | escape | truncate: 100 }}</p>
             </a></div>
             {%- endif -%}
         {%- endif -%}
         {%- endfor -%}
+
+        -->
     </div>
     <br/>
 </div>

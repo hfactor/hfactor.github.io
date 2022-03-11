@@ -4,14 +4,14 @@ notetype: unfeed
 date: 2021-07-10
 ---
 
-- Make Problems into Opportunities
-	- Understand the problem
-	- Define it clearly, be specific
-	- Question Shouldn't focus on the solution
-	- Instead, it should provide space for solutions
-	- Convert problems to a sentence that starts with *"How might we.."
+- How might We
+	- Recommended for Decision building workshops
+		- rephrasing problems to opportunities before finding the solution. 
+- Once the problem is clear and specific, without focusing on the solution, convert the problem statement to a sentence that starts with *"How might we..".* This provides more clarity on the problem, the opportunity.
 
-#### Source
+--- 
+
+### Source
 - [[-Course- UX Design Process -Coursera]]
 - [[BOOK- The Workshopper Playbook]]
 - [[§Design]]

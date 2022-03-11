@@ -7,7 +7,6 @@ date: 2021-02-02
 - It is better to start with a pilot project instead of doing it for the entire project. 
 
 ### Sweet Spot
-
 - Potential for reusable components/patterns. 
 - Components with High-Business value. 
 - How easy it is to build them. Time frame
@@ -16,7 +15,9 @@ date: 2021-02-02
 - Can be decoupled and built/don't break.
 - Create a Pilot Scorecard (1-10) that shows you which products have a better score, based on these sweet spots.
 
-#### Source
+--- 
+
+### Source
 
 - [Super Friendly Designs](https://superfriendlydesign.systems/articles/design-systems-pilots-scorecards/)
 - [[BOOK- Design Systems Handbook]]

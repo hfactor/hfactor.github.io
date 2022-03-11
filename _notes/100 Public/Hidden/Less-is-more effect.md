@@ -8,6 +8,8 @@ date: 2021-07-17
 - It probability that there is more chance of failure if there is more information included. 
 - See also [[Less-is-better effect]]
 
-#### Source
+--- 
+
+### Source
 - [[--BOOK- Thinking, Fast and Slow]]
 - [[§Psychology]]

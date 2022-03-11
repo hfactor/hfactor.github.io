@@ -20,7 +20,7 @@
 
 
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://https://hiran.in//" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hiran.in//" # the base hostname & protocol for your site, e.g. http://example.com
 
 #######################################################################
 # Settings related to the Header and your About page go here,such as 
@@ -30,9 +30,11 @@ url: "https://https://hiran.in//" # the base hostname & protocol for your site, 
 
 heading: Hiran Venugopalan # Change this 
 copyright:  
-  year: 2021
-  msg: Hiran Venugopalan # This is a mandatory attribute for copyright to be displayed ; If deleting this, edit at footer layout.
-
+  year: © 2022
+  msg: Hiran Venugopalan • Contents under CC-BY-NC # This is a mandatory attribute for copyright to be displayed ; If deleting this, edit at footer layout.
+privatelinks:
+  title: Private or Broken Links
+  msg: The page you're looking for is either not available or private!
 
 #####################################################################
 # Settings related to your preferences go here, such as the
@@ -67,7 +69,7 @@ preferences:
   wrapping:
     enabled: true
   contextmenu:
-    enabled: false #Not supported in NotesGadern theme
+    enabled: false #Not supported in NotesGarden theme
     copylink: 
       enabled: false
     newtab: 
@@ -77,7 +79,7 @@ preferences:
     related: 
       enabled: false
   flashcards:
-    enabled: false #Not supported in NotesGadern theme
+    enabled: false #Not supported in NotesGarden theme
   homepage: 
     enabled: true ##If you need a homepage, change this to true and edit _includes/Homepage.html
 
@@ -89,12 +91,15 @@ plugins:
   - jekyll-feed 
   - jekyll-sitemap 
   - jekyll-tidy
-
+    
 ## Enable _notes Collection 
 collections:
     notes:
       output: true
-      permalink: /notes/:title      
+      permalink: /note/:title  
+    lists:
+      output: true
+      permalink: /list/:title    
 # Disqus Comments
 disqus:
     # Leave shortname blank to disable comments site-wide.
@@ -120,7 +125,7 @@ defaults:
       type: posts
     values:
       layout: Post
-      permalink: /posts/:title
+      permalink: /writing/:title
       content-type: post
   - scope:
       path: ""
@@ -138,7 +143,10 @@ defaults:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
+  - _notes/000 Inbox
+  - _notes/200 Private
+  - _notes/300 Templates
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/

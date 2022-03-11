@@ -9,16 +9,15 @@ date: 2021-07-09
 - [[Types of Notes in Zettelkasten]]	
 - [[Idea of having an Index Note]]
 
-#### Related Topics
-
 - [[Normal note taking fails to connect ideas]]
 - [[Difference between Evergreen and Zettel]]
 - [[Non-linear Note making]]
 - [[Writing the way you think]]
 - [[UID are not needed in Digital Zettelkasten]]
 
+--- 
 
-#### Source
+### Source
 - [[--BOOK- How to Take Smart Notes]] 
 - [Examples](https://medium.com/@rebeccawilliams9941/the-zettelkasten-method-examples-to-help-you-get-started-8f8a44fa9ae6)
 - [Zettel + Obsidian](https://dev.to/yordiverkroost/personal-knowledge-management-with-zettelkasten-and-obsidian-20cj)

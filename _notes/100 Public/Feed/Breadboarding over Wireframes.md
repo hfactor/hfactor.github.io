@@ -4,12 +4,13 @@ notetype: feed
 date: 2021-07-20
 ---
 
-- I prefer Product Managers creating [[Breadboarding]] over Wireframing, as initial product documentation _especially to interact with designers_. Wireframes are too detailed. This Extra detailing kills the possibility of abstraction. 
-- Wireframes provides an output similar to Hi-fidelity UI, that it focuses on-screen level interactions, not workflow or the feature. This leaves designers no room for creativity and makes the discovery of an alternative visual solution complicated. 
-- Also, [[--Overspecification leads to estimation errors]]. 
-- The breadboard and [[Fat-marker method]] give room to designers in subsequent phases of the project. [[Draw over the screenshot]] is another method I prefer as I would urge managers to [[Stop spending time on Wireframing]]
+- I recommend product people to create [[Breadboarding]] over Wireframing, as initial product documentation _especially to interact with designers_. Wireframes are too detailed. This Extra detailing kills the possibility of abstraction. 
+- Also, focus on wireframes are more on on-screen interactions (which provides designers less room for creativity) and not the workflow or the user journey (and this leads to estimation errors as [[--Overspecification leads to estimation errors]])
+- [[Fat-marker method]] and [[Breadboarding]] are better, faster way of idea interactions. If micro detailing is needed, it is better to go for [[Draw over the screenshot]].
+- [[Stop spending time on Wireframing]]
 
+---
 
-#### Source
-- https://basecamp.com/shapeup/1.3-chapter-04#breadboarding 
+### Source
+- [ShapeUp Chapter 4](https://basecamp.com/shapeup/1.3-chapter-04#breadboarding) 
 - [[§Design]]

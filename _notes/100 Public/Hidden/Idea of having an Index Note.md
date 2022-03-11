@@ -9,6 +9,7 @@ date: 2021-07-09
 #### Related Topics
 - [[Types of Notes in Zettelkasten]]
 
-#### Source
-- URLs, Fleets, Metas
+--- 
+
+### Source
 - [[§KnowledgeBuilding]]

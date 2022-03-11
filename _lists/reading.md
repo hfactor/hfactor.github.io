@@ -1,17 +1,17 @@
 ---
-permalink: /reading
+layout: List
+title: Library
+order: 1
 ---
+This List of books I have read, along with my current reads. ✦ are for the must-reads. <a href="/list/antilibrary"><b>See Antilibrary.</b></a>
 
-### To-Read / Reading Now
-- സോവിയ്റ്റ് സ്റ്റേഷന്‍കടവ്, Murali Krishnan
-- ഡില്‍ഡൊ,ദേവദാസ് വി എം
-- A Philosophy of Software Design by John Ousterhout
-- Continuous Discovery Habits by Teresa Torres
-- Ask Your Developer by Jeff Lawson
-- Listen Like You Mean It by Ximena Vengoechea
-- Super Thinking by Gabriel Weinberg & Lauren McCann
-- [Democracy of Objects](http://openhumanitiespress.org/books/download/Bryant_2011_Democracy-of-Objects.pdf)
-- 
+### 2022
+- [Tropic of the Sea](https://amzn.to/3oJK6w0) by Satoshi Kon ✦
+- പയ്യൻ കഥകൾ, വി. കെ. എൻ  ✦
+- [പച്ച മഞ്ഞ ചുവപ്പ്](https://amzn.to/3HIlCKW), ടി. ഡി. രാമകൃഷ്ണൻ 
+- [കാന്തമലചരിതം - ആറോലക്കാടിന്റെ രഹസ്യം](https://amzn.to/3AUWWw1), വിഷ്ണു എം സി
+- [Will](https://amzn.to/3KrhfoD) by Will Smith
+- [The Productivity Project](https://amzn.to/3tKHLm0) by Chris Bailey  (Author)
 
 ### 2021 
 - [വിലായത്ത് ബുദ്ധ](https://buybooks.mathrubhumi.com/product/vilayath-budha/), by G R Indugopan
@@ -28,14 +28,19 @@ permalink: /reading
 - യക്ഷി, by Malayattoor Ramakrishnan ✦
 - അമ്മിണിപ്പിള്ള വെട്ടുകേസ്, by G R Indugopan
 - [War Of Art](https://amzn.to/3x8JMIl), by Steven Pressfield
-- നീലച്ചടയന്‍, അഖില്‍ ക ✦
-- നമ്മള്‍ ഉമ്മവച്ചത്തിന്റെ ചോര, ടോണി 
+- നീലച്ചടയന്‍, അഖില്‍ കെ ✦
+- നമ്മള്‍ ഉമ്മവച്ചത്തിന്റെ ചോര, ടോണി ✦
 - എഴുത്ത്, മനോജ് കുറൂര്‍
-- കാന്തമലചരിതം, വിഷ്ണു എം സി 
-- The War Of Art by Steven Pressfield
-- Product Roadmaps Relaunched by C. Todd Lombardo,Bruce McCarthy,Evan Ryan,Michael Connors
-- The Psychology of Money by Morgan Housel
-- നിലം പൂത്തുമലർന്ന നാൾ
+- [കാന്തമലചരിതം - അഖിനാതെന്റെ നിധി](https://amzn.to/3AUWWw1), വിഷ്ണു എം സി ✦
+- [The War Of Art](https://amzn.to/3ro2kF7) by Steven Pressfield
+- Product Roadmaps Relaunched by C. Todd Lombardo,Bruce McCarthy,Evan Ryan,Michael Connors ✦
+- [The Psychology of Money](https://amzn.to/3L2XiFG) by Morgan Housel
+- നിലം പൂത്തുമലർന്ന നാൾ, മനോജ് കുറൂർ ✦
+- ഡില്‍ഡൊ,ദേവദാസ് വി എം
+- [A Philosophy of Software Design](https://amzn.to/34sLFXY) by John Ousterhout
+- [Listen Like You Mean It](https://amzn.to/3IYuWKV) by Ximena Vengoechea
+- [Democracy of Objects](http://openhumanitiespress.org/books/download/Bryant_2011_Democracy-of-Objects.pdf), by Levi Bryant ✦
+- [It Doesn't Have to Be Crazy at Work ](https://basecamp.com/books/calm) Jason Fried and David Heinemeier Hansson ✦
 
 ### 2020
 - [ഉറുമ്പ്ദേശം](https://www.flipkart.com/urumb-desam/p/itm90dc38292cba6?pid=RBKFWBJ8PQW99GVN) by Vinod Krishna ✦
@@ -44,7 +49,7 @@ permalink: /reading
 - [Caste: The Origins of Our Discontents](https://amzn.to/2KEj9IS) by Isabel Wilkerson ✦
 - [The Workshopper Playbook](https://www.workshopperplaybook.com/book-choice) by Jonathan Courtney
 - [Art Matters](https://amzn.to/2KoRlZ5) by Neil Gaiman
-- [Essentialism: The Disciplined Pursuit of Less ](https://amzn.to/3riMkSq)by Greg McKeown
+- [Essentialism: The Disciplined Pursuit of Less ](https://amzn.to/3riMkSq) by Greg McKeown
 - [അലിംഗം](https://amzn.to/3av2h2c) by Gireesh Kumar. S
 - [കരിക്കോട്ടക്കരി](https://amzn.to/2KhatbI) by Vinoy Thomas ✦
 - [How to Take Smart Notes](https://amzn.to/2Khaqwy) by Sönke Ahrens ✦
@@ -59,5 +64,4 @@ permalink: /reading
 - [Americanah](https://amzn.to/38o7B4D) by Chimamanda Ngozi Adichie
 - [That Will Never Work: The Birth of Netflix and the Amazing Life of an Idea](https://amzn.to/34wG6ok) by Marc Randolph ✦
 
-### 2019
-- WIP
+WIP

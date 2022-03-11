@@ -30,8 +30,6 @@
 
 {%- if site.copyright.msg != nil and site.copyright.msg != empty and site.copyright.msg != null -%}
 <div id="copyright">
-    <p id="copyright-notice">Content under CC BY-SA 4.0. Powered by <a href="https://github.com/Jekyll-Garden/jekyll-garden.github.io">Jekyll Garden</a></p>
+    <p id="copyright-notice"> {{site.copyright.year}} • {{site.copyright.msg}} • <a href="/list/credits">Site Credits</a> </p>
 </div> 
-<script src="/assets/js/modeswitcher.js"></script>
-
 {%- endif -%}

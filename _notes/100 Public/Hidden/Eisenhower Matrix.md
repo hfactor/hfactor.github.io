@@ -4,22 +4,22 @@ notetype: unfeed
 date: 2021-07-11
 ---
 
-- The Eisenhower Matrix - Urgent-Important Matrix
-- Helps in prioritizing tasks by urgency and importance
-- Set Tasks to 4 Quadrants 
-	- Top: Important 
-	- Bottom: Not-Important 
-	- Left - Urgent 
-	- Right - Not-Urgent
+- The Eisenhower Matrix – Urgent-Important Matrix – Helps in prioritising tasks by urgency and importance. 
+- The matrix is divided into four – 
+	- Top being important, 
+	- bottom for not-important,
+	-  left for urgent
+	-  right for not urgent. 
+		- This gives four quadrants NU+I, U+I, U+NI and NU+NI.
+-  **Do** what's in Urgent and Important
+-  **Schedule** Important but not Urgent
+-  **Delegate** not important but urgent 
+-  **ignore** what's not important or urgent.
+- Ankur Warikoo recommended adding a [[Third dimension to Eisenhower Matrix]], and making it practically easier. 
 
-- Then: 
-	- Do Top-Left, as they are Urgent & Important
-	- Schedule Top-Right as they are Important
-	- Delegate Bottom-left, as they are Urgent
-	- Don't Do the bottom-right as they don't value.
+--- 
 
-
-#### Source
-- https://www.eisenhower.me/eisenhower-matrix/
-- https://jamesclear.com/eisenhower-box
+### Source
+- [Eisenhower](https://www.eisenhower.me/eisenhower-matrix/)
+- [JamesClear's Blog](https://jamesclear.com/eisenhower-box)
 - [[§ProblemSolving]]

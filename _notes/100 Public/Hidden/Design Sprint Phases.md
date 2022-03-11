@@ -4,8 +4,6 @@ notetype: unfeed
 date: 2021-02-07
 ---
 
-#### [[Design Sprints]] Phases: 
-
 #### Understand
 - What is the problem we’re trying to solve? 
 - [[Is this a real problem]]? 
@@ -29,8 +27,9 @@ date: 2021-02-07
 - How will we find them and include them in our tests without influencing their choices or feedback?
 
 
-##### Source
+--- 
 
+### Source
 - [[BOOK- Enterprise Design Sprints]] 
-- [[BOOK- Sprint How To Solve Big Problems and Test New Ideas in Just Five Days]]
+- [[BOOK- Sprint]]
 - [[§Design]]
