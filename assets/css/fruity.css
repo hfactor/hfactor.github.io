@@ -65,7 +65,7 @@ html {
 .highlight .nt { color: var(--highlight-color-orange); font-weight: bold } /* Name.Tag */
 .highlight .nv { color: var(--highlight-color-orange) } /* Name.Variable */
 .highlight .ow { color: var(--color-text); } /* Operator.Word */
-.highlight .w { color: var( --highlight-color-whitespace); } /* Text.Whitespace */
+.highlight .w { color: var( --highlight-color-whitespace); } /* Text.Whitespace NOT SURE */
 .highlight .mf { color: var(--color-text-link); font-weight: bold } /* Literal.Number.Float */
 .highlight .mh { color: var(--color-text-link); font-weight: bold } /* Literal.Number.Hex */
 .highlight .mi { color: var(--color-text-link); font-weight: bold } /* Literal.Number.Integer */
