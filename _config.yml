@@ -31,7 +31,7 @@ url: "https://hiran.in//" # the base hostname & protocol for your site, e.g. htt
 heading: Hiran Venugopalan # Change this 
 copyright:  
   year: © 2022
-  msg: Hiran Venugopalan • Contents under CC-BY-NC # This is a mandatory attribute for copyright to be displayed ; If deleting this, edit at footer layout.
+  msg: Contents under CC-BY-NC # This is a mandatory attribute for copyright to be displayed ; If deleting this, edit at footer layout.
 privatelinks:
   title: Private or Broken Links
   msg: The page you're looking for is either not available or private!

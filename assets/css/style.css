@@ -14,8 +14,6 @@ html[data-theme="light"] {
     --color-border-dark: #363636;
     --color-border: #BABCBD;
     --color-border-light: #E5E5E5;
-
-
 }
 
 html[data-theme="dark"] {
@@ -46,7 +44,7 @@ html[data-theme="dark"] {
     html[data-theme="light"] {
         --color-bg-main: #FFFFFF;
         --color-bg-sub: #FAFAFC;
-        --color-text-main: #282832
+        --color-text-main: #282832;
         --color-text-sub: #5D5D67;
         --color-text-link: #2380ED;
         --color-border-dark: #363636;
@@ -56,13 +54,13 @@ html[data-theme="dark"] {
 }
 
 :root {
-    --text-xs: clamp(0.70rem, calc(0.69rem + 0.01vw), 0.7rem);
-    --text-s: clamp(0.94rem, calc(0.82rem + 0.07vw), 0.8rem);
-    --text-m: clamp(1.00rem, calc(0.98rem + 0.12vw), 1rem);
-    --text-l: clamp(1.20rem, calc(1.13rem + 0.33vw), 1.67rem);
-    --text-xl: clamp(1.44rem, calc(1.33rem + 0.56vw), 2.2rem);
-    --text-xxl: clamp(1.7rem, calc(1.55rem + 0.88vw), 3rem);
-    --text-jumbo: clamp(2rem, calc(1.81rem + 1.34vw), 4rem);
+    --text-xs: clamp(0.70rem, calc(0.79rem + -0.06vw), 0.78rem);
+    --text-s: clamp(0.94rem, calc(0.94rem + 0.00vw), 0.94rem);
+    --text-m: clamp(1.13rem, calc(1.11rem + 0.09vw), 1.25rem);
+    --text-l: clamp(1.35rem, calc(1.30rem + 0.23vw), 1.67rem);
+    --text-xl: clamp(1.62rem, calc(1.53rem + 0.43vw), 2.22rem);
+    --text-xxl: clamp(1.94rem, calc(1.80rem + 0.73vw), 2.96rem);
+    --text-jumbo: clamp(2.33rem, calc(2.10rem + 1.15vw), 4rem);
     --text-weight-bold: 600;
     --text-weight-normal: 400;
     --text-leading-wide: 1.6em;
@@ -219,6 +217,7 @@ main {
     text-transform: uppercase;
     color: var(--color-text-sub);
     letter-spacing: 0.2em;
+    padding: 0;
 }
 
 .meta-title a {
