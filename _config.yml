@@ -23,7 +23,7 @@ url: "https://hiran.in/" # the base hostname & protocol for your site, e.g. http
 
 # If you want to install this jekyll in a subpath (eg /digitalgarden) set it here. 
 # Else keep it Empty (DON'T PUT /; Keep it empty)
-baseurl: "/digitalgarden"
+baseurl: ""
 
 # Website Header, Description, Footer year and text. 
 # If you are deleting this, make sure you remove it from HTML files too 

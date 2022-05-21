@@ -1,3 +1,6 @@
+---
+---
+
 /* 
 Copied from https://github.com/derekkedziora/jekyll-demo/blob/master/scripts/mode-switcher.js
 https://github.com/derekkedziora/jekyll-demo
@@ -7,25 +10,29 @@ Creative Commons Attribution 4.0 International License
 let systemInitiatedDark = window.matchMedia("(prefers-color-scheme: dark)"); 
 let theme = sessionStorage.getItem('theme');
 
+const iconSun = "{{ site.baseurl }}/assets/img/sun.svg";
+const iconMoon = "{{ site.baseurl }}/assets/img/moon.svg";
+
+
 function changeIconImgSrc(src) {
 	document.getElementById("theme-toggle-img").src = src;
 	document.getElementById("theme-toggle-img--mobile").src = src;
 }
 
 if (systemInitiatedDark.matches) {
-	changeIconImgSrc("./assets/img/moon.svg");
+	changeIconImgSrc(iconMoon);
 } else {
-	changeIconImgSrc("./assets/img/sun.svg");
+	changeIconImgSrc(iconSun);
 }
 
 function prefersColorTest(systemInitiatedDark) {
   if (systemInitiatedDark.matches) {
   	document.documentElement.setAttribute('data-theme', 'dark');		
-   	changeIconImgSrc("./assets/img/moon.svg");
+   	changeIconImgSrc(iconMoon);
    	sessionStorage.setItem('theme', '');
   } else {
   	document.documentElement.setAttribute('data-theme', 'light');
-    changeIconImgSrc("./assets/img/sun.svg");
+    changeIconImgSrc(iconSun);
     sessionStorage.setItem('theme', '');
   }
 }
@@ -37,28 +44,28 @@ function modeSwitcher() {
 	if (theme === "dark") {
 		document.documentElement.setAttribute('data-theme', 'light');
 		sessionStorage.setItem('theme', 'light');
-		changeIconImgSrc("./assets/img/sun.svg");
+		changeIconImgSrc(iconSun);
 	}	else if (theme === "light") {
 		document.documentElement.setAttribute('data-theme', 'dark');
 		sessionStorage.setItem('theme', 'dark');
-		changeIconImgSrc("./assets/img/moon.svg");
+		changeIconImgSrc(iconMoon);
 	} else if (systemInitiatedDark.matches) {	
 		document.documentElement.setAttribute('data-theme', 'light');
 		sessionStorage.setItem('theme', 'light');
-		changeIconImgSrc("./assets/img/sun.svg");
+		changeIconImgSrc(iconSun);
 	} else {
 		document.documentElement.setAttribute('data-theme', 'dark');
 		sessionStorage.setItem('theme', 'dark');
-		changeIconImgSrc("./assets/img/moon.svg");
+		changeIconImgSrc(iconMoon);
 	}
 }
 
 if (theme === "dark") {
 	document.documentElement.setAttribute('data-theme', 'dark');
 	sessionStorage.setItem('theme', 'dark');
-	changeIconImgSrc("./assets/img/moon.svg");
+	changeIconImgSrc(iconMoon);
 } else if (theme === "light") {
 	document.documentElement.setAttribute('data-theme', 'light');
 	sessionStorage.setItem('theme', 'light');
-	changeIconImgSrc("./assets/img/sun.svg");
+	changeIconImgSrc(iconSun);
 }

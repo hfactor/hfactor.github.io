@@ -3,9 +3,7 @@ title: Look for rabbit holes
 feed: show
 date: 2021-07-21
 ---
-
 - Finding solutions are usually a fast-moving, fast-paced process. It might not be a 'deeper' exploration, but a 'broader'. 
-
 - Once we have solutions, it's essential to slow down and critically go through each step to see if we are missing anything. One way to analyze the solution is to walk through a use case in slow motion. We need to find edge cases and validate our assumptions, learning curve, and consistency of experience. 
 
 ## How I do 

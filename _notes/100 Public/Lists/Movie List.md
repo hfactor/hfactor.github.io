@@ -5,20 +5,17 @@ date: 2022-01-01
 permalink: /list/movies
 format: list
 ---
-An attempt to list movies I saw. It's a practice I tried many times, over different tools, but failed. 
+An attempt to list **good and better** (<2.5 in scale of 5) movies I saw. I started this page as a practice to log movies, but that's something I always fail to maintain!
 
 ### 2022
-- Writer, Tamil, 2021
-- BroDady, Malayalam, 2022
-- Pushpa, Telugu, 2022
-- Atrangi Re, Hindi, 2021
-- Hridayam, Malayalam, 2022
+- Super Sharanya, Malayalam, 2022
+- Bhoothakaalam, Malayalam, 2022
 - Mahaan, Tamil, 2022
-
-### 2021
-- Minnal Murali, Malayalam, 2021
-- Don't Look Up, English, 2021
-- Madhuram, Malayalam, 2021
-- Star, Malayalam, 2021
-
-**WIP**
+- Kadaisi Vivasayi, Tamil, 2022
+- Bheeshma Parvam, Malayalam, 2022
+- Pada, Malayalam, 2022
+- Salute, Malayalam, 2022
+- KGF 2, Kannada, 2022
+- Puzhu, Malayalam, 2022
+- Saani Kaayidham, Tamil, 2022
+- Kadaseela Biriyani, Tamil, 2021
