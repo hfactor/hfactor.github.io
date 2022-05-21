@@ -1,7 +1,7 @@
 ---
 layout: Post
 permalink: /notes
-listmode: notelist
+feedformat: card
 title: Working Notes
 ---
 

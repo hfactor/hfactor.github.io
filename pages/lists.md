@@ -2,7 +2,7 @@
 layout: Post
 permalink: /lists
 title: List of Lists
-listmode: list
+feedformat: row
 ---
 
 LOL. List of Lists ;)

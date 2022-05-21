@@ -29,8 +29,9 @@
 *
 {%- endcomment -%}
 
-<!-- Case 1 : /Notes -->
-{%- if page.listmode == "notelist" -%}
+<!--Layout CARD-->
+<!--Default Design for /Notes-->
+{%- if page.feedformat == "card" -%}
     {%- if site.preferences.search.enabled -%}
         <!-- search bar -->
         <div class="block">
@@ -58,34 +59,10 @@
     </div>
 {%-endif -%}
 
-    <!-- 
-        Similarly, we can build MOC here. feed=MOC & dont show page content at post.html 
-        UI can be like lists page or list/page
-    -->
-
-
-<!-- Case 2 : /Writing -->
-{%- if page.listmode == "writinglist" -%}
-    <div class="block">
-    {% for item in site.posts %}
-        <div class="list-feed">
-                <a href="{{item.url}}" style="text-decoration: none;display: flex;justify-content: space-between;flex-direction: row;width: 100%;">
-                    <div class="writinglist-title">
-                        <h6>{{ item.title }}  </h6>
-                    </div>
-                    <div class="writinglist-date is-hidden-mobile">
-                       <h6> {{item.date | date: "%-d %B %Y"}} </h6>
-                    </div>
-                   
-                </a>
-           
-        </div>
-    {%- endfor -%}
-    </div>
-{%-endif -%}
-
-<!-- Case 4 : /Lists -->
-{%- if page.listmode == "list" -%}
+<!--Layout CARD-->
+<!--Default Design for /Lists-->
+<!-- The same can be used for MOC, if needed-->
+{%- if page.feedformat == "row" -%}
 <div class="block">
     {% assign list_items = site.lists | sort:"order" %}
     {% for list_items in list_items %}
