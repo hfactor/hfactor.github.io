@@ -1,6 +1,6 @@
 ---
 title: Design early to fail faster
-notetype: feed
+feed: show
 date: 2021-07-20
 ---
 

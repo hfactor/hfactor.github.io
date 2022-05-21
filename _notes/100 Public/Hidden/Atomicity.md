@@ -1,6 +1,6 @@
 ---
 title: Atomicity
-notetype: unfeed
+feed: hide
 date: 2021-02-05
 ---
 

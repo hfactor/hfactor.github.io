@@ -1,6 +1,6 @@
 ---
 title: Design Sprint Phases
-notetype: unfeed
+feed: hide
 date: 2021-02-07
 ---
 

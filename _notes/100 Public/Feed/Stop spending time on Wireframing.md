@@ -1,6 +1,6 @@
 ---
 title: Stop spending time on Wireframing
-notetype: feed
+feed: show
 date: 2022-01-20
 ---
 - While Wireframing using pen and paper is an interesting way of communication that helps in building clarity over the idea – it is time-consuming for non-designers. 

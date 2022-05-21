@@ -1,6 +1,6 @@
 ---
 title: Making notes is the easiest part
-notetype: feed
+feed: show
 date: 2021-07-09
 ---
 

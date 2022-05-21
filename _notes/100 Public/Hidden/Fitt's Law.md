@@ -1,6 +1,6 @@
 ---
 title: Fitt's Law
-notetype: unfeed
+feed: hide
 date: 2021-07-24
 ---
 

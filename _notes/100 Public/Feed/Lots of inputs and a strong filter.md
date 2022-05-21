@@ -1,6 +1,6 @@
 ---
 title: Lots of inputs and a strong filter
-notetype: feed
+feed: show
 date: 2021-07-09
 ---
 

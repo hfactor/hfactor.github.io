@@ -1,6 +1,6 @@
 ---
 title: Lettering Calligraphy and Typography are different
-notetype: feed
+feed: show
 date: 2021-02-01
 ---
 

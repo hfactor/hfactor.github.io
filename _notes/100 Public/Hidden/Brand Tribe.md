@@ -1,6 +1,6 @@
 ---
 title: Brand Tribe
-notetype: unfeed
+feed: hide
 date: 2021-07-17
 ---
 

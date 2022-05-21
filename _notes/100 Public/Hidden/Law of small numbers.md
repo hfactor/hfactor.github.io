@@ -1,6 +1,6 @@
 ---
 title: Law of small numbers
-notetype: unfeed
+feed: hide
 date: 2021-07-09
 ---
 

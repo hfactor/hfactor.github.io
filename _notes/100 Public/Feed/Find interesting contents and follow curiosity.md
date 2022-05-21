@@ -1,6 +1,6 @@
 ---
 title: Find interesting content and follow curiosity
-notetype: feed
+feed: show
 date: 2021-07-09
 ---
 

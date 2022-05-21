@@ -1,6 +1,6 @@
 ---
 title: Pareto Principle
-notetype: unfeed
+feed: hide
 date: 2021-07-19
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Figma
-notetype: unfeed
+feed: hide
 date: 2021-04-02
 ---
 

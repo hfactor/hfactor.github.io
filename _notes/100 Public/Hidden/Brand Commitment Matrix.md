@@ -1,6 +1,6 @@
 ---
 title: Brand Commitment Matrix
-notetype: unfeed
+feed: hide
 date: 2021-05-31
 ---
 

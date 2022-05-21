@@ -1,6 +1,6 @@
 ---
 title: Bullet Journaling
-notetype: unfeed
+feed: hide
 date: 2021-07-09
 ---
 

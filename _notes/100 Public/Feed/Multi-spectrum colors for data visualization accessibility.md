@@ -1,6 +1,6 @@
 ---
 title: Multi-spectrum colors for data visualization accessibility
-notetype: feed
+feed: show
 date: 2021-07-19
 ---
 

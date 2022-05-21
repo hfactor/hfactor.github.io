@@ -1,6 +1,6 @@
 ---
 title: Better Thinking over Better Note-taking
-notetype: feed
+feed: show
 date: 2021-07-09
 ---
 

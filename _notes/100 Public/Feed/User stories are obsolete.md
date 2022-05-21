@@ -1,6 +1,6 @@
 ---
 title: User stories are obsolete
-notetype: feed
+feed: show
 date: 2021-05-20
 ---
 

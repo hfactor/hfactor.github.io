@@ -1,6 +1,6 @@
 ---
 title: Draw over the screenshot
-notetype: unfeed
+feed: hide
 date: 2021-07-21
 ---
 

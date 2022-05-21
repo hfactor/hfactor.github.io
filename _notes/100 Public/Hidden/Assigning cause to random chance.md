@@ -1,6 +1,6 @@
 ---
 title: Assigning cause to random chance
-notetype: unfeed
+feed: hide
 date: 2021-07-11
 ---
 

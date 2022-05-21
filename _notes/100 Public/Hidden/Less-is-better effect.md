@@ -1,6 +1,6 @@
 ---
 title: Less-is-better effect
-notetype: unfeed
+feed: hide
 date: 2021-07-17
 ---
 

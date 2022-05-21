@@ -1,6 +1,6 @@
 ---
 title: Changelogs as a consistent communication tool
-notetype: feed
+feed: show
 date: 2021-07-20
 ---
 

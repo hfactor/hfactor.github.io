@@ -1,6 +1,6 @@
 ---
 title: Goal-Gradient Effect
-notetype: unfeed
+feed: hide
 date: 2021-07-24
 ---
 - The tendency to approach a goal increases with proximity to the goal. 

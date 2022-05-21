@@ -1,6 +1,6 @@
 ---
 title: Two Systems of Thinking
-notetype: unfeed
+feed: hide
 date: 2021-07-09
 ---
 

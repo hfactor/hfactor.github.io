@@ -1,6 +1,6 @@
 ---
 title: Use the language the others are speaking
-notetype: feed
+feed: show
 date: 2021-07-10
 ---
 

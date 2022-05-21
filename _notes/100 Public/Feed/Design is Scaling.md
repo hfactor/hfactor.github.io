@@ -1,6 +1,6 @@
 ---
 title: Design is Scaling
-notetype: feed
+feed: show
 date: 2021-02-06
 ---
 

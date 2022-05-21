@@ -1,6 +1,6 @@
 ---
 title: Occam’s Razor
-notetype: unfeed
+feed: hide
 date: 2021-07-24
 ---
 

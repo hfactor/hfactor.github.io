@@ -1,6 +1,6 @@
 ---
 title: Writing the way you think
-notetype: feed
+feed: show
 date: 2021-07-10
 ---
 

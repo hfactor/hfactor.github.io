@@ -1,6 +1,6 @@
 ---
 title: Lean UX and Design Sprint
-notetype: feed
+feed: show
 date: 2021-02-04
 ---
 

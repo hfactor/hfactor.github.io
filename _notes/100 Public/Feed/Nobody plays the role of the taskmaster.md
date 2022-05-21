@@ -1,6 +1,6 @@
 ---
 title: Nobody plays the role of the taskmaster
-notetype: feed
+feed: show
 date: 2021-04-12
 ---
 

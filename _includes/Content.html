@@ -112,16 +112,16 @@
                 {%- assign toggleLabel = "" -%}
                 {%- assign sideNoteNum = "" -%}
                 {%- if url contains "lsn" -%}
-                    {%- assign noteType = "sn-left" -%}
+                    {%- assign feed = "sn-left" -%}
                     {%- assign sideNoteNum = "sidenote-number" -%}
                 {%- elsif url contains "rsn" -%}
-                    {%- assign noteType = "sn-right" -%}
+                    {%- assign feed = "sn-right" -%}
                     {%- assign sideNoteNum = "sidenote-number" -%}
                 {%- elsif url contains "lmn" -%}
-                    {%- assign noteType = "mn-left" -%}
+                    {%- assign feed = "mn-left" -%}
                     {%- assign toggleLabel = "&#8853;" -%}
                 {%- elsif url contains "rmn" -%}
-                    {%- assign noteType = "mn-right" -%}
+                    {%- assign feed = "mn-right" -%}
                     {%- assign toggleLabel = "&#8853;" -%}
                 {%- endif -%}
 
@@ -130,11 +130,11 @@
                     {%- if site.preferences.sidenotes.enabled -%}
                         {%- assign post = site.posts | where: 'title',title -%}
                         {%- assign excerpt = post[0].content | strip_html | truncate: 280 -%}
-                        {%- assign link_text = '<label for="' | append: url | append: '-' | append: sideNoteCounter | append: '" class="margin-toggle ' | append: sideNoteNum | append: ' ">' | append: toggleLabel | append: '</label><input type="checkbox" id="' | append: url | append: '-' | append: sideNoteCounter | append: '" class="margin-toggle"/><span class="' | append: noteType | append: '"><a href="' | append: post[0].url  | append: '"> <span style="background-color: #ffffc4; color: #555;">Transclusion</span><br/><b>' | append: title | append: '</b><br/>' | append: excerpt | append: '</a></span>' -%}
+                        {%- assign link_text = '<label for="' | append: url | append: '-' | append: sideNoteCounter | append: '" class="margin-toggle ' | append: sideNoteNum | append: ' ">' | append: toggleLabel | append: '</label><input type="checkbox" id="' | append: url | append: '-' | append: sideNoteCounter | append: '" class="margin-toggle"/><span class="' | append: feed | append: '"><a href="' | append: post[0].url  | append: '"> <span style="background-color: #ffffc4; color: #555;">Transclusion</span><br/><b>' | append: title | append: '</b><br/>' | append: excerpt | append: '</a></span>' -%}
                     {%- endif -%}
                 {%- else -%}
                     {%- if site.preferences.sidenotes.enabled -%}
-                        {%- assign link_text = '<label for="' | append: url | append: '-' | append: sideNoteCounter | append: '" class="margin-toggle ' | append: sideNoteNum | append: ' ">' | append: toggleLabel | append: '</label><input type="checkbox" id="' | append: url | append: '-' | append: sideNoteCounter | append: '" class="margin-toggle"/><span class="' | append: noteType | append: '">' | append: title | append: '</span>' -%}
+                        {%- assign link_text = '<label for="' | append: url | append: '-' | append: sideNoteCounter | append: '" class="margin-toggle ' | append: sideNoteNum | append: ' ">' | append: toggleLabel | append: '</label><input type="checkbox" id="' | append: url | append: '-' | append: sideNoteCounter | append: '" class="margin-toggle"/><span class="' | append: feed | append: '">' | append: title | append: '</span>' -%}
                     {%- endif -%}
                 {%- endif -%}
 

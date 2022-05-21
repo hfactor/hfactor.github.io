@@ -1,6 +1,6 @@
 ---
 title: Design Debt as a Performance Indicator
-notetype: feed
+feed: show
 date: 2021-07-10
 ---
 

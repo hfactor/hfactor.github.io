@@ -1,6 +1,6 @@
 ---
 title: Von Restorff Effect
-notetype: unfeed
+feed: hide
 date: 2021-07-24
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Design sprints aren’t just for designers.
-notetype: feed
+feed: show
 date: 2021-02-05
 ---
 

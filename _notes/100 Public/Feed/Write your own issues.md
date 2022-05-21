@@ -1,6 +1,6 @@
 ---
 title: Write your own issues
-notetype: feed
+feed: show
 date: 2021-07-20
 ---
 

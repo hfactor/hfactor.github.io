@@ -1,6 +1,6 @@
 ---
 title: Law of Pragnanz
-notetype: unfeed
+feed: hide
 date: 2021-07-24
 ---
 

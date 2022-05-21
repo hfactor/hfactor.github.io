@@ -1,6 +1,6 @@
 ---
 title: Slam it shut and move on
-notetype: feed
+feed: show
 date: 2021-07-09
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Jakob’s Law
-notetype: unfeed
+feed: hide
 date: 2021-07-24
 ---
 - As users spend most of their time on **other sites**, they prefer your site to work the same way as all the other sites they already know. 

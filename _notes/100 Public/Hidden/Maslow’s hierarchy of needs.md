@@ -1,6 +1,6 @@
 ---
 title: Maslow’s hierarchy of needs
-notetype: unfeed
+feed: hide
 date: 2021-02-05
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: How might We
-notetype: unfeed
+feed: hide
 date: 2021-07-10
 ---
 

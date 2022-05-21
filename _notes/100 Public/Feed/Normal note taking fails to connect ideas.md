@@ -1,6 +1,6 @@
 ---
 title: Normal note taking fails to connect ideas
-notetype: feed
+feed: show
 date: 2021-04-02
 ---
 

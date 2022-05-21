@@ -1,6 +1,6 @@
 ---
 title: Overweighting the Recent
-notetype: unfeed
+feed: hide
 date: 2021-07-17
 ---
 

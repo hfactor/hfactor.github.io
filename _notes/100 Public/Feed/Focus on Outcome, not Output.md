@@ -1,6 +1,6 @@
 ---
 title: Focus on Outcome, not Output
-notetype: feed
+feed: show
 date: 2021-07-22
 ---
 

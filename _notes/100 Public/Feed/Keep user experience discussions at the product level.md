@@ -1,6 +1,6 @@
 ---
 title: Keep user experience discussions at the product level
-notetype: feed
+feed: show
 date: 2021-07-20
 ---
 

@@ -1,6 +1,6 @@
 ---
 title : Difference between Evergreen and Zettel
-notetype : feed
+feed: show
 date: 2021-05-19
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Never brainstorm for a topic
-notetype: feed
+feed: show
 date: 2021-07-09
 ---
 

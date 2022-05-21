@@ -1,6 +1,6 @@
 ---
 title: UID are not needed in Digital Zettelkasten
-notetype: feed
+feed: show
 date: 2021-07-09
 ---
 

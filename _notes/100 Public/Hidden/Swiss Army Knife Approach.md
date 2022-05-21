@@ -1,6 +1,6 @@
 ---
 title: Swiss Army Knife Approach
-notetype: concept
+feed: concept
 date: 2021-07-24
 ---
 

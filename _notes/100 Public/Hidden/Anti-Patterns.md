@@ -1,6 +1,6 @@
 ---
 title: Anti-Patterns
-notetype: unfeed
+feed: hide
 date: 2021-07-17
 ---
 

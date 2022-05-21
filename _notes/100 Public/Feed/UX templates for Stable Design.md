@@ -1,6 +1,6 @@
 ---
 title: UX templates for Stable Design
-notetype: feed
+feed: show
 date: 2021-05-22
 ---
 

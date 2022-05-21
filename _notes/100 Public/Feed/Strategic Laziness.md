@@ -1,6 +1,6 @@
 ---
 title: Strategic Laziness
-notetype: feed
+feed: show
 date: 2021-07-15
 ---
 

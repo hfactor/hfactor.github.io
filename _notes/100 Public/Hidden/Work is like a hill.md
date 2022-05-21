@@ -1,6 +1,6 @@
 ---
 title: Work is like a hill
-notetype: unfeed
+feed: hide
 date: 2021-07-21
 ---
 

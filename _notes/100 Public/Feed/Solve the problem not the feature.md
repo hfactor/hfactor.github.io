@@ -1,6 +1,6 @@
 ---
 title: Solve the problem not the feature
-notetype: feed
+feed: show
 date: 2021-07-20
 ---
 

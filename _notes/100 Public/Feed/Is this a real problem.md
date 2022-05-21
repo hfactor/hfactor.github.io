@@ -1,6 +1,6 @@
 ---
 title: Is this a real problem
-notetype: feed
+feed: show
 date: 2021-06-15
 ---
 - There are two main definitions for the problem, 

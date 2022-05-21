@@ -1,6 +1,6 @@
 ---
 title : Good Designers Redesign, Great Designers Realign
-notetype : working
+feed : hide
 date: 2021-07-22
 ---
 

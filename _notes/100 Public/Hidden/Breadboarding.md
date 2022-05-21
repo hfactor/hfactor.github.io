@@ -1,6 +1,6 @@
 ---
 title: Breadboarding
-notetype: unfeed
+feed: hide
 date: 2021-07-20
 ---
 

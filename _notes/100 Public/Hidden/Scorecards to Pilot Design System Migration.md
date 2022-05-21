@@ -1,6 +1,6 @@
 ---
 title: Scorecards to Pilot Design System Migration
-notetype: unfeed
+feed: hide
 date: 2021-02-02
 ---
 - Do [[Interface Inventory]], and find the frequency of usage of common components. Apply [[Pareto Principle]]

@@ -44,7 +44,7 @@
     <div class="related-wrapper">
     {% assign note_items = site.notes | sort: "date" | reverse %}
     {% for note_items in note_items %}
-        {%- if note_items.notetype == "feed" -%}
+        {%- if note_items.feed == "show" -%}
                 <div class="notelist-feed">
                     <a href="{{note_items.url}}">
                         <h6>{{ note_items.title }}</h6>
@@ -59,7 +59,7 @@
 {%-endif -%}
 
     <!-- 
-        Similarly, we can build MOC here. notetype=MOC & dont show page content at post.html 
+        Similarly, we can build MOC here. feed=MOC & dont show page content at post.html 
         UI can be like lists page or list/page
     -->
 

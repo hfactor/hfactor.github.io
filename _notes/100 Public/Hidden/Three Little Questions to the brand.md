@@ -1,6 +1,6 @@
 ---
 title: Three Little Questions to the brand
-notetype: unfeed
+feed: hide
 date: 2021-07-24
 ---
 

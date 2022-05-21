@@ -1,6 +1,6 @@
 ---
 title: What you see is all there is
-notetype: unfeed
+feed: hide
 date: 2021-07-09
 ---
 - WYSIATI

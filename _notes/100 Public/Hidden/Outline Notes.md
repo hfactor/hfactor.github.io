@@ -1,6 +1,6 @@
 ---
 title: Outline Notes
-notetype: unfeed
+feed: hide
 date: 2021-07-10
 ---
 

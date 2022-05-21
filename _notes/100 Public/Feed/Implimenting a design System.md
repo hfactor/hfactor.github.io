@@ -1,6 +1,6 @@
 ---
 title: Implementing a design System
-notetype: feed
+feed: show
 date: 2021-02-06
 ---
  
