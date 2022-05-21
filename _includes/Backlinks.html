@@ -65,7 +65,7 @@
         {%- for note in site.notes -%}
         {%- if note.url != page.url -%}
             {%- if note.content contains wiki_link_title -%}
-            <div class="related-group"><a href="{{note.url}}">
+            <div class="related-group"><a href="{{ site.baseurl }}{{note.url}}">
                 <h6>{{ note.title }}</h6>
                 <p class="excerpt" style="margin: 0px; color: var(--color-text-main) !important;">{{ note.content | strip_html | strip | remove: "[[" | remove: "]]" | remove: "-" | escape | truncate: 100 }}</p>
             </a></div>

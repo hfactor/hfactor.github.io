@@ -18,68 +18,39 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+# URL is the base hostname with protocol for your site, eg http://example.com
+url: "https://hiran.in/" # the base hostname & protocol for your site, e.g. http://example.com
 
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://hiran.in//" # the base hostname & protocol for your site, e.g. http://example.com
+# If you want to install this jekyll in a subpath (eg /digitalgarden) set it here. 
+# Else keep it Empty (DON'T PUT /; Keep it empty)
+baseurl: ""
 
-#######################################################################
-# Settings related to the Header and your About page go here,such as 
-# your name, site name, profile pic, site tagline, your bio, 
-# your social media links etc
-#######################################################################
-
+# Website Header, Description, Footer year and text. 
+# If you are deleting this, make sure you remove it from HTML files too 
 heading: Hiran Venugopalan # Change this 
+content: Product and Type Designer | UI UX | Design Mentoring
 copyright:  
   year: © 2022
-  msg: Contents under CC-BY-NC # This is a mandatory attribute for copyright to be displayed ; If deleting this, edit at footer layout.
+  msg: Contents under CC-BY-NC 
+
+# Set title and content for private & broken link tooltop
 privatelinks:
   title: Private or Broken Links
   msg: The page you're looking for is either not available or private!
 
-#####################################################################
-# Settings related to your preferences go here, such as the
-# search results, wiki-style-links, sidenotes, marginnotes, 
-# transclusion, pagepreview, backlinks, related posts, highlighting, 
-# context menu, flashcards, sliding window, wrapping
-#####################################################################
+# Theme level preferences
+# To enable set "enabled : true" else, use "enabled:false"
 preferences:
   search:
     enabled: true
-    shortcut_hint: 
-        enabled: true
-  wiki_style_link: # This property handles wiki style links '[['
+  wiki_style_link: 
     enabled: true
-  sidenotes: 
+  pagepreview: 
     enabled: true
-  transclusion:
-    enabled: true
-  image:
-    enabled: true
-  pagepreview:
-    enabled: true
-  highlighting:
-    enabled: true
-    color: DAEDFF # Takes hexadecimal and basic names like white, red, etc. 
-                  # Do not add '#'(the pound symbol) before the hexadecimal number.
-                  # In yml, it is considered as a comment
   backlinks:
     enabled: true
-  related:
-    enabled: false # This enables the posts that are related to each other by tags
-  wrapping:
-    enabled: true
-  contextmenu:
-    enabled: false #Not supported in NotesGarden theme
-    copylink: 
-      enabled: false
-    newtab: 
-      enabled: false
-    backlinks: 
-      enabled: false
-    related: 
-      enabled: false
-  flashcards:
-    enabled: false #Not supported in NotesGarden theme
+# To enable a homepage, change the value to true and add content to _includes/Homepage.html
+# If enable : false, notes feed will be as homepage. 
   homepage: 
     enabled: true ##If you need a homepage, change this to true and edit _includes/Homepage.html
 
@@ -92,20 +63,12 @@ plugins:
   - jekyll-sitemap 
   - jekyll-tidy
     
-## Enable _notes Collection 
+## Enable Collections
+## Suggested collects are "notes" "lists" and "blog"
 collections:
     notes:
       output: true
-      permalink: /note/:title  
-    lists:
-      output: true
-      permalink: /list/:title    
-# Disqus Comments
-disqus:
-    # Leave shortname blank to disable comments site-wide.
-    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    ## Disabled for NotesGarden Theme. 
-    shortname: 
+      permalink: /note/:title
 
 markdown: kramdown
 
@@ -125,7 +88,7 @@ defaults:
       type: posts
     values:
       layout: Post
-      permalink: /writing/:title
+      permalink: /post/:title
       content-type: post
   - scope:
       path: ""
