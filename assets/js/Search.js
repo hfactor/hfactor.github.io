@@ -24,7 +24,7 @@
  * 
  * 
  * File: Search.js
- * Author@Raghuveer S
+ * Author: Raghuveer S
  * 
  * Preface: I take loads of inspiration from just-the-docs to implement this.
  * This can be easily ported to suit your needs. There is very little project specific stuff
@@ -44,7 +44,7 @@
  *      values, layout, colors etc by tinkering with the correponding parts of the code.
  *********************************************************************************************/
 
-(function (sj) {
+ (function (sj) {
     "use strict";
 
     sj.addEvent = function(el, type, handler) {
@@ -72,7 +72,7 @@
     }
 
     function searchInit() {
-        var dataUrl = "/assets/js/SearchData.json";
+        var dataUrl = "SearchData.json";
 
         getSearchData(dataUrl)
             .then(function(responseText) {
