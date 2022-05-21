@@ -9,7 +9,6 @@ date: 2021-07-09
 - The goal shouldn't be to take notes, but should be to think effectively.
 
 ---
-
 ### Source
 - [[--BOOK- How to Take Smart Notes]]
 - [[§KnowledgeBuilding]]

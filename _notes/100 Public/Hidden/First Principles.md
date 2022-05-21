@@ -11,7 +11,6 @@ date: 2021-07-24
 
 
 --- 
-
 ### Source
 - [Youtube]([https://www.youtube.com/watch?v=NV3sBlRgzTI](https://www.youtube.com/watch?v=NV3sBlRgzTI))
 - [Why You Should Learn Physics : Elon Musk](https://www.youtube.com/watch?v=DmIIwIP9Omk)

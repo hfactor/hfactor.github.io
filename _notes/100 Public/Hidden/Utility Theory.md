@@ -8,6 +8,5 @@ date: 2021-07-17
 - [[The Fourfold Pattern]]
 
 --- 
-
 ### Source
 - [[§Psychology]]

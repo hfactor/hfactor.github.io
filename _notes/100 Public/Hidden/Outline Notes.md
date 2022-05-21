@@ -13,7 +13,6 @@ date: 2021-07-10
 - [[Writing the way you think]]
 
 --- 
-
 ### Source
 - [GoodNotes](https://medium.goodnotes.com/how-the-outline-note-taking-method-works-f0808ea2cbfa)
 - [Missouristate Edu PDFFile](https://www.missouristate.edu/assets/busadv/p.24.pdf)

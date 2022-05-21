@@ -10,7 +10,6 @@ date: 2021-07-20
 - Building flexible software will end up creating a chaos. 
 
 ---
-
 ### Source 
 - Loosely based on [Linear App Methods](https://linear.app/method)
 - [[§Product]]

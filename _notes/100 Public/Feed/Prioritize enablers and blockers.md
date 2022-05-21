@@ -12,7 +12,6 @@ date: 2021-07-21
 - We need to remove blocker, and add enablers. 
 
 ---
-
 ### Source
 - [[--BLOG- Linear Method]]
 - [[§Product]]

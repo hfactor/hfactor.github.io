@@ -9,7 +9,5 @@ date: 2022-03-07
 - What we need to do is, to have a clarity on how we spend time, and checking on which quadrant we are spending it more. There should be a clarity on how time is utilised – is that on urgent matters, or important matters on not-urgent-not-important matters.
 
 ---
-
 ### Source
-
 - [Take Charge of Your Time, Ankur Warikoo](https://webveda.ankurwarikoo.com/course/time-management)

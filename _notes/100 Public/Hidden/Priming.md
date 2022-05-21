@@ -10,7 +10,6 @@ date: 2021-04-02
 - For example, visual priming works best with visual cues and verbal priming works best with verbal cues.
 
 --- 
-
 ### Source
 - [Wikipedia](https://en.wikipedia.org/wiki/Priming_(psychology))
 - [Very Well Mind Wiki](https://www.verywellmind.com/priming-and-the-psychology-of-memory-4173092)

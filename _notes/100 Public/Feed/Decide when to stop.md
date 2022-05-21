@@ -11,7 +11,6 @@ date: 2021-07-04
 - Making choices makes the product better, as long as it follows a direction. [[Software design should be opinionated]]. Always see features as must-haves and nice-to-haves, and [[Prioritize enablers and blockers]]
 
 ---
-
 ### Source 
 - [ShapeUp Chapter 14](https://basecamp.com/shapeup/3.5-chapter-14)
 - [[--BOOK- Shape Up]]

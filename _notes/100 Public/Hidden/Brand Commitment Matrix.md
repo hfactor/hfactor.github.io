@@ -20,7 +20,6 @@ date: 2021-05-31
 
 
 --- 
-
 ### Source
 - [https://howbrandsarebuilt.com/blog/2019/07/08/marty-neumeiers-brand-commitment-matrix-and-how-it-works/](https://howbrandsarebuilt.com/blog/2019/07/08/marty-neumeiers-brand-commitment-matrix-and-how-it-works/)
 - [[BOOK- The Brand Flip]]

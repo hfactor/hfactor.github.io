@@ -12,7 +12,6 @@ date: 2021-07-20
 - We need to understand the problem, the value of pain, and how to solve it. It allows us to explore multiple solutions and choose a better one with a broader vision.
 
 ---
-
 ### Source 
 - [Linear Method ](https://linear.app/method)
 - [[§Product]]

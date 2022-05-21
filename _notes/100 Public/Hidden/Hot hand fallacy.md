@@ -8,7 +8,6 @@ date: 2021-07-17
 	- the word came from basketball. 
 
 --- 
-
 ### Source
 - [[--BOOK- Thinking, Fast and Slow]]
 - [[§Psychology]]

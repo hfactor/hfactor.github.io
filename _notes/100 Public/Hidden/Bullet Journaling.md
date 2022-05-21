@@ -15,7 +15,8 @@ date: 2021-07-09
 
 [[-Essay- How I use my Bullet Journal]] 
 
-#### Source
+---
+### Source
 - [Bullet Journal: Learn](https://bulletjournal.com/pages/learn)
 - [4 Min Intro Video. MUST WATCH](https://www.youtube.com/watch?v=fm15cmYU0IM)
 - [Matt Ragland's BuJo Videos](https://www.youtube.com/playlist?list=PL86N9FudwTtH4HHAvZNa4fxEH1yZ3zvk7)

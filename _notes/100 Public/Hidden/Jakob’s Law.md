@@ -8,7 +8,6 @@ date: 2021-07-24
 - When making changes, minimize discord by empowering users to continue using a familiar version for a limited time. *Reduce learning curve, bring familiarity.*
 
 --- 
-
 ### Source
 - https://www.nngroup.com/videos/jakobs-law-internet-ux/
 - https://www.nngroup.com/articles/end-of-web-design/

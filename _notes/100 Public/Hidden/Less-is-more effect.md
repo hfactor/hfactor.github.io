@@ -9,7 +9,6 @@ date: 2021-07-17
 - See also [[Less-is-better effect]]
 
 --- 
-
 ### Source
 - [[--BOOK- Thinking, Fast and Slow]]
 - [[§Psychology]]

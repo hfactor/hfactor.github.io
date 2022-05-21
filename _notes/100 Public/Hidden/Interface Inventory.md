@@ -16,7 +16,6 @@ date: 2021-07-11
 
 
 --- 
-
 ### Source
 - [Bradfrost](https://bradfrost.com/blog/post/interface-inventory/)
 - [[§Design]]

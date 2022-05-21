@@ -11,7 +11,6 @@ date: 2021-04-12
 	- [[Write your own issues]]
 
 ---
-
 ### Source
 
 - [[--BOOK- Shape Up]]

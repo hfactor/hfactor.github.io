@@ -10,7 +10,6 @@ date: 2021-02-04
 - Design sprint provides a user-validated draft, which provides better clarity on the backlog for design and development.
 
 ---
-
 ### Source
 - [[BOOK- Enterprise Design Sprints]]
 - [[§Design]]

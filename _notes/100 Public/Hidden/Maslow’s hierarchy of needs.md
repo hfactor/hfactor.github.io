@@ -13,7 +13,6 @@ date: 2021-02-05
 > Maslow believed that these needs are similar to instincts and play a significant role in motivating behavior.
 
 --- 
-
 ### Source
 - [Simply Psychology](https://www.simplypsychology.org/maslow.html)
 - [[§Psychology]]

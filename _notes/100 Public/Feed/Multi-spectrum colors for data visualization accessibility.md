@@ -11,7 +11,6 @@ date: 2021-07-19
 - hey might not see all colors, but there will be a sense of differentiation between shades.
 
 ---
-
 ### Source
 - [Mailchimp UX](https://ux.mailchimp.com/patterns/data)
 - [[§UX]]

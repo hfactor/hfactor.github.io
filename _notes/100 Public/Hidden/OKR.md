@@ -17,7 +17,6 @@ date: 2021-07-10
 - KRs Should Be Difficult, Not Impossible
 
 --- 
-
 ### Source
 -  [[--BOOK- Radical Focus]]
 -  [[--Defining Key Results]]

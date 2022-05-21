@@ -14,7 +14,6 @@ date: 2021-06-15
 - The solutiondoesn’t matter if the problem isn’t worth solving.
 
 ---
-
 ### Source
 - [[Two Systems of Thinking]]
 - [[--BOOK- Shape Up]]

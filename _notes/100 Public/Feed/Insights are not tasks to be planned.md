@@ -13,9 +13,7 @@ date: 2021-07-09
 - [[Never brainstorm for a topic]]
 - [[Focus on Outcome, not Output]]
 
-
 --- 
-
 ### Source
 - [[--BOOK- How to Take Smart Notes]]
 - [[§Systems]]

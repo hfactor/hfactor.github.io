@@ -12,7 +12,6 @@ date: 2021-03-17
 	- **Brand Depth** - number of levels
 
 --- 
-
 ### Source
 - [[--BOOK- The Brand Gap]]
 - [[§Branding]]

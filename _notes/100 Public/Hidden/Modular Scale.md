@@ -11,7 +11,6 @@ date: 2021-02-04
 > *A modular scale, like a musical scale, is a prearranged set of harmonious proportions.
 
 --- 
-
 ### Source
 - [Video](https://vimeo.com/17079380)
 - [Modularscale.com](https://www.modularscale.com/)

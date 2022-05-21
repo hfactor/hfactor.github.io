@@ -9,8 +9,6 @@ date: 2021-02-05
 - The result will be successful when cross-functional teams work together to uncover and test a problem or set of problems.
 
 ---
-
 ### Source
-
 - [[BOOK- Enterprise Design Sprints]]  
 - [[§Design]]

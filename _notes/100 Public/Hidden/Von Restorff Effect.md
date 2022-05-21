@@ -9,7 +9,6 @@ date: 2021-07-24
 - On [[§UX]] context, it recommends to make key actions visually distinctive.
 
 --- 
-
 ### Source
 - [Wikipedia](https://en.wikipedia.org/wiki/Von_Restorff_effect)
 - [Prototypr](https://blog.prototypr.io/psychology-in-design-part-1-cdc63229cbe4)

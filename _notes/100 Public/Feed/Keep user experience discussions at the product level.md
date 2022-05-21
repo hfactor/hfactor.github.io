@@ -10,7 +10,6 @@ date: 2021-07-20
 - Once they understand the user experience intuitively, you don’t need to clarify it at the task level.
 
 ---
-
 ### Source
 - [Linear Method](https://linear.app/method)
 - [[§Product]] [[§UX]]

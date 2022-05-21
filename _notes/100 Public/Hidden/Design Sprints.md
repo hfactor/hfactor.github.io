@@ -9,7 +9,6 @@ date: 2021-02-05
 - [[Design sprints aren’t just for designers.]] 
 
 --- 
-
 ### Source
 - [[BOOK- Enterprise Design Sprints]]
 - [[BOOK- Sprint ]]

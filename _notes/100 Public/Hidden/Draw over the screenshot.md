@@ -10,7 +10,6 @@ date: 2021-07-21
 	- Eg: Adding a `>` symbol next to an existing table, and marking `search` on the left and `filter` on the right side of the table, between Table and Title is clearer than a 100-word document. 
 
 --- 
-
 ### Source
 - [[--BOOK- Shape Up]]
 - [[§Design]] [[§Product]]

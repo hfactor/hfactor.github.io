@@ -8,7 +8,6 @@ date: 2021-07-24
 
 
 --- 
-
 ### Source
 - [NMGroup](https://www.nngroup.com/articles/gestalt-proximity/)
 - [Medium Post](https://marvelapp.com/blog/psychology-principles-every-uiux-designer-needs-know/)

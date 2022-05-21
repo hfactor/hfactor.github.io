@@ -12,7 +12,6 @@ date: 2022-01-20
 - By using [[Breadboarding over Wireframes]], there is a significant time saving, and it also provides designers more ground to think and solve design from a visual perspective.
 
 ---
-
 ### Source
 - [Shapeup, Chapter 4](https://basecamp.com/shapeup/1.3-chapter-04#breadboarding)
 - [[§Design]]

@@ -8,7 +8,6 @@ date: 2021-07-17
 - People who follow System 1 does this, especially when: They are working on some task at the same time, Something that happened in their life made them happy, The topic is too alien, and has no way to explain or If they are 'feeling' powerful
 
 --- 
-
 ### Source
 - [[--BOOK- Thinking, Fast and Slow]]
 - [[§Psychology]]

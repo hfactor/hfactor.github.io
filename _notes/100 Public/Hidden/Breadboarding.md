@@ -15,6 +15,7 @@ It's a three-part design:
 
 Breadboarding focuses on connections, the workflow and hence goes through all functionalities but, doesn't specify anything about the visual behaviour. 
 
-#### Source
+---
+### Source
 - [Shapeup Chapter 4](https://basecamp.com/shapeup/1.3-chapter-04#breadboarding )
 - [[§Design]]

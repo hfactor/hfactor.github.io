@@ -14,7 +14,6 @@ date: 2021-05-22
 - This practice helps designers on building [[Interface Inventory]] and on creating a [[Scorecards to Pilot Design System Migration]]
 
 ---
-
 ### Source
 - [[BOOK- Design Systems Handbook]]
 - [[Design System Learning]]

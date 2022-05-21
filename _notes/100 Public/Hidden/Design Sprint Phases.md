@@ -28,7 +28,6 @@ date: 2021-02-07
 
 
 --- 
-
 ### Source
 - [[BOOK- Enterprise Design Sprints]] 
 - [[BOOK- Sprint]]

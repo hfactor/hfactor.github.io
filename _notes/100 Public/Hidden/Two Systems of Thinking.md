@@ -18,7 +18,6 @@ date: 2021-07-09
 	- [[Is this a real problem]]
 
 --- 
-
 ### Source
 - [[--BOOK- Thinking, Fast and Slow]]
 - [[§Systems]]

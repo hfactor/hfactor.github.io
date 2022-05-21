@@ -15,7 +15,6 @@ date: 2021-07-09
 - [[Better Thinking over Better Note-taking]]
 
 --- 
-
 ### Source
 - [Andy on Evergreen notes](https://notes.andymatuschak.org/Evergreen_notes)
 - [https://maggieappleton.com/evergreens](https://maggieappleton.com/evergreens)

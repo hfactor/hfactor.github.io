@@ -10,7 +10,6 @@ date: 2021-07-24
 - [[Decide when to stop]]
 
 --- 
-
 ### Source
 - [IDF](https://www.interaction-design.org/literature/article/a-simple-introduction-to-lean-ux)
 - [[§UX]]

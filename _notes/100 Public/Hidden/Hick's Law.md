@@ -10,7 +10,6 @@ date: 2021-07-24
 - Progressive goal flow is better than complicated flow.
 
 --- 
-
 ### Source
 - [Wikipedia](https://en.wikipedia.org/wiki/Hick%27s_law)
 - [IDF](https://www.interaction-design.org/literature/article/hick-s-law-making-the-choice-easier-for-users)

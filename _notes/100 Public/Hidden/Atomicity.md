@@ -10,7 +10,6 @@ date: 2021-02-05
 
 
 --- 
-
 ### Source
 - [Wikipedia ACID](https://en.wikipedia.org/wiki/ACID)
 - [Atomic Design by Brad Frost](https://atomicdesign.bradfrost.com/chapter-2/)

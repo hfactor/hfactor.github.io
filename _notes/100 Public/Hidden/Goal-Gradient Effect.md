@@ -8,7 +8,6 @@ date: 2021-07-24
 
 
 --- 
-
 ### Source
 - [How Uber uses Psychology for CX](https://medium.com/choice-hacking/how-uber-uses-psychology-to-perfect-their-customer-experience-d6c440285029)
 - [UXDesign.CC](https://uxdesign.cc/designing-for-motivation-with-the-goal-gradient-effect-c873cdf58beb)

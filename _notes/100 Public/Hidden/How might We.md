@@ -10,7 +10,6 @@ date: 2021-07-10
 - Once the problem is clear and specific, without focusing on the solution, convert the problem statement to a sentence that starts with *"How might we..".* This provides more clarity on the problem, the opportunity.
 
 --- 
-
 ### Source
 - [[-Course- UX Design Process -Coursera]]
 - [[BOOK- The Workshopper Playbook]]

@@ -9,7 +9,6 @@ date: 2021-07-10
 - To reduce Design Debt, it should be considered as a performance indicator. If it is solved, and when it is solved (Open UX Debt Age) should be considered an indicator of the product team's performance evaluation.
 
 ---
-
 ### Source
 - [Gitlab—performance-indicators as ux-debt](https://about.gitlab.com/handbook/engineering/ux/performance-indicators/#ux-debt)
 - [[§Design]] 

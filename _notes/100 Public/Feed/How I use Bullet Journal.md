@@ -52,7 +52,6 @@ date: 2022-05-04
 
 ---
 ### Source
-
 - [Bullet Journal: Start Here Video](https://www.youtube.com/watch?v=fm15cmYU0IM)
 - [The Bullet Journal Method](https://amzn.to/3aBfSSq) book by Ryder Carroll.
 - [The Distracted Person’s Guide to Creating a To-Do List for Deep Focus](https://medium.com/mind-cafe/the-distracted-persons-guide-to-creating-a-to-do-list-for-deep-focus-38e5ea731ff)

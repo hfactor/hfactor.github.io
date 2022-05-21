@@ -9,6 +9,7 @@ date: 2021-07-24
 
 [[Law of Proximity]]
 
+---
 ### Source
 - [NNGroup](https://www.nngroup.com/articles/common-region/)
 - [Scholarpedia](http://www.scholarpedia.org/article/Gestalt_principles)

@@ -8,7 +8,6 @@ date: 2021-04-02
 - Intention of notes is not just to remind you of what you learned. [[Spaced Repeatation]] or revision is not the only job of notes. The note should work as a place to inspire, surprise you while brainstorming. 
 
 ---
-
 ### Source
 - [[--BOOK- How to Take Smart Notes]]
 - [Andy "Notes Should Surprise you"](https://notes.andymatuschak.org/Notes_should_surprise_you)

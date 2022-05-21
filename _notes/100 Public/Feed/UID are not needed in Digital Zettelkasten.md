@@ -10,7 +10,6 @@ date: 2021-07-09
 	- Also, the content will be more readable.
 
 ---
-
 ### Source
 - [Zettelkasten.de](https://forum.zettelkasten.de/discussion/1039/why-are-uid-necessary-used)
 - [Zettelkasten How to: On UID](https://zettelkasten.de/introduction/#the-unique-identifier)

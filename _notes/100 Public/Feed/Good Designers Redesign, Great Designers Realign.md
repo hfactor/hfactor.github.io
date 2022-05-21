@@ -13,7 +13,6 @@ date: 2021-07-22
 	- Evaluate the user-switching cost / learning-curve
 
 ---
-
 ### Source  
 - [A List Apart](https://alistapart.com/article/redesignrealign/)
 - [When we align - Cameron Moll from Facebook](https://www.youtube.com/watch?v=QkOzNF492xY)

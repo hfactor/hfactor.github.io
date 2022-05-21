@@ -11,7 +11,6 @@ date: 2021-05-20
 > *And frankly, they don’t match how we communicate about software in real conversations.* — Linear Method (which recommends to [[Write your own issues]])
 
 --- 
-
 ### Source
 - [Linear Method](https://linear.app/method)
 - [[§Product]]

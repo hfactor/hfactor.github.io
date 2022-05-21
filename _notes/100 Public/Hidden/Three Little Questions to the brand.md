@@ -9,7 +9,6 @@ date: 2021-07-24
 > “We’re John Deere. We make farm tractors and related equipment. It matters because generations of farmers have trusted our equipment.” Their trademark is a silhouette of a leaping stag, and their tagline is “Nothing runs like a Deere.”
 
 --- 
-
 ### Source
 - [[--BOOK- The Brand Gap]]
 - [[§Branding]]

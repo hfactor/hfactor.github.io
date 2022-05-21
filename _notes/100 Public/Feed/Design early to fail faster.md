@@ -10,7 +10,6 @@ date: 2021-07-20
 - [[Design Sprints]] suggests getting feedbacks from initial prototypes.
 
 ---
-
 ### Source
 - [[--BOOK- Shape Up]]
 - [[BOOK- Sprint]]

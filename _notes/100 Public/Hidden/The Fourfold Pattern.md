@@ -17,6 +17,5 @@ date: 2021-07-17
 			- exists in the form of bad gambles, risk-taking, etc. 
 
 --- 
-
 ### Source 
 - [[--BOOK- Thinking, Fast and Slow]]

@@ -13,7 +13,6 @@ date: 2021-07-21
 - Similar to how crawl goes through every pages, to generate a sitemap, the team goes through all options, not just the one focused on user goal or feature objective.
 
 --- 
-
 ### Source
 - [ShapeUp, Chapter 5](https://basecamp.com/shapeup/1.4-chapter-05)
 - [[--BOOK- Shape Up]]

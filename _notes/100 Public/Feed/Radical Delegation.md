@@ -20,4 +20,5 @@ date: 2022-05-04
 - Provides a great chance to empower team members, and help them grow. 
 
 --- 
-### Sources](https://twitter.com/shreyas/status/1492345218670104577)
+### Sources
+- [Tweet](https://twitter.com/shreyas/status/1492345218670104577)

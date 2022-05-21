@@ -22,7 +22,6 @@ date: 2021-07-15
 		- Figure out your value, and decide what to do
 
 ---
-
 ### Source
 - [Youtube Video, Ali Abdaal](https://www.youtube.com/watch?v=gcGquCZxsJc)
 - [[§Systems]]

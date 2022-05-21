@@ -9,7 +9,6 @@ date: 2021-07-24
 - All processes have a core of complexity that cannot be removed away.
 
 --- 
-
 ### Source
 - [Smashing Mag](https://www.smashingmagazine.com/2016/01/nobody-wants-use-your-product/)
 - [FS Blog](https://fs.blog/2020/10/why-life-cant-be-simpler/)

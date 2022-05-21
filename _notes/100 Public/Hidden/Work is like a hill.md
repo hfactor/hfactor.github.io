@@ -16,7 +16,6 @@ date: 2021-07-21
 - This feature is available in [[Basecamp]].
 
 --- 
-
 ### Source
 - [[--BOOK- Shape Up]]
 - [[§Product]]

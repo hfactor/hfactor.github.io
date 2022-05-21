@@ -16,7 +16,6 @@ date: 2021-02-02
 - Create a Pilot Scorecard (1-10) that shows you which products have a better score, based on these sweet spots.
 
 --- 
-
 ### Source
 
 - [Super Friendly Designs](https://superfriendlydesign.systems/articles/design-systems-pilots-scorecards/)

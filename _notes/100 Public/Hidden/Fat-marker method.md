@@ -11,7 +11,6 @@ date: 2021-07-20
 
 
 --- 
-
 ### Source
 - https://basecamp.com/shapeup/1.3-chapter-04#breadboarding
 - [[§Design]]

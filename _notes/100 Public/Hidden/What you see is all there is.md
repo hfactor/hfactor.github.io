@@ -20,7 +20,6 @@ date: 2021-07-09
 - [[--Over Confidence and Over Optimism]]
 
 --- 
-
 ### Source
 - [[--BOOK- Thinking, Fast and Slow]]
 - [[§Psychology]]

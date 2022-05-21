@@ -10,6 +10,5 @@ date: 2021-07-09
 - [[Types of Notes in Zettelkasten]]
 
 --- 
-
 ### Source
 - [[§KnowledgeBuilding]]

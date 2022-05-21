@@ -9,7 +9,6 @@ date: 2021-07-10
 - Similarly, articulation can be targeted to the consumer. For notes like this, StopGivingaf.;)
 
 ---
-
 ### Source
 - [Evergreen note-writing as fundamental unit of knowledge work](https://notes.andymatuschak.org/z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be)
 - [Stop Giving af](https://joelhooks.com/on-writing-more)

@@ -16,7 +16,6 @@ date: 2021-07-22
 - The job is to build less. The job is to minimize output, and maximize outcome.
 
 --- 
-
 ### Source
 - [Output vs. Outcome & Impact: Video](https://vimeo.com/206617354)
 - [[§Product]]

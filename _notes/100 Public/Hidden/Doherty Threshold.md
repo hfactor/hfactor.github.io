@@ -12,7 +12,6 @@ date: 2021-07-24
 
 
 --- 
-
 ### Source
 - [Daverupert](https://daverupert.com/2015/06/doherty-threshold/)
 - [Gugel Medium](https://gugel.medium.com/the-doherty-threshold-5471ca990de6)

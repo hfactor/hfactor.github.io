@@ -13,9 +13,7 @@ date: 2021-02-06
 - Start with [[Scorecards to Pilot Design System Migration]] instead of over planning and underachieving.
 
 --- 
-
 ### Source
-
 - [Guide to Design System](https://www.invisionapp.com/inside-design/guide-to-design-systems/)
 - [UXDesignCC](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969)
 - [Smashing Magazine](https://www.smashingmagazine.com/design-systems-book/)

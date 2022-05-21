@@ -16,7 +16,6 @@ date: 2021-07-09
 - [[UID are not needed in Digital Zettelkasten]]
 
 --- 
-
 ### Source
 - [[--BOOK- How to Take Smart Notes]] 
 - [Examples](https://medium.com/@rebeccawilliams9941/the-zettelkasten-method-examples-to-help-you-get-started-8f8a44fa9ae6)

@@ -24,7 +24,6 @@ date: 2021-07-09
 > Fleets are reminders, Lits are one note about one topic from one source, while permanent notes connects multiple lit notes and creates knowledge, specific to a concept. 
 
 --- 
-
 ### Source
 - [[--BOOK- How to Take Smart Notes]]
 - [[§KnowledgeBuilding]]

@@ -8,7 +8,6 @@ date: 2021-07-17
 - Initially, buying decisions create the tribe. Then the tribe influences future buying decisions.
 
 ---
-
 ### Source
 - [Marty Neumeier - Interview,Brand Flip](https://www.liquidagency.com/brand-exchange/the-brand-flip-by-marty-neumeier/)
 - [[BOOK- The Brand Flip]]

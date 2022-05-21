@@ -10,7 +10,6 @@ date: 2021-07-20
 - [[Stop spending time on Wireframing]]
 
 ---
-
 ### Source
 - [ShapeUp Chapter 4](https://basecamp.com/shapeup/1.3-chapter-04#breadboarding) 
 - [[§Design]]

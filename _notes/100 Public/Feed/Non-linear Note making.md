@@ -12,7 +12,6 @@ date: 2021-07-10
 	- [[Writing the way you think]]
 
 ---
-
 ### Source
 - [[--BOOK- How to Take Smart Notes]]
 - [[§KnowledgeBuilding]]

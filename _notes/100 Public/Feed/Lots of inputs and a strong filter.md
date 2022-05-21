@@ -13,7 +13,6 @@ PS: Reading the same authors on the same topics builds a [[Confirmation bias]]. 
 - [[Slam it shut and move on]]
 
 ---
-
 ### Source
 - [[--BLOG- Lots of inputs and a strong filter]]
 - [Blog Post: Lots of inputs and a strong filter](https://www.collaborativefund.com/blog/how-to-read-lots-of-inputs-and-a-strong-filter/)

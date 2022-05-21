@@ -14,9 +14,7 @@ date: 2021-07-10
 5. Lego sells it in 'thematic form.' One contains flight; the other contains a crane. - You can define a theme by choosing not to include out-of-scope elements. 
 
 ---
-
 ### Source
-
 - [Toobler](https://www.toobler.com/how-lego-like-software-development-using-microservices-helped-toobler/)
 - [UXDesign.cc](https://uxdesign.cc/what-is-a-design-system-and-do-i-need-one-dd02769bb4fa)
 - [[§Design]]

@@ -10,6 +10,5 @@ date: 2021-07-17
 - [[Hot hand fallacy]]
 
 --- 
-
 ### Source
  - [[--BOOK- Thinking, Fast and Slow]]

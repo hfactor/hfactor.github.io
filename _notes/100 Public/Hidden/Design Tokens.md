@@ -20,7 +20,6 @@ date: 2021-02-05
 	- bg-color > primary-button-cta-color
 
 --- 
-
 ### Source
 - [[BOOK- Design Systems Handbook]] 
 - [Adobe Spectrum](https://spectrum.adobe.com/page/design-tokens/)

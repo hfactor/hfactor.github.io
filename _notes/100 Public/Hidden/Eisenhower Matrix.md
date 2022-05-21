@@ -18,7 +18,6 @@ date: 2021-07-11
 - Ankur Warikoo recommended adding a [[Third dimension to Eisenhower Matrix]], and making it practically easier. 
 
 --- 
-
 ### Source
 - [Eisenhower](https://www.eisenhower.me/eisenhower-matrix/)
 - [JamesClear's Blog](https://jamesclear.com/eisenhower-box)

@@ -9,7 +9,6 @@ date: 2021-02-05
 - [[Design Debt as a Performance Indicator]]
 
 --- 
-
 ### Source
 - :) Life Story!
 - [[§Design]]

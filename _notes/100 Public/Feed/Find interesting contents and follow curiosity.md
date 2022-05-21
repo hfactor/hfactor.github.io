@@ -10,7 +10,6 @@ date: 2021-07-09
 > Just follow interest, curiosity, and questions. Let curiosity lead the wander. 
 
 ---
-
 ### Source
 - [[--BOOK- How to Take Smart Notes]]
 - [[§KnowledgeBuilding]]

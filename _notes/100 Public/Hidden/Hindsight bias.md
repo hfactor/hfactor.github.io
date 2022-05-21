@@ -10,7 +10,6 @@ date: 2021-07-17
 - If the event doesn't occur, they recall that they thought it was unlikely.
 
 --- 
-
 ### Source
 -  [[--BOOK- Thinking, Fast and Slow]]
 - [[§Psychology]]

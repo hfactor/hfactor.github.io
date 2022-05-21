@@ -13,7 +13,6 @@ date: 2021-07-17
 - According to Marty Neumeier, [[Brand tribe influence buying decisions]]
 
 --- 
-
 ### Source
 -  [Interview](https://www.liquidagency.com/brand-exchange/the-brand-flip-by-marty-neumeier/)
 - [[BOOK- The Brand Flip]]

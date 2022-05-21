@@ -31,9 +31,9 @@ date: 2021-03-27
 - **6. Evaluate trade-offs**
 	- Evaluate trade-offs by looking at impact/complexity matrix
 	- Make a decision
+
 ---
 ### Source
-
 -  [https://productcoalition.com/how-our-cross-functional-teams-decide-what-to-build-at-whispir-e97757171e49](https://productcoalition.com/how-our-cross-functional-teams-decide-what-to-build-at-whispir-e97757171e49)
 
 -  [https://productcoalition.com/why-we-dont-interview-product-managers-anymore-ba1dd0031c0b](https://productcoalition.com/why-we-dont-interview-product-managers-anymore-ba1dd0031c0b)

@@ -10,7 +10,6 @@ date: 2021-07-17
 
 
 --- 
-
 ### Source
 - [[--BOOK- Thinking, Fast and Slow]]
 - [[§Psychology]]

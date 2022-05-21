@@ -9,7 +9,6 @@ date: 2021-07-20
 - Also, writing their own tasks provide them enough space to think about the problem on a more profound level and come with better approaches or questions about missing parts. 
 
 ---
-
 ### Source 
 - [Linear Method](https://linear.app/method)
 - [[§Product]]

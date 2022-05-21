@@ -9,7 +9,6 @@ date: 2021-07-24
 - Color, shape, and size, orientation and movement can signal that elements belong to the same group and likely share a common meaning or functionality.
 
 --- 
-
 ### Source
 - https://www.nngroup.com/articles/gestalt-similarity/
 - [[§UX]]
