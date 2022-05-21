@@ -59,20 +59,22 @@
     </div>
 {%-endif -%}
 
-<!--Layout CARD-->
+<!--Layout ROW-->
 <!--Default Design for /Lists-->
 <!-- The same can be used for MOC, if needed-->
 {%- if page.feedformat == "row" -%}
 <div class="block">
-    {% assign list_items = site.lists | sort:"order" %}
-    {% for list_items in list_items %}
-        <div class="list-feed">
-                <a href="{{list_items.url}}" style="text-decoration: none;display: flex;justify-content: space-between;flex-direction: row;width: 100%;">
-                    <div class="writinglist-title">
-                        {{list_items.title }}
-                    </div>
-                </a>
-        </div>
+    {% assign note_items = site.notes | sort: "date" | reverse %}
+    {% for note_items in note_items %}
+        {%- if note_items.format == "list" -%}
+            <div class="list-feed">
+                    <a href="{{note.url}}" style="text-decoration: none;display: flex;justify-content: space-between;flex-direction: row;width: 100%;">
+                        <div class="writinglist-title">
+                            {{note_items.title }}
+                        </div>
+                    </a>
+            </div>
+        {%-endif -%}
     {%- endfor -%}
     </div>
 {%-endif -%}

@@ -1,7 +1,9 @@
 ---
-layout: List
 title: Movie List
-order: 5
+feed: hide
+date: 2022-01-01
+permalink: /list/movies
+format: list
 ---
 An attempt to list movies I saw. It's a practice I tried many times, over different tools, but failed. 
 

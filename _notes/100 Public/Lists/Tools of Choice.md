@@ -1,7 +1,9 @@
 ---
-layout: List
 title: Tools of Choice
-order: 6
+feed: hide
+date: 2020-12-01
+permalink: /list/tools
+format: list
 ---
 Over the last 14 years, I’ve worked on a diverse range of products across multiple disciplines from UX research, visual design, interaction design, and code. Read More
 

@@ -1,7 +1,9 @@
 ---
-layout: List
 title: Library
-order: 1
+feed: hide
+date: 2022-05-01
+permalink: /list/reading
+format: list
 ---
 This List of books I have read, along with my current reads. ✦ are for the must-reads. <a href="/list/antilibrary"><b>See Antilibrary.</b></a>
 

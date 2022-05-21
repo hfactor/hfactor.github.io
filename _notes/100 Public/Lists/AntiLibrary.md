@@ -1,9 +1,10 @@
 ---
-layout: List
 title: AntiLibrary
-order: 2
+feed: hide
+date: 2022-04-01
+permalink: /list/antiLibrary
+format: list
 ---
-
 By definition, An [antilibrary](https://fs.blog/the-antilibrary/) is a collection of books we own but have never read. 
 In my case, it's list of books I would *like to own and read ;)* <a href="/list/reading"><b>See my Reading list.</b></a>
 

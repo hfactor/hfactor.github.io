@@ -1,9 +1,10 @@
 ---
-layout: List
 title: Site Credits
-order: 3
+feed: hide
+date: 2022-03-01
+permalink: /list/credits
+format: list
 ---
-
 ### Technology 
 - [Github Page](https://pages.github.com/) for hosting
 - [Jekyll](https://jekyllrb.com/) for Static site generation

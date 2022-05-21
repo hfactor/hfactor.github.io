@@ -72,7 +72,8 @@
     {%- include Header.html -%}
     <section class="section">
         <div class="columns is-centered">
-            <!--- Usecase 1, the page is HOME-->
+
+            <!-- Homepage Layout-->
             {%- if page.permalink == "/" -%}
             <div class="column is-8-widescreen  is-8-desktop is-8-tablet is-12-mobile">
                     {%- if site.preferences.homepage.enabled -%}
@@ -81,15 +82,26 @@
                     {%- else -%}
                             <!--- Show Feed Part -->
                 <div class="column is-6-widescreen  is-8-desktop is-8-tablet is-12-mobile">
+                            <h5 class="meta-title"><a href="/">← Home</a></h5>
+                            <div class="jumbo">{{page.title}}</div>
                             {%- include FeedContent.html -%}
                             {%- include Feed.html -%}
                 </div>
                     {%- endif -%}
             </div>
             {%- endif -%}
-            <!--- Usecase 2, the page is notes or pages-->
-            {%- if page.content-type == "notes" 
-            or page.content-type == "post"  -%}
+
+            <!--- Feedpage Layout-->
+            {%- if page.feedformat -%}
+            <div class="column is-6-widescreen  is-8-desktop is-8-tablet is-12-mobile">
+                <h5 class="meta-title"><a href="/">← Home</a></h5>
+                    <div class="jumbo">{{page.title}}</div>
+                    {%- include Content.html -%}
+                    {%- include Feed.html -%}
+            {%- endif -%}
+
+            <!--- Notes Layout-->
+            {%- if page.content-type == "notes" -%}
             <div class="column is-5-widescreen  is-6-desktop is-8-tablet is-12-mobile">
                     <div class="note-page-section">
                         <div>
@@ -101,35 +113,51 @@
                                     <h5 class="meta-title">← BACK</h5>
                             </a>
                         </div>
-                    {%- if page.content-type == "post" -%}
-                    <h5 class="meta-title"> {{ page.date | date:"%B %Y" }}</h5>
+                    <!--- List type Note Layout-->
+                    {%- if page.format == "list" -%}
+                    <style>
+                        li {border-bottom: 1px solid var(--color-border-light); list-style: none; padding: 0.4rem 0 0.4rem 0;}
+                        .content ul { padding-left: 0px;}
+                        h3 {padding-top: 1rem; padding-bottom: 0rem;}
+                    </style>                    
                     {%- endif -%}
                     <h1>{{page.title}}</h1>
-                    {% if page.image %}
-                        <img style="padding-bottom: 2em;" src="{{page.image}}">
-                    {% endif %}
                     {%- include Content.html -%}
-                    {%- include Backlinks.html -%}
                     </div>
             </div>
             {%- endif -%}
-            <!--- Usecase 3, the page is a static page-->
+
+             <!--- Post Layout-->
+             {%- if page.content-type == "post"  -%}
+             <div class="column is-5-widescreen  is-6-desktop is-8-tablet is-12-mobile">
+                     <div class="note-page-section">
+                         <div>
+                             {%- if site.preferences.homepage.enabled -%}
+                             <a onclick="window.history.back();">
+                             {%- else -%}
+                             <a onclick="window.location.assign('/');">
+                             {%- endif -%}
+                                     <h5 class="meta-title">← BACK</h5>
+                             </a>
+                         </div>
+                     <h5 class="meta-title"> {{ page.date | date:"%B %Y" }}</h5>
+                     <h1>{{page.title}}</h1>
+                     {% if page.image %}
+                         <img style="padding-bottom: 2em;" src="{{page.image}}">
+                     {% endif %}
+                     {%- include Content.html -%}
+                     {%- include Backlinks.html -%}
+                     </div>
+             </div>
+             {%- endif -%}
+
+            <!--- Static Page Layout-->
             {%- if page.content-type == "static" -%}
             <div class="column is-5-widescreen  is-6-desktop is-8-tablet is-12-mobile">
-                        <h5 class="meta-title"><a href="/">← Home</a></h5>
                         <div class="jumbo">{{page.title}}</div>                        
                         {%- include Content.html -%}
                 </div>
             {%- endif -%}
-            <!--- Usecase 4, the page is a feed-->
-            {%- if page.feedformat -%}
-            <div class="column is-6-widescreen  is-8-desktop is-8-tablet is-12-mobile">
-                <h5 class="meta-title"><a href="/">← Home</a></h5>
-                    <div class="jumbo">{{page.title}}</div>
-                    {%- include Content.html -%}
-                    {%- include Feed.html -%}
-            {%- endif -%}
-            </div>
         </div>
     </section>   
     {%- include Footer.html -%}             
