@@ -4,6 +4,7 @@ feed: hide
 date: 2008-10-17
 permalink : /blog/rufscript-font
 ---
+![rufs](https://user-images.githubusercontent.com/1788677/170069948-89a523d2-5ace-46e8-af17-a2cf93e65e98.jpeg)
 
 *Published on 17th October 2008 on my Blogspot blog. Later moved to Hiran.in WordPress. Archived here on this permalink as the URL is still getting visits!*
 
