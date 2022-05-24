@@ -1,5 +1,3 @@
-
-
 ---
 title: CIRCLES framework
 feed: hide

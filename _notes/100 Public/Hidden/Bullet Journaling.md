@@ -13,7 +13,7 @@ date: 2021-07-09
 - It recommends rapid logging, short bullet notes. Also, the different types of bullets are used as differentiator of content type and status. 
 - Index page is a Topic linked to multiple pages (while traditional notebooks links page to topic) 
 
-[[-Essay- How I use my Bullet Journal]] 
+[[How I use Bullet Journal]] 
 
 ---
 ### Source
