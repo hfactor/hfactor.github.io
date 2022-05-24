@@ -1,4 +1,3 @@
-
 ---
 title: How I use Bullet Journal
 feed: show
