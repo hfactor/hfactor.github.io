@@ -4,7 +4,7 @@ feed: show
 date: 2022-05-03
 ---
 
-- For long term projects, without customer level 'release', (Eg While [[Implimenting a design System]]it is good to have a time based change log
+- For long term projects, without customer level 'release', (Eg While [[Implimenting a design System]]) it is good to have a time based change log
 - [[Changelog as a consistent communication tool]]
 - [[Figma]] version control is not that efficient It doesn't provide Version per frame, comparison or search inside push note. Hence we use Google Doc. 
 

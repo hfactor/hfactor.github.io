@@ -13,8 +13,11 @@ This List of books I have read, along with my current reads. ✦ are for the mus
 - [പച്ച മഞ്ഞ ചുവപ്പ്](https://amzn.to/3HIlCKW), ടി. ഡി. രാമകൃഷ്ണൻ 
 - [കാന്തമലചരിതം - ആറോലക്കാടിന്റെ രഹസ്യം](https://amzn.to/3AUWWw1), വിഷ്ണു എം സി
 - [Will](https://amzn.to/3KrhfoD) by Will Smith
-- [The Productivity Project](https://amzn.to/3tKHLm0) by Chris Bailey  (Author)
-
+- [The Productivity Project](https://amzn.to/3tKHLm0) by Chris Bailey
+- [Super Thinking](https://amzn.to/3wY89KH) by Gabriel Weinberg & Lauren McCann
+- [Azadi](https://amzn.to/3atJTsx) by Arundhati Roy
+- [The Unusual Billionares](https://amzn.to/3wS1bqR) by Saurabh Mukharjea
+- [Tools of Titans](https://amzn.to/3LZcbYK) by Tim Ferriss
 ### 2021 
 - [വിലായത്ത് ബുദ്ധ](https://buybooks.mathrubhumi.com/product/vilayath-budha/), by G R Indugopan
 - [Crossing the Chasm](https://amzn.to/36x4kzQ) by Geoffrey A. Moore

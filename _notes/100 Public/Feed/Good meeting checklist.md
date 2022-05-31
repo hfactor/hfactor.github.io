@@ -15,6 +15,7 @@ date: 2022-03-12
 	- Process (How, what, what to prepare)
 - [[Meetings are not the place to surprise people]]
 - [[You don't have to be the first with an opinion]]
+- [[Documenting Meetings]]
 
 --- 
 ### Source
