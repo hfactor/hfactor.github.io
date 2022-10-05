@@ -32,6 +32,8 @@ format: list
 - [3D Transform](https://www.figma.com/community/plugin/1009780509659307229/3D-Transformer) for previews and show-off
 - [FigMotion](https://www.figma.com/community/plugin/733025261168520714/Figmotion) for animations _inside figma_
 - [WireBox](https://www.figma.com/community/plugin/764471577604277919/Wire-Box) for hi-fed to low-fed conversation (good for UX focused workshops)
+- [Similayer](https://www.figma.com/community/plugin/735733267883397781/Similayer) for bulk selection based on criteria
+- [Find and Replace](https://www.figma.com/community/plugin/735072959812183643/Find-and-Replace) for text find and replace!
   
 ### Tutorials
 - [Figma UI Design Tutorial: Get Started in Just 24 Minutes! (2022)](https://www.youtube.com/watch?v=FTFaQWZBqQ8)
