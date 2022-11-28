@@ -18,11 +18,12 @@ function changeIconImgSrc(src) {
 	document.getElementById("theme-toggle-img").src = src;
 	document.getElementById("theme-toggle-img--mobile").src = src;
 }
-
+function iconToggle() {
 if (systemInitiatedDark.matches) {
 	changeIconImgSrc(iconMoon);
 } else {
 	changeIconImgSrc(iconSun);
+}
 }
 
 function prefersColorTest(systemInitiatedDark) {
