@@ -1,11 +1,8 @@
 ---
 title: Library
-feed: hide
-date: 2022-05-01
-permalink: /list/reading
-format: list
+permalink: /library
 ---
-This List of books I have read, along with my current reads. ✦ are for the must-reads. <a href="/list/antiLibrary"><b>See Antilibrary.</b></a>
+This List of books I have read, along with my current reads. ✦ are for the must-reads. <a href="/antilibrary"><b>See Antilibrary.</b></a>
 
 ### 2022
 - [Tropic of the Sea](https://amzn.to/3oJK6w0) by Satoshi Kon ✦

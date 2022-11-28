@@ -1,9 +1,5 @@
 ---
 title: Figma Resources
-feed: hide
-date: 2022-02-01
-permalink: /list/figma
-format: list
 ---
 [Figma](https://figma.com/) is my current choice of tool for screen designing. These are a few plugins and template I use that helps me in improving the process and pace. 
 

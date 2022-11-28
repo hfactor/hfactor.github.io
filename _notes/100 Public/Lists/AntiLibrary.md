@@ -1,12 +1,9 @@
 ---
 title: AntiLibrary
-feed: hide
-date: 2022-04-01
-permalink: /list/antiLibrary
-format: list
+permalink: /antilibrary
 ---
 By definition, An [antilibrary](https://fs.blog/the-antilibrary/) is a collection of books we own but have never read. 
-In my case, it's list of books I would *like to own and read ;)* <a href="/list/reading"><b>See my Reading list.</b></a>
+In my case, it's list of books I would *like to own and read ;)* <a href="/library"><b>See my Reading list.</b></a>
 
 ## Reading Now
 - Life on Our Planet by David Attenborough 🎧

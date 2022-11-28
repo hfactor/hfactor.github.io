@@ -1,9 +1,6 @@
 ---
 title: Movie List
-feed: hide
-date: 2022-01-01
-permalink: /list/movies
-format: list
+permalink: /movies
 ---
 An attempt to list **good and better** (<2.5 in scale of 5) movies I saw. I started this page as a practice to log movies, but that's something I always fail to maintain!
 

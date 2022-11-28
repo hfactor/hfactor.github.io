@@ -59,23 +59,3 @@
     {%- endfor -%}
     </div>
 {%-endif -%}
-
-<!--Dynamic List Feed-->
-<!--Static Page : pages/lists.md-->
-
-{%- if page.feedformat == "row" -%}
-<div class="block">
-    {% assign note_items = site.notes | sort: "date" | reverse %}
-    {% for note_items in note_items %}
-        {%- if note_items.format == "list" -%}
-            <div class="list-feed">
-                    <a href="{{ site.baseurl }}{{note_items.url}}" style="text-decoration: none;display: flex;justify-content: space-between;flex-direction: row;width: 100%;">
-                        <div class="writinglist-title">
-                            {{note_items.title }}
-                        </div>
-                    </a>
-            </div>
-        {%-endif -%}
-    {%- endfor -%}
-    </div>
-{%-endif -%}

@@ -1,9 +1,6 @@
 ---
 title: Site Credits
-feed: hide
-date: 2022-03-01
-permalink: /list/credits
-format: list
+permalink: /credits
 ---
 ### Technology 
 - [Github Page](https://pages.github.com/) for hosting
