@@ -2,6 +2,7 @@
 title: Write your own issues
 feed: show
 date: 2021-07-20
+tag: Product
 ---
 
 - While building a feature for a product, it is faster if everyone on the team should write their own issues. 

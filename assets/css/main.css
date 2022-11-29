@@ -1483,11 +1483,10 @@ ol p {
 
 .tag:not(body) {
   align-items: center;
-  background-color: var(--color-bg-sub);
-  border-radius: 8px;
+  background-color: var(--color-border-light);
   color: var(--color-text-main);
   display: inline-flex;
-  font-size: 0.8rem;
+  font-size: var(--text-s);
   height: 2em;
   justify-content: center;
   line-height: 1.5;
