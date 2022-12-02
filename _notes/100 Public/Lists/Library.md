@@ -2,10 +2,12 @@
 title: Library
 permalink: /library
 ---
-This List of books I have read, along with my current reads. ✦ are for the must-reads. <a href="/antilibrary"><b>See Antilibrary.</b></a>
+This List of books I have read, along with my current reads. 
+✦ are for the must-reads, and ❷ are re-reads. 
+<a href="/antilibrary"><b>See Antilibrary.</b></a>
 
 ### Reading Now
-- Ponniyin Selvan by Kalki Krishnamurthy(Now: Book 2, Ch.34)
+- Ponniyin Selvan by Kalki Krishnamurthy (Now: Book 2, Ch.34)
 - The Back of the Napkin by Dan Roam
 
 ### 2022
@@ -20,7 +22,7 @@ This List of books I have read, along with my current reads. ✦ are for the mus
 - [The Unusual Billionares](https://amzn.to/3wS1bqR) by Saurabh Mukharjea
 - [Tools of Titans](https://amzn.to/3LZcbYK) by Tim Ferriss
 - [A Life on Our Planet](https://amzn.to/3UhvBMQ) by David Attenborough
-- [Remote : Office Not Required](https://amzn.to/3B31vFX) by Jason Fried
+- [Remote : Office Not Required](https://amzn.to/3B31vFX) by Jason Fried ❷ ✦
 - [Indistractable](https://amzn.to/3FikTBi) by Nir Eyal
 
 ### 2021 
@@ -30,12 +32,12 @@ This List of books I have read, along with my current reads. ✦ are for the mus
 - [Indistractable](https://amzn.to/2TCEarH) by Nir Eyal
 - [Brand Flip](https://amzn.to/2Ue1OeN) by Marty Neumeier
 - [Wild Swans](https://amzn.to/3vrJ34o) by Jung Chang ✦
-- [മാമുക്കോയ](https://www.amazon.in/MAMUKKOYA-THAHA-MADAI/dp/8126414529) by Thaha Madayi ✦
+- [മാമുക്കോയ](https://www.amazon.in/MAMUKKOYA-THAHA-MADAI/dp/8126414529) by Thaha Madayi ❷ ✦
 - [കളക്ടർ ബ്രൊ : ഇനി ഞാൻ തള്ളട്ടെ](https://amzn.to/3BYh28Q) by Prashanth Nair IAS
 - [The Thrilling Adventures of Lovelace and Babbage](https://amzn.to/3ib7nUt), by Sydney Padua ✦
 - പരിണാമം, by M P Narayana Pillai ✦
 - [Super Thinking](https://amzn.to/2V6rNp9) by Gabriel Weinberg, Lauren McCann
-- യക്ഷി, by Malayattoor Ramakrishnan ✦
+- യക്ഷി, by Malayattoor Ramakrishnan ❷ ✦
 - അമ്മിണിപ്പിള്ള വെട്ടുകേസ്, by G R Indugopan
 - [War Of Art](https://amzn.to/3x8JMIl), by Steven Pressfield
 - നീലച്ചടയന്‍, അഖില്‍ കെ ✦
@@ -45,7 +47,7 @@ This List of books I have read, along with my current reads. ✦ are for the mus
 - [The War Of Art](https://amzn.to/3ro2kF7) by Steven Pressfield
 - Product Roadmaps Relaunched by C. Todd Lombardo,Bruce McCarthy,Evan Ryan,Michael Connors ✦
 - [The Psychology of Money](https://amzn.to/3L2XiFG) by Morgan Housel
-- നിലം പൂത്തുമലർന്ന നാൾ, മനോജ് കുറൂർ ✦
+- നിലം പൂത്തുമലർന്ന നാൾ, മനോജ് കുറൂർ ❷ ✦
 - ഡില്‍ഡൊ,ദേവദാസ് വി എം
 - [A Philosophy of Software Design](https://amzn.to/34sLFXY) by John Ousterhout
 - [Listen Like You Mean It](https://amzn.to/3IYuWKV) by Ximena Vengoechea
