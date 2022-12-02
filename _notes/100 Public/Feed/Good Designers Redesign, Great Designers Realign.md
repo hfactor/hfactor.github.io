@@ -8,9 +8,9 @@ tag: Design
 For strategic objectives, as a designer, instead of thinking of a redesigning, it is always better to think from a realignment perspective. **The desire to redesign is aesthetic-driven, while the desire to realign is purpose-driven.**
 
 While realigning, consider the following: 
-	- Ensure there is a reason.
-	- Have a solid clarity on level of realignment 
-	- Evaluate the user-switching cost / learning-curve
+- Ensure there is a reason.
+- Have a solid clarity on level of realignment 
+- Evaluate the user-switching cost / learning-curve
 
 ---
 ### Source  
