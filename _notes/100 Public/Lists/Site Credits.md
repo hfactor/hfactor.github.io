@@ -1,6 +1,7 @@
 ---
 title: Site Credits
 permalink: /credits
+tag: Static
 ---
 ### Technology 
 - [Github Page](https://pages.github.com/) for hosting

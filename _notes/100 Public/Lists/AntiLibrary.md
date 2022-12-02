@@ -2,13 +2,8 @@
 title: AntiLibrary
 permalink: /antilibrary
 ---
-By definition, An [antilibrary](https://fs.blog/the-antilibrary/) is a collection of books we own but have never read. 
-In my case, it's list of books I would *like to own and read ;)* <a href="/library"><b>See my Reading list.</b></a>
+By definition, An [antilibrary](https://fs.blog/the-antilibrary/) is a collection of books we own but have never read. In my case, it's list of books I would *like to own and read ;)* <a href="/library"><b>See my Reading list.</b></a>
 
-## Reading Now
-- Life on Our Planet by David Attenborough 🎧
-- Remote : Office Not Required by Jason Fried 📟
-- Indistractable 🎧
 ## Reading Soon
 - The Silent Coup by Josy Joseph 📟
 - Whole Numbers and Half Truths by Rukmini S
@@ -16,6 +11,8 @@ In my case, it's list of books I would *like to own and read ;)* <a href="/libra
 - Bulls, Bears and Other Beasts by Santosh Nair 📟
 - Ask Your Developer by Jeff Lawson 📟
 - സോവിയ്റ്റ് സ്റ്റേഷന്‍കടവ്, Murali Krishnan
+- Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts
+
 ## Suggested by Peers
 - കപ്പിത്താന്റെ ഭാര്യ, ബിപിൻ ചന്ദ്രൻ
 - On Writing Well by Wiliam Zinsser
@@ -26,7 +23,8 @@ In my case, it's list of books I would *like to own and read ;)* <a href="/libra
 - Loonshots by Safi Bahcall
 - Outliers by Malcolm Gladwell 📟
 - No Rules Rules: Netflix and the Culture of Reinvention 🎧
-- 
+- When Coffee and Kale Compete 📟
+
 ## Suggestions from Readings
 - Never Split the Difference by Christopher Voss and Tahl Raz 🎧
 - Persepolis 2 by Marjane Satrapi
@@ -35,7 +33,8 @@ In my case, it's list of books I would *like to own and read ;)* <a href="/libra
 - Storyworthy by Matthew Dicks
 - Infinite Powers by Steven Strogatz
 - User Friendly by Cliff Kuang and Robert Fabricant 
-## Found and Notes
+
+## Found and Noted
 - The Unusual Billionaires by Saurabh Mukherjea 🎧
 - Continuous Discovery Habits by Teresa Torres
 - The Extraordinary Adventures of Arsene Lupin by Maurice Leblanc
@@ -69,9 +68,17 @@ In my case, it's list of books I would *like to own and read ;)* <a href="/libra
 - How the Word Is Passed by Clint Smith
 - The Art of Gathering by Priya Parker
 - Linchpin by Seth Godin
+- Great Short Books: A Year of Reading—Briefly by Kenneth C. Davis
+- Building Knowledge Graphs by Jesus Barrasa, Maya Natarajan and Jim Webber
+- Expressive Design Systems by Yesenia Perez-Cruz
+- Design Sprint By Richard Banfield, C. Todd Lombardo and Trace Wax
+- Fixing Bad UX Designs By Lisandra Maioli
+- Design Thinking for Strategic Innovation: What They Can't Teach You at Business or Design School
+- The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapid Customer Feedback
 
 ---
-### Collection Legend
+
+#### Collection Legend
 
 - 📖 Book
 - 📟 Ebook

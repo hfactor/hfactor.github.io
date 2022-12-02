@@ -1,10 +1,9 @@
 ---
 title: Scorecards to Pilot Design System Migration
-feed: hide
-date: 2021-02-02
+tag: Design
 ---
-- Do [[Interface Inventory]], and find the frequency of usage of common components. Apply [[Pareto Principle]]
-- It is better to start with a pilot project instead of doing it for the entire project. 
+
+Start building a design system by building a weighted [[Interface Inventory]], based on frequency of reuse of common components. Then start with a pilot project. Use [[Pareto Principle]].
 
 ### Sweet Spot
 - Potential for reusable components/patterns. 

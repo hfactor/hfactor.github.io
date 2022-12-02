@@ -1,16 +1,11 @@
 ---
 title: Fat-marker method
-feed: hide
-date: 2021-07-20
+tag: Design
 ---
 
-- Don't use good drawing tools or regular pen/pencil to sketch your UI. 
-- It provides too much space, to build complex, over specified visual design. 
-- Instead, **use a fat marker**. 
-- It restricts detailing. 
+Don't use good drawing tools or regular pen/pencil to sketch your UI. It provides an option to to build complex detailed visual design. Instead, **use a fat marker**. It restricts detailing. 
 
 
 --- 
 ### Source
-- https://basecamp.com/shapeup/1.3-chapter-04#breadboarding
-- [[§Design]]
+- [[BOOK- Shape Up]]

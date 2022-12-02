@@ -4,6 +4,10 @@ permalink: /library
 ---
 This List of books I have read, along with my current reads. ✦ are for the must-reads. <a href="/antilibrary"><b>See Antilibrary.</b></a>
 
+### Reading Now
+- Ponniyin Selvan by Kalki Krishnamurthy(Now: Book 2, Ch.34)
+- The Back of the Napkin by Dan Roam
+
 ### 2022
 - [Tropic of the Sea](https://amzn.to/3oJK6w0) by Satoshi Kon ✦
 - പയ്യൻ കഥകൾ, വി. കെ. എൻ  ✦
@@ -15,6 +19,10 @@ This List of books I have read, along with my current reads. ✦ are for the mus
 - [Azadi](https://amzn.to/3atJTsx) by Arundhati Roy
 - [The Unusual Billionares](https://amzn.to/3wS1bqR) by Saurabh Mukharjea
 - [Tools of Titans](https://amzn.to/3LZcbYK) by Tim Ferriss
+- [A Life on Our Planet](https://amzn.to/3UhvBMQ) by David Attenborough
+- [Remote : Office Not Required](https://amzn.to/3B31vFX) by Jason Fried
+- [Indistractable](https://amzn.to/3FikTBi) by Nir Eyal
+
 ### 2021 
 - [വിലായത്ത് ബുദ്ധ](https://buybooks.mathrubhumi.com/product/vilayath-budha/), by G R Indugopan
 - [Crossing the Chasm](https://amzn.to/36x4kzQ) by Geoffrey A. Moore

@@ -1,17 +1,16 @@
 ---
 title: Look for rabbit holes
 feed: show
-date: 2021-07-21
+date: 21-07-2021
+tag: Product
 ---
-- Finding solutions are usually a fast-moving, fast-paced process. It might not be a 'deeper' exploration, but a 'broader'. 
-- Once we have solutions, it's essential to slow down and critically go through each step to see if we are missing anything. One way to analyze the solution is to walk through a use case in slow motion. We need to find edge cases and validate our assumptions, learning curve, and consistency of experience. 
+Finding solutions are usually a fast-moving, fast-paced process. It might not be a 'deeper' exploration, but a 'broader'. Once we have solutions, it's essential to slow down and critically go through each step to see if we are missing anything. 
+
+One way to analyze the solution is to walk through a use case in slow motion. We need to find edge cases and validate our assumptions, learning curve, and consistency of experience. 
 
 ## How I do 
-- On [[Breadboarding]] phase and High Fidelity Design phase, I prefer starting from base-point and going through all Affordances, and check what it leads to. 
-- Similar to how crawl goes through every pages, to generate a sitemap, the team goes through all options, not just the one focused on user goal or feature objective.
+On [[Breadboarding]] phase and High Fidelity Design phase, I prefer starting from base-point and going through all Affordances, and check what it leads to. (More like manual [crawl](https://www.computerhope.com/jargon/c/crawl.htm))
 
 --- 
 ### Source
-- [ShapeUp, Chapter 5](https://basecamp.com/shapeup/1.4-chapter-05)
-- [[--BOOK- Shape Up]]
-- [[§Product]]
+- [[BOOK- Shape Up]]

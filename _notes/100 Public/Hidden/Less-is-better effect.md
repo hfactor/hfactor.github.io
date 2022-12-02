@@ -1,15 +1,12 @@
 ---
 title: Less-is-better effect
-feed: hide
-date: 2021-07-17
+tag: Psychology 
 ---
 
-- The less-is-better defines a type of preference that, if evaluated separately, people tend to prefer lesser alternatives. 
-- But, if it's evaluated together, the preference is reversed, goes for the bigger one.
-- [[Less-is-more effect]]
+The less-is-better defines a type of preference that, if evaluated separately, people tend to prefer lesser alternatives. But, if it's evaluated together, the preference is reversed, goes for the bigger one.
 
+See also : [[Less-is-more effect]]
 
 --- 
 ### Source
-- [[--BOOK- Thinking, Fast and Slow]]
-- [[§Psychology]]
+[[BOOK- Thinking, Fast and Slow]]

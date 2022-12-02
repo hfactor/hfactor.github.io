@@ -1,13 +1,12 @@
 ---
 title: Meetings are not the place to surprise people
+date: 12-03-2021
 feed: show
-date: 2022-03-12
+tag: Business
 ---
-- It is always better to go to (conduct a) meeting with proper preparation and after providing clarity to the participants about the context. 
+It is always better to go to (conduct a) meeting with proper preparation and after providing clarity to the participants about the context. Bad meetings are time killers. Also bad meetings confuses participants with wrong perspectives, invalid biases and half-knowledge. This lead to unclear actions.
+
 - [[Good meeting checklist]]
-- Bad meetings are time killers.
-- Also it confuses participants with wrong perspectives, invalid biases and half-knowledge. This lead to unclear actions.
 
 --- 
 ### Source
-- [[§Leadership]]

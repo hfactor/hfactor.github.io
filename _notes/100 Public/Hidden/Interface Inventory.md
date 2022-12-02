@@ -1,7 +1,6 @@
 ---
 title: Interface Inventory
-feed: hide
-date: 2021-07-11
+tag: Design
 ---
 
 > An interface inventory is a comprehensive collection of the bits and pieces that make up your interface.
@@ -12,10 +11,6 @@ date: 2021-07-11
 - Name them, and arrange them based on similarity. 
 - Simplify, reduce and distill until all use-cases are sorted. 
 - Make notes on why and why not.
-
-
-
 --- 
 ### Source
 - [Bradfrost](https://bradfrost.com/blog/post/interface-inventory/)
-- [[§Design]]

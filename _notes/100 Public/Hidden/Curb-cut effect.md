@@ -1,7 +1,6 @@
 ---
 title: Curb-cut effect
-feed: hide
-date: 2021-07-11
+tag: Design
 ---
 
 - The curb-cut effect is the phenomenon that describes how products and policies designed for people with disabilities often end up helping everyone. 
@@ -9,5 +8,4 @@ date: 2021-07-11
 
 --- 
 ### Source
-- [[-Course- UX Design Process -Coursera]]
-- [[§Design]]
+- [[COURSE- UX Design Process-Coursera]]

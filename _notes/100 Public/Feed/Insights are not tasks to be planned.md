@@ -1,13 +1,11 @@
 ---
 title: Insights are not tasks to be planned
+date: 07-09-2021
 feed: show
-date: 2021-07-09
+tag: Knowledge-building 
 ---
 
-- Insights are the result of active thinking. Unlike an objective/goal, it cannot be planned. 
-- Most of the productivity methods, like Getting Things Done, are objective-focused. 
-- There is a clear definition of the objectives. 
-- For insights, it can't be planned.
+*Insights* are the result of active thinking. Unlike an objective/goal, it cannot be planned. Most of the productivity methods, like Getting Things Done, are objective-focused. There is a clear definition of the objectives. *For insights, it can't be planned.*
 	
 ### Related Topics
 - [[Never brainstorm for a topic]]
@@ -15,5 +13,4 @@ date: 2021-07-09
 
 --- 
 ### Source
-- [[--BOOK- How to Take Smart Notes]]
-- [[§Systems]]
+- [[BOOK- How to Take Smart Notes]]

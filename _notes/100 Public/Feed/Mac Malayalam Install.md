@@ -1,11 +1,12 @@
 ---
 title: Mac Malayalam Install
+date: 05-04-2022
 feed: show
-date: 2022-05-04
+tag: Tools
 ---
 
-- I use [Key Magic](https://keymagic.net/downloads/) with Mozhi Mapping to type phonetic Malayalam. 
-- Some times Mac might not allow you to install Keymagic from orginal source, in that case try download from [Mac Download](https://macdownload.informer.com/keymagic/) and install it.
+I use [Key Magic](https://keymagic.net/downloads/) with Mozhi Mapping to type phonetic Malayalam.Some times Mac might not allow you to install Keymagic from orginal source, in that case try download from [Mac Download](https://macdownload.informer.com/keymagic/) and install it.
+
 - Go to `System Preference > Keyboard > Input Source` and add Keymagic, from `Multiple Languages` option. (There is a `+` icon, on bottom-left). 
 - This will enable KeyMagic. Also, select 'Show Input Menu in Menu Bar'. 
 - Now, to configure Key Magic, Select Key Magic from Menu bar, and click on it again. 
@@ -15,7 +16,7 @@ date: 2022-05-04
 
 ## Typing using Malayalam Inscript
 
-- Instead of Malaylam-Mozhi.km2, download [Malayalam-Inscript.km2](https://drive.google.com/drive/folders/0B-zzYBMIntMxVkd0NXpLVGhSUms?resourcekey=0-XJsTz7bIVnpZ6l87mjVlNw) and you can type in inscript.
+If you want to use [InScript](https://en.wikipedia.org/wiki/InScript_keyboard) method instead of Mozhi, you can download [Malayalam-Inscript.km2](https://drive.google.com/drive/folders/0B-zzYBMIntMxVkd0NXpLVGhSUms?resourcekey=0-XJsTz7bIVnpZ6l87mjVlNw) instead of Malayalam-Mozhi.km2
 
 --- 
 ### Source

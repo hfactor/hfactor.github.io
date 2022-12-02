@@ -1,8 +1,6 @@
-
 ---
 title: Dan Harmon Story Circle
-feed: hide
-date: 2022-05-04
+tag: Writing
 ---
 ## 8 STEPS IN THE DAN HARMON STORY CIRCLE:
 1.  You — A character is in a zone of comfort,
@@ -17,4 +15,3 @@ date: 2022-05-04
 --- 
 ### Source
 - - [How the Dan Harmon Story Circle Can Make Your Story Better](https://www.studiobinder.com/blog/dan-harmon-story-circle/)
-- [[§Writing]]

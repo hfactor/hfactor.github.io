@@ -1,7 +1,6 @@
 ---
 title: Components
-feed: hide
-date: 2021-07-17
+tag: Systems
 ---
 
 - Components are portions of reusable code within your system, and they serve as the building blocks of your application’s interface.
@@ -9,4 +8,3 @@ date: 2021-07-17
 --- 
 ### Source
 - [[BOOK- Design Systems Handbook]]
-- [[§Systems]]

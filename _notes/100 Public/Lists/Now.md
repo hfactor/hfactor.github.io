@@ -1,6 +1,7 @@
 ---
 title: Now
 permalink: /now
+tag: Static
 ---
 
 A place to update what I’m doing now, inspired by [Derek Sivers](https://sive.rs/nowff)

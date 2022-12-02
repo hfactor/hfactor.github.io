@@ -1,12 +1,13 @@
 ---
 title: Lego-like structure
+date: 07-10-2021
 feed: show
-date: 2021-07-10
+tag: Design
 ---
 
-- An easier way of understanding [[Atomicity]] is by comparing it with Lego Box. The Lego Box contains a set of 'blocks,' a basic unit of the game.
+An easier way of understanding [[Atomicity]] is by comparing it with Lego Box. The Lego Box contains a set of 'blocks,' a basic unit of the game.
 
-###  Atomic Concept
+### Atomic Concept
 1. Lego Blocks are the smallest component. You can't break it into the smaller component. 
 2. By mix and match, you can build complex components. 
 3. There is a defined consistency/rules; you have to follow those to build stable results. 
@@ -17,4 +18,3 @@ date: 2021-07-10
 ### Source
 - [Toobler](https://www.toobler.com/how-lego-like-software-development-using-microservices-helped-toobler/)
 - [UXDesign.cc](https://uxdesign.cc/what-is-a-design-system-and-do-i-need-one-dd02769bb4fa)
-- [[§Design]]

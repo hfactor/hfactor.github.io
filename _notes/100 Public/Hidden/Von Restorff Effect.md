@@ -1,12 +1,9 @@
 ---
 title: Von Restorff Effect
-feed: hide
-date: 2021-07-24
+tag: UX
 ---
 
-- Also known as The Isolation Effect
-- predicts that when multiple similar objects are present, the one that differs from the rest is most likely to be remembered. 
-- On [[§UX]] context, it recommends to make key actions visually distinctive.
+Von Restorff Effect, also known as The Isolation Effect predicts that when multiple similar objects are present, the one that differs from the rest is most likely to be remembered. On #UX context, it recommends to make key actions visually distinctive.
 
 --- 
 ### Source

@@ -1,10 +1,9 @@
 ---
 title: Design Sprints
-feed: hide
-date: 2021-02-05
+tag: Design
 ---
+Design Sprint is a process for solving and validating ideas. Prototyping and testing are critical here. Without those, it will be just a brainstorming. 
 
-- Design Sprint is a process for solving and validating ideas. Prototyping and testing are critical here. Without those, it will be just a brainstorming. 
 - [[Design Sprint Phases]]
 - [[Design sprints aren’t just for designers.]] 
 
@@ -12,4 +11,3 @@ date: 2021-02-05
 ### Source
 - [[BOOK- Enterprise Design Sprints]]
 - [[BOOK- Sprint ]]
-- [[§Design]]

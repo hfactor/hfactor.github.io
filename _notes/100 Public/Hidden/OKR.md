@@ -1,22 +1,12 @@
 ---
 title: OKR
-feed: hide
-date: 2021-07-10
+tag: Systems
 ---
+Objectives and key results (OKR) is a goal-setting framework used by teams (or individuals) to define and track their goals and outcomes.
 
-#### Objective
-- A clearly defined goal.
-- Recommended to have 3, max 5.
-- An Objective is like a mission statement.
-- Goals Should Flow Top-Down and Bottom-Up.
-- The Objective is inspirational.
-
-#### Key Result 
-- Specific measures to track if the goal is met or not
-- Quantitative. (a usage metric, a revenue metric, and a satisfaction metric)
-- KRs Should Be Difficult, Not Impossible
+Usually, and OKR contains concrete, clearly defined goals (Objectives) and 4-5 measurable outcomes to track the objective (key results). While objectives are clearly defined, it has to be inspirational for the team. KRs should be measurable and method of Measurement should also have clarity. KRs can be difficult, but not impossible. 
 
 --- 
 ### Source
--  [[--BOOK- Radical Focus]]
--  [[--Defining Key Results]]
+[[BOOK- Radical Focus]]
+[[--Defining Key Results]], 1:1 with @BruceMcCarthy

@@ -20,21 +20,19 @@ Over the last 14 years, I’ve worked on a diverse range of products across mult
 - [Bullet Journal](https://bulletjournal.com/pages/learn) for task, habit and event tracking
 - [Pennline Quikrite](https://amzn.to/2KG9uBJ) notebooks 
 - [TWSBI Eco](https://amzn.to/3h2FLyU) ink pen
-- **Link: [My Bullet Journal Workflow](/writing/My-Bullet-Journal-Workflow)**
 
 ### Designing
 - [GIMP](https://www.gimp.org/) for Raster
 - [Inkscape](https://inkscape.org/)  for vector 
 - [Figma](https://www.figma.com/) for screen design. 
 - [Procreate App](https://procreate.art/) on my iPad, but not that well used.
-- [Figma Plugins](/lists/figma)
+- [[Figma Resources]]
 
 ### Note-Taking
 - Ex- [Evernote](https://evernote.com/) and [Notion](https://www.notion.so/) user.
 - Currently [Obsidian](https://obsidian.md/) + [Markdown](https://daringfireball.net/projects/markdown/).
 - Also uses [VSCode](https://code.visualstudio.com/) and [1writer](https://1writerapp.com/) to write.
 - Obsidian theme for choice is [California Coast](https://github.com/mgmeyers/obsidian-california-coast-theme), with font [IA Font](https://github.com/iaolo/iA-Fonts)
-
 
 ### Listening
 - [Audible](https://www.audible.in/) and [Storytel](https://www.storytel.com/in/en/) for Audiobook
@@ -46,6 +44,7 @@ Over the last 14 years, I’ve worked on a diverse range of products across mult
 - [Indic Keyboard](https://play.google.com/store/apps/details?id=org.smc.inputmethod.indic&hl=en&gl=US) for Android
 - [Varamozhi](https://apps.apple.com/us/app/varamozhi/id514987251)  for iPad
 - [Keymagic](https://junix.in/keymagic-with-malayalam/) for Mac
+- [[Mac Malayalam Install]]
 
 ### Misc Apps
 - [PCloud](https://my.pcloud.com/) for Storage
@@ -56,4 +55,4 @@ Over the last 14 years, I’ve worked on a diverse range of products across mult
 - [Substack](https://substack.com/) for Newsletter
 
 ### This Website
-- See[Website Credits](/list/credits)
+- See [[Site Credits]]

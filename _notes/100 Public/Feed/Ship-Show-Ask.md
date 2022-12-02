@@ -1,19 +1,16 @@
 ---
 title: Ship-Show-Ask
-feed: show 
-date: 2022-05-03
+date: 05-03-2022
+feed: show
+tag: Product
 ---
-- Ship/Show/Ask - PR with ability to make changes
-- Changes are categorized to three
-	- **Ship** (Merge to main, without review)
-	- **Show** (PR and Merge to Main)
-	- **Ask** (PR, then discuss, then merge)
-- Best of two worlds
-	- Merge your own pull request without waiting for feedback, then act to feedback if/when it comes.
-	- It encourages decision making to think about the change that we are making.
-- [[Design System Branching in Figma]]
+
+Ship/Show/Ask is a branching strategy that combines the features of Pull Requests with the option to continue shipping changes.  There are three categories of changes in this method. They are **Ship** (Merge to main, without review), **Show** (PR and Merge to Main) and **Ask** (PR, then discuss, then merge). 
+
+This provides advantages of both worlds as you can merge your own pull request without waiting for feedback, then act to feedback if/when it comes. Also, It encourages decision making to think about the change that we are making.
+
+[[Design System Branching in Figma]]
 
 --- 
 ### Source
-- [Ship  Show  Ask](https://martinfowler.com/articles/ship-show-ask.html)
-- [[§Product]]
+- [Ship/Show/Ask by Martin Fowler](https://martinfowler.com/articles/ship-show-ask.html)

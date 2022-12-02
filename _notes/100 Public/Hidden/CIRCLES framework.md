@@ -1,18 +1,8 @@
 ---
 title: CIRCLES framework
-feed: hide
-date: 2021-03-27
+tag: Systems
 ---
-
-- Problem solving framework with 7 steps.  
-	- Comprehend
-	- Identify
-	- Report Needs
-	- Cut through Prioritization 
-	- List Solution
-	- Evaluate
-	- Summarize
-
+Circles is a Problem solving framework with 7 steps. Comprehend, Identify, Report Needs, Cut through Prioritisation, List Solution, Evaluate and Summarise. 
 
 - **1. Comprehend** - Team often lacks context. Provide them by focusing on four things
 - **2. Identify** Identify the ideal customer persona (one or more). [[--You can’t build a product that works for everyone]]
@@ -33,6 +23,4 @@ date: 2021-03-27
 ---
 ### Source
 -  [https://productcoalition.com/how-our-cross-functional-teams-decide-what-to-build-at-whispir-e97757171e49](https://productcoalition.com/how-our-cross-functional-teams-decide-what-to-build-at-whispir-e97757171e49)
-
 -  [https://productcoalition.com/why-we-dont-interview-product-managers-anymore-ba1dd0031c0b](https://productcoalition.com/why-we-dont-interview-product-managers-anymore-ba1dd0031c0b)
-- [[§ProblemSolving]]

@@ -1,9 +1,7 @@
 ---
 title: Design Sprint Phases
-feed: hide
-date: 2021-02-07
+tag: Design
 ---
-
 #### Understand
 - What is the problem we’re trying to solve? 
 - [[Is this a real problem]]? 
@@ -31,4 +29,3 @@ date: 2021-02-07
 ### Source
 - [[BOOK- Enterprise Design Sprints]] 
 - [[BOOK- Sprint]]
-- [[§Design]]

@@ -1,23 +1,16 @@
 ---
 title: Good meeting checklist
+date: 12-03-2022
 feed: show
-date: 2022-03-12
+tag: Business
 ---
 
-- Don't agree to join a meeting without an agenda. 
-	- If not ask the organiser to write one
-	- Make sure it is not generic / abstract. 
-- If you are the one who is writing agenda, make sure it has these items : 
-	- Purpose of the meeting (Objective, Problems to solve etc)
-	- Expected Outcome (expected actions, deliverables, decisions)
-	- Participants Role (People impacted, level of involvement)
-	- Probable issues (Questions, concerns etc.)
-	- Process (How, what, what to prepare)
-- [[Meetings are not the place to surprise people]]
+1. Don't agree to join a meeting without an agenda. Ask organiser to write one, and make sure it's not a generic/abstract one. 
+2. While writing meeting agenda, make sure it clearly mention the purpose, the expected level of involvement, how to prepare and expected outcome. [[Meetings are not the place to surprise people]]
+
 - [[You don't have to be the first with an opinion]]
 - [[Documenting Meetings]]
 
 --- 
 ### Source
 - [Medium Post](https://medium.com/jump-start/stop-scheduling-meetings-without-the-3hs-and-5ps-6ed48eabec0f)
-- [[§Leadership]]
