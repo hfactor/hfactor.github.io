@@ -1,5 +1,5 @@
 ---
-title: Mac Malayalam Install
+title: Installing Malayalam keyboard in Mac
 date: 05-04-2022
 feed: show
 tag: Tools

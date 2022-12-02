@@ -44,7 +44,7 @@ Over the last 14 years, I’ve worked on a diverse range of products across mult
 - [Indic Keyboard](https://play.google.com/store/apps/details?id=org.smc.inputmethod.indic&hl=en&gl=US) for Android
 - [Varamozhi](https://apps.apple.com/us/app/varamozhi/id514987251)  for iPad
 - [Keymagic](https://junix.in/keymagic-with-malayalam/) for Mac
-- [[Mac Malayalam Install]]
+- [[Installing Malayalam keyboard in Mac]]
 
 ### Misc Apps
 - [PCloud](https://my.pcloud.com/) for Storage
