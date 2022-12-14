@@ -7,8 +7,9 @@ This List of books I have read, along with my current reads.
 <a href="/antilibrary"><b>See Antilibrary.</b></a>
 
 ### Reading Now
-- Ponniyin Selvan by Kalki Krishnamurthy (Now: Book 2, Ch.34)
+- Ponniyin Selvan by Kalki Krishnamurthy (Now: Book 3, Ch.4)
 - The Back of the Napkin by Dan Roam
+- Stories of the True, Jeyamohan
 
 ### 2022
 - [Tropic of the Sea](https://amzn.to/3oJK6w0) by Satoshi Kon ✦

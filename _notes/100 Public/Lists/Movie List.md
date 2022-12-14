@@ -8,11 +8,14 @@ An attempt to list **good and better** (<2.5 in scale of 5) movies I saw. I star
 - Super Sharanya, Malayalam, 2022
 - Bhoothakaalam, Malayalam, 2022
 - Mahaan, Tamil, 2022
-- Kadaisi Vivasayi, Tamil, 2022
+- [[Kadaisi Vivasayi]], Tamil, 2022
 - Bheeshma Parvam, Malayalam, 2022
-- Pada, Malayalam, 2022
+- [[Pada]], Malayalam, 2022
 - Salute, Malayalam, 2022
 - KGF 2, Kannada, 2022
 - Puzhu, Malayalam, 2022
 - Saani Kaayidham, Tamil, 2022
-- Kadaseela Biriyani, Tamil, 2021
+- [[Kadaseela Biriyani]], Tamil, 2021
+- Thallumaala, Malayalam, 2022
+- Oru Thekkan Thallu Case, Malayalam, 2022
+- [[Rorschach]], Malayalam 2022

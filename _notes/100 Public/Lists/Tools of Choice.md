@@ -37,7 +37,7 @@ Over the last 14 years, I’ve worked on a diverse range of products across mult
 ### Listening
 - [Audible](https://www.audible.in/) and [Storytel](https://www.storytel.com/in/en/) for Audiobook
 - [Voice app](https://play.google.com/store/apps/details?id=de.ph1b.audiobook&hl=en_IN&gl=US) in case if I need one 
-- [PocketCast](https://www.pocketcasts.com/) for Podcasts
+- [PocketCast](https://pocketcasts.com), [Google Podcasts](https://podcasts.google.com/) and [Snipd](https://www.snipd.com/) for Podcasts
 - [YTMusic](https://music.youtube.com/) for Music
 
 ### Malayalam Input

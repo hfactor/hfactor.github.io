@@ -8,4 +8,5 @@ A list is an excellent way to create sharable and evergreen resources. Here are 
 - [[AntiLibrary]]
 - [[Movie List]]
 - [[Tools of Choice]]
+- [[Podcasts]]
 - [[Figma]]
