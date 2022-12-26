@@ -1,5 +1,5 @@
 ---
-title: Movie List
+title: Podcasts
 permalink: /podcasts
 ---
 The podcast is still alien to me, but I keep attempting it. I haven't had enough chance to explore podcasts since I prefer fiction audiobooks for when I'm doing chores and old movie audio for when I'm working. Here is a list of a few podcasts I am subscribed to.  [PocketCast](https://pocketcasts.com), [Google Podcasts](https://podcasts.google.com/) and [Snipd](https://www.snipd.com/) are my [[Tools of Choice]]. 
