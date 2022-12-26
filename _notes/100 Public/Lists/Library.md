@@ -3,14 +3,17 @@ title: Library
 permalink: /library
 ---
 This List of books I have read, along with my current reads. 
-✦ are for the must-reads, and ❷ are re-reads. 
-<a href="/antilibrary"><b>See Antilibrary.</b></a>
+✦ are for the must-reads, and ❷ are re-reads. Also, <a href="/antilibrary"><b>See Antilibrary.</b></a> for the bigger list ;)
 
-### Reading Now
-- Ponniyin Selvan by Kalki Krishnamurthy (Now: Book 3, Ch.4)
+### Reading Now / Soon
+- Ponniyin Selvan by Kalki Krishnamurthy (Now: Book 3, Ch.28)
 - The Back of the Napkin by Dan Roam
 - Stories of the True, Jeyamohan
-
+- Build, Tony Fadell
+- The Groaning Shelf, Pradeep Sebastian 📖 
+- The odd book of baby names by Anees Ahamed 📖 
+- Before the coffee gets cold by Toshikazu Kawaguchi 📖 
+- Building Knowledge Graphs by Jesus Barrasa, Maya Natarajan and Jim Webber
 ### 2022
 - [Tropic of the Sea](https://amzn.to/3oJK6w0) by Satoshi Kon ✦
 - പയ്യൻ കഥകൾ, വി. കെ. എൻ  ✦
@@ -25,6 +28,8 @@ This List of books I have read, along with my current reads.
 - [A Life on Our Planet](https://amzn.to/3UhvBMQ) by David Attenborough
 - [Remote : Office Not Required](https://amzn.to/3B31vFX) by Jason Fried ❷ ✦
 - [Indistractable](https://amzn.to/3FikTBi) by Nir Eyal
+- [Ayako](https://amzn.to/3YOE6lV) by Osamu Tezuka
+- [I'm not here to give a speech](https://amzn.to/3FXaAli), Gabriel Garcia Marquez
 
 ### 2021 
 - [വിലായത്ത് ബുദ്ധ](https://buybooks.mathrubhumi.com/product/vilayath-budha/), by G R Indugopan
@@ -35,7 +40,7 @@ This List of books I have read, along with my current reads.
 - [Wild Swans](https://amzn.to/3vrJ34o) by Jung Chang ✦
 - [മാമുക്കോയ](https://www.amazon.in/MAMUKKOYA-THAHA-MADAI/dp/8126414529) by Thaha Madayi ❷ ✦
 - [കളക്ടർ ബ്രൊ : ഇനി ഞാൻ തള്ളട്ടെ](https://amzn.to/3BYh28Q) by Prashanth Nair IAS
-- [The Thrilling Adventures of Lovelace and Babbage](https://amzn.to/3ib7nUt), by Sydney Padua ✦
+- [The Thrilling Adventures of Lovelace and Babbage](https://amzn.to/3ib7nUt), by Sydney Padua✦
 - പരിണാമം, by M P Narayana Pillai ✦
 - [Super Thinking](https://amzn.to/2V6rNp9) by Gabriel Weinberg, Lauren McCann
 - യക്ഷി, by Malayattoor Ramakrishnan ❷ ✦

@@ -10,3 +10,4 @@ A list is an excellent way to create sharable and evergreen resources. Here are 
 - [[Tools of Choice]]
 - [[Podcasts]]
 - [[Figma]]
+- [[Now]]
