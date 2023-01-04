@@ -5,15 +5,14 @@ permalink: /library
 This List of books I have read, along with my current reads. 
 ✦ are for the must-reads, and ❷ are re-reads. Also, <a href="/antilibrary"><b>See Antilibrary.</b></a> for the bigger list ;)
 
-### Reading Now / Soon
-- Ponniyin Selvan by Kalki Krishnamurthy (Now: Book 3, Ch.28)
-- The Back of the Napkin by Dan Roam
-- Stories of the True, Jeyamohan
-- Build, Tony Fadell
-- The Groaning Shelf, Pradeep Sebastian 📖 
-- The odd book of baby names by Anees Ahamed 📖 
-- Before the coffee gets cold by Toshikazu Kawaguchi 📖 
+### Reading Now
+- Ponniyin Selvan by Kalki Krishnamurthy (Now: Book 4, Ch.14)
 - Building Knowledge Graphs by Jesus Barrasa, Maya Natarajan and Jim Webber
+- കല്യാണിയെന്നും ദാക്ഷായണിയെന്നും പേരായ രണ്ടുസ്ത്രീകളുടെ കത by ഡോ ആര്‍ രാജശ്രീ
+
+### 2023
+- The Back of the Napkin by Dan Roam
+
 ### 2022
 - [Tropic of the Sea](https://amzn.to/3oJK6w0) by Satoshi Kon ✦
 - പയ്യൻ കഥകൾ, വി. കെ. എൻ  ✦
@@ -29,7 +28,10 @@ This List of books I have read, along with my current reads.
 - [Remote : Office Not Required](https://amzn.to/3B31vFX) by Jason Fried ❷ ✦
 - [Indistractable](https://amzn.to/3FikTBi) by Nir Eyal
 - [Ayako](https://amzn.to/3YOE6lV) by Osamu Tezuka
-- [I'm not here to give a speech](https://amzn.to/3FXaAli), Gabriel Garcia Marquez
+- [I'm not here to give a speech](https://amzn.to/3FXaAli) by Gabriel Garcia Marquez
+- മറൈൻ കാൻ്റീൻ by Susmesh Chandroth
+- കപ്പിത്താന്റെ ഭാര്യ by ബിപിൻ ചന്ദ്രൻ
+- സോളോ സ്റ്റോറീസ് by Venu I.S.C
 
 ### 2021 
 - [വിലായത്ത് ബുദ്ധ](https://buybooks.mathrubhumi.com/product/vilayath-budha/), by G R Indugopan

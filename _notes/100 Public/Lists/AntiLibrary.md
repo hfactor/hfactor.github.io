@@ -7,8 +7,7 @@ By definition, An [antilibrary](https://fs.blog/the-antilibrary/) is a collectio
 ## Fiction - Malayalam
 - സോവിയ്റ്റ് സ്റ്റേഷന്‍കടവ്, Murali Krishnan
 - കടലിന്റെ മണം, പി. എഫ്. മാത്യുസ് 📖 
-- കപ്പിത്താന്റെ ഭാര്യ, ബിപിൻ ചന്ദ്രൻ
-- കല്യാണിയെന്നും ദാക്ഷായണിയെന്നും പേരായ രണ്ടുസ്ത്രീകളുടെ കത by ഡോ ആര്‍ രാജശ്രീ
+- അലയടിക്കുന്ന വാക്ക്, സുനിൽ പി ഇളയിടം 📖
 
 ## Fiction - English
 - The Forty Rules of Love by Elif Shafak 🎧
@@ -17,7 +16,7 @@ By definition, An [antilibrary](https://fs.blog/the-antilibrary/) is a collectio
 - The Buru Quartet by Pramoedya Ananta
 - Byomkesh Bakshi Stories by Sharadindu Bandyopadhyay
 - Radiant Fugitives by Nawaaz Ahmed
-- Detective Kosuke Kindaichi by Seishi Yokomizo,
+- Detective Kosuke Kindaichi by Seishi Yokomizo 
 - Eleanor Oliphant is Completely Fine by Gail Honeyman
 - Anxious People by Fredrik Backman
 - The Magician of Mazda by Ashwin Sanghi
@@ -25,6 +24,13 @@ By definition, An [antilibrary](https://fs.blog/the-antilibrary/) is a collectio
 - Dumplin' Series by Julie Murphy
 - The Midnight Library by Matt Haig
 - In the light of what we know by Zia Haider Rahman
+- The brief wondrous life of Oscar Wao by Junot Diaz
+- Hell fire by Leesa Gazi
+- Stories of the True, Jeyamohan 📖
+- The Groaning Shelf, Pradeep Sebastian 📖 
+- The Odd Book of Baby nNmes by Anees Ahamed 📖 
+- Before the coffee gets cold by Toshikazu Kawaguchi 📖 
+- Build, Tony Fadell 📟
 
 ## Design
 - User Friendly by Cliff Kuang and Robert Fabricant 

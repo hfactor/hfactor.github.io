@@ -3,20 +3,15 @@ title: Site Credits
 permalink: /credits
 tag: Static
 ---
-### Technology 
-- [Github Page](https://pages.github.com/) for hosting
-- [Jekyll](https://jekyllrb.com/) for Static site generation
-- [Bulma](https://bulma.io/) for CSS
-- Theme based on [Simply Jekyll](https://github.com/raghudotcc/simply-jekyll)
-- Modified version available at [Jekyll Garden Theme](https://jekyll-garden.github.io/posts/how-to)
-- [Jekyll Pygments](https://github.com/jwarby/jekyll-pygments-themes) for hightlight.css
+
+This website is powered by [Jekyll SSG](https://jekyllrb.com/), and hosted using [Github Page](https://pages.github.com/). The theme is based on [Simply Jekyll](https://github.com/raghudotcc/simply-jekyll) and modified version is available at [Jekyll Garden Theme](https://jekyll-garden.github.io/posts/how-to). Highlight.css is based on [Jekyll Pygments](https://github.com/jwarby/jekyll-pygments-themes). Please feel free to fork and use!
 
 ### Tools
 - [Obsidian](https://obsidian.md/) for knowledge management
 - [Dropbox](https://www.dropbox.com/home) to store and sync
 - [VS Code](https://code.visualstudio.com/) for coding
 - [Figma](https://figma.com/) for screen design
--  
+
 ### Fonts & More
 - [IBM Plex Sans](https://fonts.google.com/specimen/IBM+Plex+Sans) for text
 - [Feather Icons](https://feathericons.com/) for icons
@@ -26,7 +21,7 @@ tag: Static
 - Santosh Thottingal's Blog and [Wiki](https://docs.thottingal.in/)
 - Maggie Appleton for the way she writes [visually](https://maggieappleton.com/)
 - Andreas Klinger's [Blog](https://klinger.io/) for bulleted writing
-- [Mattew Strom](https://matthewstrom.com/) for fab long-forms
+- [Mattew Strom](https://matthewstrom.com/) for his fabulous long-forms
 
 ### Thanks List
 - [Anish](https://github.com/anishsheela), who pays for my domain :D

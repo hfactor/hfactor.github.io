@@ -32,7 +32,7 @@ title: Figma Resources
 - [Find and Replace](https://www.figma.com/community/plugin/735072959812183643/Find-and-Replace) for text find and replace!
   
 ### Tutorials
-- [Figma UI Design Tutorial: Get Started in Just 24 Minutes! (2022)](https://www.youtube.com/watch?v=FTFaQWZBqQ8)
+- [Figma UI Design Tutorial: Get Started in Just 24 Minutes(2022)](https://www.youtube.com/watch?v=FTFaQWZBqQ8)
 - [Figma Tutorial For UI Design ](https://www.youtube.com/watch?v=YmdtXc_bzDw) - 10 hour long!, but worth (skim & bookmark)
 - [Figma Tutorial : Variants, Official Video](https://www.youtube.com/watch?v=y29Xwt9dET0)
 - [Figma Tutorial : AutoLayout, Official Video](https://www.youtube.com/watch?v=PNJxeD29ZTg&list=PLXDU_eVOJTx55HFubfbTL3ellJjBM2QE2) - Must learn skill, best place to learn!
