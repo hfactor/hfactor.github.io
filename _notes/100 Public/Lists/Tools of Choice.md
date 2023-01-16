@@ -15,11 +15,12 @@ Over the last 14 years, I’ve worked on a diverse range of products across mult
 - [clippings.io](https://www.clippings.io/) for highlights. 
 - [Telegram](https://telegram.org/) Saved messages as read-it-later tool
 - [Obsidian Clipper](https://github.com/Liamballin/ObsidianBookmark) for sending Bookmarks to Obsidian
+- [Raindrop](https://raindrop.io/) for Bookmark management
 
 ### Analog
 - [Bullet Journal](https://bulletjournal.com/pages/learn) for task, habit and event tracking
-- [Pennline Quikrite](https://amzn.to/2KG9uBJ) notebooks 
-- [TWSBI Eco](https://amzn.to/3h2FLyU) ink pen
+- [Neorah Dotted Journal](https://amzn.to/3IQX7ys) notebooks 
+- [TWSBI Eco](https://amzn.to/3h2FLyU) and [Jinhao](https://amzn.to/3XBuXvs) fountain pens
 
 ### Designing
 - [GIMP](https://www.gimp.org/) for Raster
@@ -32,10 +33,17 @@ Over the last 14 years, I’ve worked on a diverse range of products across mult
 - Ex- [Evernote](https://evernote.com/) and [Notion](https://www.notion.so/) user.
 - Currently [Obsidian](https://obsidian.md/) + [Markdown](https://daringfireball.net/projects/markdown/).
 - Also uses [VSCode](https://code.visualstudio.com/) and [1writer](https://1writerapp.com/) to write.
-- Obsidian theme for choice is [California Coast](https://github.com/mgmeyers/obsidian-california-coast-theme), with font [IA Font](https://github.com/iaolo/iA-Fonts)
+- Obsidian theme for choice is [Things](https://github.com/colineckert/obsidian-things), with font [IA Font](https://github.com/iaolo/iA-Fonts)
+
+### Project Management
+- [Basecamp](https://basecamp.com/), if you prefer strong documentation and clarity
+- [Trello](https://trello.com/), simple task management
+- [Linear](https://linear.app/), for tech projects
+- [Github Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project), for simple tech projects
+- [Toggl](https://toggl.com), for time management and billing
 
 ### Listening
-- [Audible](https://www.audible.in/) and [Storytel](https://www.storytel.com/in/en/) for Audiobook
+- [Audible](https://www.audible.in/), [Storytel](https://www.storytel.com/in/en/), [KuKu FM](https://kukufm.page.link/LQiRZbrFGhBm4U8y5) for Audiobook
 - [Voice app](https://play.google.com/store/apps/details?id=de.ph1b.audiobook&hl=en_IN&gl=US) in case if I need one 
 - [PocketCast](https://pocketcasts.com), [Google Podcasts](https://podcasts.google.com/) and [Snipd](https://www.snipd.com/) for Podcasts
 - [YTMusic](https://music.youtube.com/) for Music
@@ -53,6 +61,8 @@ Over the last 14 years, I’ve worked on a diverse range of products across mult
 - [Grammarly](https://app.grammarly.com/) for english grammar (Not a paid user)
 - [Alfred](https://www.alfredapp.com/) for custom actions (Mac)
 - [Substack](https://substack.com/) for Newsletter
+- [Arc](https://arc.net/) for browsing (Mac)
+- [Habits](https://play.google.com/store/apps/details?id=org.isoron.uhabits&hl=en_IN&gl=US) for Habit Tracking (Android)
 
 ### This Website
 - See [[Site Credits]]
