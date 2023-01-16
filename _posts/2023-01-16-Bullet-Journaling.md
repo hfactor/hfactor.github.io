@@ -1,6 +1,6 @@
 ---
 layout: Post
-title:  "How I do Bullet Journaling"
+title:  "Bullet Journaling, My Personalised Method"
 permalink: /writing/bullet-journal
 ---
 
@@ -42,4 +42,4 @@ Instead of moving notes from one finished bullet journal to the next, I perform 
 
 #### Use other tools
 
-I don't force myself to use analog exclusively. I would prefer to use other tools if they could help me accomplish my goals more effectively. Instead of using a future or monthly log, I use Google Calendar. I prefer [Habits](https://play.google.com/store/apps/details?id=org.isoron.uhabits&hl=en_IN&gl=US) for habit tracking and [Toggl](https://toggl.com) for time tracking, if necessary. (Check [Tools](https://hiran.in/tools) Page for apps I use.)
+I don't force myself to use analog exclusively. I would prefer to use other tools if they could help me accomplish my goals more effectively. Instead of using a future or monthly log, I use Google Calendar. I prefer [Habits](https://play.google.com/store/apps/details?id=org.isoron.uhabits&hl=en_IN&gl=US) for habit tracking and [Toggl](https://toggl.com) for time tracking, if necessary. (Check [[Tools]] Page for apps I use.)
