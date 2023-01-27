@@ -28,9 +28,16 @@ By definition, An [antilibrary](https://fs.blog/the-antilibrary/) is a collectio
 - Hell fire by Leesa Gazi
 - Stories of the True, Jeyamohan 📖
 - The Groaning Shelf, Pradeep Sebastian 📖 
-- The Odd Book of Baby nNmes by Anees Ahamed 📖 
 - Before the coffee gets cold by Toshikazu Kawaguchi 📖 
-- Build, Tony Fadell 📟
+- Tomorrow, and Tomorrow, and Tomorrow by Gabrielle Zevin
+- Daughters of Smoke and Fire by Ava Homa
+- A Golden Age by Tahmima Anam
+- Noor by Sorayya Khan
+- The Secret History by Donna Tartt
+- Dairy of a Void by Emi Yagi
+- Klara and the Sun by Kazuo Ishiguro
+- The last Children of Tokyo by Yoko Tawada
+- The Cat Who Saved Books by Sosuke Natsukawa
 
 ## Design
 - User Friendly by Cliff Kuang and Robert Fabricant 
