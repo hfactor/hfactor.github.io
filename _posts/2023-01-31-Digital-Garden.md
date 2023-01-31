@@ -1,7 +1,7 @@
 ---
 layout: Post
 title:  "Building Digital Notes"
-permalink: /writing/digital-notes
+permalink: /writing/digital-garden
 ---
 
 The book [How to Take Smart Notes](https://amzn.to/3XXC9D6) and [Santosh's Digital Garden](https://docs.thottingal.in/) inspired me to build a PKM. I had a personal wiki using [Dokuwiki](https://www.dokuwiki.org/dokuwiki), and a large [Evernote](https://evernote.com/) collection of over 10k notes. 
@@ -23,8 +23,6 @@ While the concept of atomicity was clear in my experience of atomic design, it w
 ### Keep it simple.
 A few months of overusing Notion taught me that vendor locks are real. If I have to migrate to another tool, I will have to delete everything and start fresh.
 
---- 
-
 And based on these three points, I chose **Markdown**. The reason is simple. It's universal, plain-text, lightweight, and device/tool agnostic. It will take you less than 10 minutes to [understand Markdown](https://www.markdownguide.org/basic-syntax/) (there is nothing to learn). Moreover, I am sure that there will be some markdown editors available in the 2040s and 50s. 
 
 ## Obsidian Tool
@@ -32,17 +30,17 @@ I chose Obsidian since it was markdown-friendly. Similarly, I chose Jekyll for p
 
 ## Directory Structure 
 My current Obsidian vault has three folders - Inbox, Public, and Private. Anything new is sent to the Inbox, and everything published via Jekyll is in the 'Public' folder. The private folder contains everything from front matter templates to random private notes. The Public folder has three sub-folders to separate notes by feed visibility. (But that's an over-do, I did that for the theme, and will be removing it soon)
-> 
-> ``` 
-> - Inbox 
-> - Public
-> --- Feed
-> --- Hidden
-> --- Lists
-> - Private
-> --- Archives
-> --- Templates
-> ```
+
+ ``` 
+ - Inbox 
+ - Public
+ --- Feed
+ --- Hidden
+ --- Lists
+ - Private
+ --- Archives
+ --- Templates
+ ```
 
 ## Identifying files without a folder structure
 Folders are helpful when you have to build a tree-like structure where every 'content' has a location to be in. But are notes like that? I am not sure. With [Zettel](https://zettelgraph.com/) and PKM's approach, the intent is to build a graph and not a tree.
