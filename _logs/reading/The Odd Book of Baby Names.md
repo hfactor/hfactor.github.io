@@ -2,7 +2,7 @@
 title: The Odd Book of Baby Names
 date: 11-02-2023
 tldr: "Brilliant, like a painting"
-permalink: https://hiran.in/reading/The-Odd-Book-of-Baby-Names
+permalink: /reading/The-Odd-Book-of-Baby-Names
 meta: 
   type: book
   language: english
