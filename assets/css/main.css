@@ -3844,6 +3844,13 @@ a.navbar-item,
   position: relative;
 }
 
+.meta-values {
+  font-size: var(--text-s);
+  padding-bottom: var(--padding-thin);
+  color: var(--color-border-dark);
+  font-style: italic;
+  text-transform: capitalize;
+}
 .section.is-note .box {
   background: var(--color-bg-main); }
 

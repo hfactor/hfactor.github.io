@@ -94,6 +94,7 @@ By definition, An [antilibrary](https://fs.blog/the-antilibrary/) is a collectio
 - Standout 2.0 by Marcus Buckingham
 - Principles by Ray Dalio
 - Build Don't Talk by Raj Shamani
+- Thanks for the Feedback by Douglas Stone 
 
 ## Psychology
 - Outliers by Malcolm Gladwell 📟

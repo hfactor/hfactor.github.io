@@ -7,14 +7,17 @@ This List of books I have read, along with my current reads.
 
 ### Reading Now
 - Building Knowledge Graphs, Jesus Barrasa, Maya Natarajan and Jim Webber 
-- The Odd Book of Baby Names, Anees Ahamed 
 - Build, Tony Fadell
+- English, August, Upamanyu Chatterjee
+- Incognito, David Eagleman
+
 
 ### 2023
 - The Back of the Napkin, Dan Roam
 - Ponniyin Selvan, Kalki Krishnamurthy ✦
 - കല്യാണിയെന്നും ദാക്ഷായണിയെന്നും പേരായ രണ്ടുസ്ത്രീകളുടെ കത, ആർ രാജശ്രീ ✦
 - ഖസാക്കിന്റെ ഇതിഹാസം, ഓ.വി. വിജയൻ ❷
+- The Odd Book of Baby Names, Anees Ahamed ✦
 
 ### 2022
 - [Tropic of the Sea](https://amzn.to/3oJK6w0), Satoshi Kon ✦

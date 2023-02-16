@@ -4,6 +4,16 @@ permalink: /movies
 ---
 An attempt to list **good and better** (<2.5 in scale of 5) movies I saw. I started this page as a practice to log movies, but that's something I always fail to maintain!
 
+### 2023
+- Romancham, Malayalam, 2022
+- [[Mahaveeryar]], Malayalam, 2022
+- Menu, English, 2022
+- Thankam, Malayalam, 2022
+- Nanpakal Nerathu Mayakkam, Malayalam, 2022
+- Gargi, Tamil, 2022
+- Saudi Vellakka, Malayalam, 2022
+- Mukundan Unni Associates, Malayalam, 2022
+- 
 ### 2022
 - Bhoothakaalam, Malayalam, 2022
 - Mahaan, Tamil, 2022
@@ -20,9 +30,3 @@ An attempt to list **good and better** (<2.5 in scale of 5) movies I saw. I star
 - Thiruchitrambalam, Tamil, 2022
 - [[Rorschach]], Malayalam 2022
 - Love Today, Tamil, 2022
-
-### 2023
-- Mukundan Unni Associates, Malayalam, 2022
-- Saudi Vellakka, Malayalam, 2022
-- Gargi, Tamil, 2022
-- Nanpakal Nerathu Mayakkam, Malayalam, 2022
