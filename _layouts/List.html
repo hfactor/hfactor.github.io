@@ -1,0 +1,98 @@
+---
+---
+
+<!-------------------------------------------------------------------------------------
+*
+* MIT License
+* Copyright (c) 2020 Raghuveer S, Hiran Venugopalan, Asim K T
+*
+* Permission is hereby granted, free of charge, to any person obtaining a copy
+* of this software and associated documentation files (the "Software"), to deal
+* in the Software without restriction, including without limitation the rights
+* to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+* copies of the Software, and to permit persons to whom the Software is
+* furnished to do so, subject to the following conditions:
+*
+* The above copyright notice and this permission notice shall be included in all
+* copies or substantial portions of the Software.
+*
+* THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+* IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+* FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+* AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+* LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+* OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+* SOFTWARE.
+*
+------------------------------------------------------------------------------------>
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta content="width=device-width, initial-scale=1" name="viewport" />
+    <meta content="Hiran Venugopalan" property="og:site_name" />
+    <meta
+        content="Product and Type Designer | UI UX | Design Mentoring"
+        property="og:description">
+    <meta content="{{ site.url }}/about/" property="article:author">
+    <meta property="og:image" content="../assets/img/HirOG.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600&display=swap"
+        rel="stylesheet">
+    {%- if page.title -%}
+    <meta content="{{ page.title }}" property="og:title">
+    <meta content="article" property="og:type">
+    <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+    {%- else -%}
+    <meta content="website" property="og:type">
+    <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+    {%- endif -%}
+
+    <title>{{page.title}} - {{site.heading}}</title>
+    <script data-host="https://microanalytics.io" data-dnt="false" src="https://microanalytics.io/js/script.js" id="ZwSg9rf6GA" async defer></script>
+    <link rel="canonical" href="{{site.url}}{{page.url}}" />
+    <link rel="apple-touch-icon" href="{{ site.baseurl }}/assets/img/profile.png">
+    <link rel="icon" href="{{ site.baseurl }}/assets/img/favicon.png" type="image/png" sizes="16x16" />
+    <link href="{{ site.baseurl }}/assets/css/style.css" rel="stylesheet" media="all" class="default" />
+    <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet" media="all" class="default" />
+    <link href="{{ site.baseurl }}/assets/css/Util.css" rel="stylesheet" media="all" class="default" />
+    <link href="{{ site.baseurl }}/assets/css/vendor/Katex.css" rel="stylesheet" media="all" class="default" />
+
+    <!--[if IE]>
+        <link href="/assets/css/ie-target.css" rel="stylesheet" type="text/css"/>
+    <![endif]-->
+    <!--<link href="/assets/css/prism.css" rel="stylesheet" />-->
+    <link rel="alternate" type="application/rss+xml" href="{{ site.url }}/feed.xml">
+</head>
+
+<body>
+    <main>
+    {%- include Nav.html -%}
+    <section class="section">
+        <div class="columns is-centered">
+
+            <!--- Notes Layout-->
+            <div class="column is-6-widescreen  is-8-desktop is-8-tablet is-12-mobile">
+                    <div class="note-page-section">
+                        <div>
+                            {%- if site.preferences.homepage.enabled -%}
+                            <a onclick="window.history.back();">
+                            {%- else -%}
+                            <a onclick="window.location.assign('/');">
+                            {%- endif -%}
+                                    <h5 class="meta-title">← BACK</h5>
+                            </a>
+                        </div>
+
+                    <h1>{{page.title}}</h1>
+                    {%- include Content.html -%}
+                    {%- include Backlinks.html -%}
+                    </div>
+            </div>
+    </section>   
+    {%- include Footer.html -%}             
+</main>
+</body>
+</html>

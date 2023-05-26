@@ -1,17 +1,20 @@
 ---
-layout: Post
+layout: List
 permalink: /tags
-title: Notes by Tags
+title: Movies
+list-name: movie
 content-type: static
 ---
-{% assign tags =  site.notes | map: 'tags' | join: ','  | split: ',' | uniq %}
-{% for tag in tags %}
-  <h3 id="{{ tag }}">{{ tag }}</h3>
-  <ul>
-  {% for note in site.notes %}
-    {% if note.tags contains tag and note.feed == "show" %}
-    <li><a href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-  </ul>
-{% endfor %}
+
+<div>
+    {% assign note_items = site.logs | reverse %}
+    {% for note_items in note_items %}
+        {%- if note_items.meta.type == page.list-name -%}
+                <div class="notelist-feed">
+                    <a href="{{ site.baseurl }}{{note_items.url}}">
+                        {{note_items.title}}</a>, {{note_items.meta.language}} , {{note_items.meta.year}}, {{note_items.meta.rating}}
+                </div>
+
+        {%- endif -%}
+    {%- endfor -%}
+</div>

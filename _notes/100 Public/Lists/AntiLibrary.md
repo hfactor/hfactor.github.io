@@ -111,6 +111,7 @@ By definition, An [antilibrary](https://fs.blog/the-antilibrary/) is a collectio
 - On Writing Well by Wiliam Zinsser
 - Storyworthy by Matthew Dicks
 - Great Short Books: A Year of Reading—Briefly by Kenneth C. Davis
+- Second Thoughts: On Books, Authors and the Writerly Life by Navtej Sarna
 
 ## Other Languages
 - Thirukuzhal by M. Rajaram 📖 
