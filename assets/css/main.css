@@ -232,8 +232,8 @@ button,
 input,
 select,
 textarea {
-  font-family: "IBM Plex Sans", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif; }
-
+  font-family: 'Inter', sans-serif;
+  font-family: 'Newsreader', serif;
 code,
 pre {
   -moz-osx-font-smoothing: auto;

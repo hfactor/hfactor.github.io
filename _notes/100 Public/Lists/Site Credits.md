@@ -13,7 +13,7 @@ This website is powered by [Jekyll SSG](https://jekyllrb.com/), and hosted using
 - [Figma](https://figma.com/) for screen design
 
 ### Fonts & More
-- [IBM Plex Sans](https://fonts.google.com/specimen/IBM+Plex+Sans) for text
+- [Inter](https://fonts.google.com/specimen/Inter), [Newsreader](https://fonts.google.com/specimen/Newsreader),
 - [Feather Icons](https://feathericons.com/) for icons
 
 ### Inspirations
