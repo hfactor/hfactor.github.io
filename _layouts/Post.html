@@ -81,7 +81,7 @@
                             {%- include Homepage.html -%}
                     {%- else -%}
                             <!--- Show Feed Part -->
-                            <h5 class="meta-title"><a href="/">← Home</a></h5>
+                            <h5 class="back-arrow"><a href="/">← Home</a></h5>
                             <div class="jumbo">{{page.title}}</div>
                             {%- include FeedContent.html -%}
                             {%- include Feed.html -%}
@@ -92,9 +92,14 @@
 
             <!--- Feedpage Layout-->
             {%- if page.feedformat -%}
-                <h5 class="meta-title"><a href="/">← Home</a></h5>
-                    <div class="jumbo">{{page.title}}</div>
+            <div class="title-container">
+                <div class="title-left">
+                    <div>{{page.title}}</div>
+                </div>
+                <div class="title-right">
                     {%- include Content.html -%}
+                </div>
+            </div>
                     {%- include Feed.html -%}
             {%- endif -%}
 
@@ -107,7 +112,7 @@
                             {%- else -%}
                             <a onclick="window.location.assign('/');">
                             {%- endif -%}
-                                    <h5 class="meta-title">← BACK</h5>
+                                    <div class="back-arrow">←</div>
                             </a>
                         </div>
 
@@ -120,11 +125,6 @@
                     </style>                    
                     {%- endif -%}
                     <h1>{{page.title}}</h1>
-                    <ul class="tags">
-                        {%- for tag in page.tags -%}                           
-                            <li><a href="/tags#{{ tag }}" class="tag">{{ tag }}</a></li>
-                        {%- endfor -%}
-                    </ul>
                     {%- include Content.html -%}
                     {%- include Backlinks.html -%}
                     </div>
@@ -141,10 +141,10 @@
                              {%- else -%}
                              <a onclick="window.location.assign('/');">
                              {%- endif -%}
-                                     <h5 class="meta-title">← BACK</h5>
+                                     <h5 class="back-arrow">←</h5>
                              </a>
                          </div>
-                     <h5 class="meta-title"> {{ page.date | date:"%B %Y" }}</h5>
+                     <h5 class="back-arrow"> {{ page.date | date:"%B %Y" }}</h5>
                      <h1>{{page.title}}</h1>
                      {% if page.image %}
                          <img style="padding-bottom: 2em;" src="{{page.image}}">

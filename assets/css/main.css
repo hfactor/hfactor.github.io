@@ -30,7 +30,7 @@
 
 .box-feed:not(:last-child), .content:not(:last-child), .table:not(:last-child), .table-container:not(:last-child), .title:not(:last-child),
 .subtitle:not(:last-child), .block:not(:last-child), .highlight:not(:last-child) {
-  margin-bottom: 1rem; }
+  margin-bottom: var(--padding-normal); }
 
 .delete {
   -moz-appearance: none;
@@ -232,8 +232,7 @@ button,
 input,
 select,
 textarea {
-  font-family: 'Inter', sans-serif;
-  font-family: 'Newsreader', serif;
+  font-family: 'Inter', sans-serif; }
 code,
 pre {
   -moz-osx-font-smoothing: auto;
@@ -3908,3 +3907,39 @@ a.tag:hover {
     color:(--color-text-sub) !important;
   }
   
+  .title-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+    align-content: space-between;
+    padding-bottom: var(--padding-broad);
+  }
+  
+  .title-left {
+    display: block;
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: auto;
+    align-self: auto;
+    order: 0;
+    flex: 0 0 50%;
+    font-size: var(--text-l);
+    font-weight: 600;
+  }
+  
+  .title-right {
+    display: block;
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: auto;
+    align-self: auto;
+    order: 0;
+    flex: 0 0 50%;
+  }
+
+  .title-right p {
+    margin: 0px;
+    font-size: var(--text-s);
+  }
