@@ -31,8 +31,14 @@
 
 <!--Notes Feed-->
 <!--Static Page : pages/notes.md-->
-
-{%- if page.feedformat == "card" -%}
+<div class="title-container">
+    <div class="title-left">
+        <div>{{page.title}}</div>
+    </div>
+    <div class="title-right">
+        {%- include Content.html -%}
+    </div>
+</div>
     {%- if site.preferences.search.enabled -%}
         <!-- search bar -->
         <div class="block">
@@ -58,4 +64,3 @@
         {%- endif -%}
     {%- endfor -%}
     </div>
-{%-endif -%}

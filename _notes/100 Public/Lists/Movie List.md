@@ -1,6 +1,7 @@
 ---
 title: Movie List
 permalink: /movies
+format: list
 ---
 An attempt to list **good and better** (<2.5 in scale of 5) movies I saw. I started this page as a practice to log movies, but that's something I always fail to maintain!
 

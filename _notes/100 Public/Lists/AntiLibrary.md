@@ -1,6 +1,7 @@
 ---
 title: AntiLibrary
 permalink: /antilibrary
+format: list
 ---
 By definition, An [antilibrary](https://fs.blog/the-antilibrary/) is a collection of books we own but have never read. In my case, it's list of books I would *like to own / read ;)* <a href="/library"><b>See my Reading list.</b></a>
 

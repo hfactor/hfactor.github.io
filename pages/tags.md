@@ -1,5 +1,4 @@
 ---
-layout: List
 permalink: /tags
 title: Movies
 list-name: movie

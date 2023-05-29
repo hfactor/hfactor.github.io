@@ -72,39 +72,27 @@
     <section class="section">
         <div class="columns is-centered">
             <div class="column is-5-widescreen  is-6-desktop is-8-tablet is-12-mobile">
-
-
-            <!-- Homepage Layout-->
+            <!-- Usecase 1 : URL is homepage-->
             {%- if page.permalink == "/" -%}
                     {%- if site.preferences.homepage.enabled -%}
-                            <!--- Show Homepage -->
+                            <!--- If homepage enabled : Show Homepage -->
                             {%- include Homepage.html -%}
                     {%- else -%}
-                            <!--- Show Feed Part -->
-                            <h5 class="back-arrow"><a href="/">← Home</a></h5>
-                            <div class="jumbo">{{page.title}}</div>
-                            {%- include FeedContent.html -%}
+                            <!--- If homepage disabled : Show Feed Part -->
                             {%- include Feed.html -%}
                 </div>
                     {%- endif -%}
             </div>
             {%- endif -%}
 
-            <!--- Feedpage Layout-->
+            <!--- Usecase 2 : Feedpage Layout-->
             {%- if page.feedformat -%}
-            <div class="title-container">
-                <div class="title-left">
-                    <div>{{page.title}}</div>
-                </div>
-                <div class="title-right">
-                    {%- include Content.html -%}
-                </div>
-            </div>
                     {%- include Feed.html -%}
             {%- endif -%}
 
-            <!--- Notes Layout-->
-            {%- if page.content-type == "notes" -%}
+            <!--- Usecase 3: Content pages Layout-->
+            {%- if page.content-type == "notes" or page.content-type == "post" or page.content-type == "log" -%}
+                     <!--- Back button for all content pages-->
                     <div class="note-page-section">
                         <div>
                             {%- if site.preferences.homepage.enabled -%}
@@ -116,7 +104,7 @@
                             </a>
                         </div>
 
-                    <!--- List type Note Layout-->
+                    <!--- 3.1 List Layout-->
                     {%- if page.format == "list" -%}
                     <style>
                         li {border-bottom: 1px solid var(--color-border-light); list-style: none; padding: 0.4rem 0 0.4rem 0;}
@@ -124,43 +112,31 @@
                         h3 {padding-top: 1rem; padding-bottom: 0rem;}
                     </style>                    
                     {%- endif -%}
+                    {%- if page.content-type == "post" -%}
+                    <h5 class="back-arrow"> {{ page.date | date_to_long_string }}</h5>
+                    {% endif %}       
+                    {%- if page.meta -%}
+                                <h1 style=" padding-bottom: 0px">
+                                    {{page.title}}
+                                </h1>
+                            <div class="meta-values" style=" padding-bottom: var(--padding-broad); ">
+                                {% for item in page.meta %}
+                                    {{  item | last }} 
+                                    {% if forloop.last %}{% else %} • {% endif %}
+                                {% endfor %}
+                            </div>
+                    {%- else -%}
                     <h1>{{page.title}}</h1>
+                        {% endif %}      
                     {%- include Content.html -%}
                     {%- include Backlinks.html -%}
                     </div>
             </div>
             {%- endif -%}
-
-             <!--- Post Layout-->
-             {%- if page.content-type == "post"  -%}
-             <div class="column is-5-widescreen  is-6-desktop is-8-tablet is-12-mobile">
-                     <div class="note-page-section">
-                         <div>
-                             {%- if site.preferences.homepage.enabled -%}
-                             <a onclick="window.history.back();">
-                             {%- else -%}
-                             <a onclick="window.location.assign('/');">
-                             {%- endif -%}
-                                     <h5 class="back-arrow">←</h5>
-                             </a>
-                         </div>
-                     <h5 class="back-arrow"> {{ page.date | date:"%B %Y" }}</h5>
-                     <h1>{{page.title}}</h1>
-                     {% if page.image %}
-                         <img style="padding-bottom: 2em;" src="{{page.image}}">
-                     {% endif %}             
-                     {%- include Content.html -%}
-                     {%- include Backlinks.html -%}
-                     </div>
-             </div>
-             {%- endif -%}
-
             <!--- Static Page Layout-->
             {%- if page.content-type == "static" -%}
-            <div class="column is-5-widescreen  is-6-desktop is-8-tablet is-12-mobile">
-                        <div class="jumbo">{{page.title}}</div>                        
+                        <h1>{{page.title}}</h1>                        
                         {%- include Content.html -%}
-                </div>
             {%- endif -%}
         </div>
     </section>   

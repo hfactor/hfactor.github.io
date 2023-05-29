@@ -76,7 +76,7 @@ html[data-theme="dark"] {
 /* 02. Typography */
 
 .jumbo {
-    font-size: var(--text-jumbo);
+    font-size: var(--text-xxl);
     font-weight: var(--text-weight-normal);
     line-height: var(--text-leading-narrow);
     padding-bottom: 0;
@@ -99,7 +99,8 @@ h3 {
     font-size: var(--text-xl);
     line-height: var(--text-leading-normal);
     font-weight: var(--text-weight-normal);
-    padding: var(--padding-normal) 0;
+    padding-top: var(--padding-normal);
+    padding-bottom: var(--padding-thin);
 }
 
 h4 {
@@ -1503,7 +1504,9 @@ label.srs-toggle {
 }
 
 li {
-    padding-bottom: var(--padding-thin);
+    padding: var(--padding-thin) 0;
+    list-style: none;
+    font-size: var(--text-s);
 }
 
 a[href^="http"] {
