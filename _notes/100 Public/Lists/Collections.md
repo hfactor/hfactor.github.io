@@ -1,5 +1,5 @@
 ---
-title: Listing Resources
+title: Collections
 permalink: /lists
 format: list
 description: A list is an excellent way to create sharable and evergreen resources. Here are a few of those I've collected in my working notes
