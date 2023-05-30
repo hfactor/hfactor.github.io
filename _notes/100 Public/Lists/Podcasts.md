@@ -1,8 +1,10 @@
 ---
 title: Podcasts
 permalink: /podcasts
+format: list
+description: The podcast is still alien to me, but I keep attempting it. I haven't had enough chance to explore podcasts since I prefer fiction audiobooks for when I'm doing chores and old movie audio for when I'm working. Here is a list of a few podcasts I am subscribed to.
 ---
-The podcast is still alien to me, but I keep attempting it. I haven't had enough chance to explore podcasts since I prefer fiction audiobooks for when I'm doing chores and old movie audio for when I'm working. Here is a list of a few podcasts I am subscribed to.  [PocketCast](https://pocketcasts.com), [Google Podcasts](https://podcasts.google.com/) and [Snipd](https://www.snipd.com/) are my [[Tools of Choice]]. 
+
 
 ### Design
 - [99% Invisible](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9CcWJzeFZmTw?sa=X&ved=0CB0Q9sEGahgKEwiQ5vqI_-b7AhUAAAAAHQAAAAAQuwE)

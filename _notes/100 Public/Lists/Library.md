@@ -1,9 +1,9 @@
 ---
 title: Library
-permalink: /library
+format: list
+description: This List of books I have read, along with my current reads. ✦ are for the must-reads, and ❷ are re-reads. Also, <a href="/antilibrary"><b>See Antilibrary.</b></a> for the bigger list ;)
 ---
-This List of books I have read, along with my current reads. 
-✦ are for the must-reads, and ❷ are re-reads. Also, <a href="/antilibrary"><b>See Antilibrary.</b></a> for the bigger list ;)
+
 
 ### Reading Now
 - Building Knowledge Graphs, Jesus Barrasa, Maya Natarajan and Jim Webber 

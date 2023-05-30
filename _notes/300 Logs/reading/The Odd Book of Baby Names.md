@@ -1,7 +1,7 @@
 ---
 title: The Odd Book of Baby Names
 date: 11-02-2023
-tldr: "Brilliant, like a painting"
+tldr: Brilliant, like a painting
 permalink: /reading/The-Odd-Book-of-Baby-Names
 url: 
 meta: 
@@ -9,7 +9,6 @@ meta:
   language: english
   year: 2021
   people: Anees Salim
-  rating: ⭘⭘⭘⭘
 ---
 
 Initial pages had a spark and engagement that kept me going, but still it was hard for me to understand the narration pattern. Soon the narrative structure and characters become more precise, letting the reader picture all eight characters with all details, like an oil painting, similar to the book's cover. 

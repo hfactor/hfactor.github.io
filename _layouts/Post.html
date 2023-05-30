@@ -68,79 +68,106 @@
 
 <body>
     <main>
-    {%- include Nav.html -%}
-    <section class="section">
         <div class="columns is-centered">
-            <div class="column is-5-widescreen  is-6-desktop is-8-tablet is-12-mobile">
-            <!-- Usecase 1 : URL is homepage-->
-            {%- if page.permalink == "/" -%}
+            <div class="column is-5-widescreen is-6-desktop is-8-tablet is-12-mobile">
+                <!-- Navigation-->
+                {%- include Nav.html -%}
+
+
+                {%- if page.permalink == "/" -%}
+                    <!-- 1. Homepage. You can have a static homepage at _config.yml. Configure at homepage.html inside _includes -->                
                     {%- if site.preferences.homepage.enabled -%}
-                            <!--- If homepage enabled : Show Homepage -->
-                            {%- include Homepage.html -%}
+                        {%- include Homepage.html -%}
                     {%- else -%}
-                            <!--- If homepage disabled : Show Feed Part -->
-                            {%- include Feed.html -%}
-                </div>
+                        {%- include Feed.html -%}
                     {%- endif -%}
-            </div>
-            {%- endif -%}
-
-            <!--- Usecase 2 : Feedpage Layout-->
-            {%- if page.feedformat -%}
+                {%- elsif page.permalink == "/notes" -%}
+                    <!-- 2. If you have a static homepage, you can use this to configure feed page -->                
                     {%- include Feed.html -%}
-            {%- endif -%}
+                {%- elsif page.content-type == "notes" or page.content-type == "post" -%}
+                    <!-- 
+                        There are two collections, the default blog post named "Post" and "notes" for notes.
+                        I didn't create a seprate collection based on layout, to make it easier for Obsidian
+                        You can do that by duplicating this page, and breaking this if condition to layouts
 
-            <!--- Usecase 3: Content pages Layout-->
-            {%- if page.content-type == "notes" or page.content-type == "post" or page.content-type == "log" -%}
-                     <!--- Back button for all content pages-->
-                    <div class="note-page-section">
-                        <div>
-                            {%- if site.preferences.homepage.enabled -%}
-                            <a onclick="window.history.back();">
-                            {%- else -%}
-                            <a onclick="window.location.assign('/');">
-                            {%- endif -%}
-                                    <div class="back-arrow">←</div>
-                            </a>
-                        </div>
-
-                    <!--- 3.1 List Layout-->
+                        Defined layouts are : 
+                        1. Post Page - Page with date, title and content 
+                        2. Note Page - Page with title, content and backlinks
+                        3. Log Page - Page with title, meta and content and backlink
+                        4. List Page - Page with title+description, and content, which is mostly a list. No backlinks
+                        5. Static - Simple page, with title and content
+                    -->
                     {%- if page.format == "list" -%}
-                    <style>
-                        li {border-bottom: 1px solid var(--color-border-light); list-style: none; padding: 0.4rem 0 0.4rem 0;}
-                        .content ul { padding-left: 0px;}
-                        h3 {padding-top: 1rem; padding-bottom: 0rem;}
-                    </style>                    
-                    {%- endif -%}
-                    {%- if page.content-type == "post" -%}
-                    <h5 class="back-arrow"> {{ page.date | date_to_long_string }}</h5>
-                    {% endif %}       
-                    {%- if page.meta -%}
-                                <h1 style=" padding-bottom: 0px">
-                                    {{page.title}}
-                                </h1>
-                            <div class="meta-values" style=" padding-bottom: var(--padding-broad); ">
-                                {% for item in page.meta %}
-                                    {{  item | last }} 
-                                    {% if forloop.last %}{% else %} • {% endif %}
-                                {% endfor %}
+                        <!-- Layout 4 List Page-->
+                        <style>
+                            li {
+                                border-bottom: 1px solid var(--color-border-light);
+                                list-style: none;
+                                padding: 0.4rem 0 0.4rem 0;
+                            }
+                            .content ul {
+                                padding-left: 0px;
+                            }
+                            h3 {
+                                padding-top: 1rem;
+                                padding-bottom: 0rem;
+                            }
+                        </style>
+                        <div class="title-container">
+                            <div class="title-left">
+                                <div>{{ page.title }}</div>
                             </div>
-                    {%- else -%}
-                    <h1>{{page.title}}</h1>
-                        {% endif %}      
-                    {%- include Content.html -%}
-                    {%- include Backlinks.html -%}
-                    </div>
-            </div>
-            {%- endif -%}
-            <!--- Static Page Layout-->
-            {%- if page.content-type == "static" -%}
-                        <h1>{{page.title}}</h1>                        
+                            <div class="title-right">
+                                <p>{{ page.description }}</p>
+                            </div>
+                        </div>
                         {%- include Content.html -%}
-            {%- endif -%}
+                    {%- else -%}
+                        <!-- Global Back arrow -->                
+                        <div class="note-page-section">
+                            <div>
+                                <a onclick="window.history.back();">
+                                    <div class="back-arrow"> ← </div>
+                                </a>
+                            </div>
+
+                            {%- if page.content-type == "post" -%}
+                                <!-- Layout 1 Post-->
+                                <h5 class="back-arrow">{{ page.date | date_to_long_string }}</h5>
+                                <h1>{{ page.title }}</h1>
+                                {%- include Content.html -%}
+                            {%- endif -%}
+
+                            {%- if page.category == "note" -%}
+                                <!-- Layout 2 Note-->
+                                <h1>{{ page.title }}</h1>
+                                {%- include Content.html -%}
+                                {%- include Backlinks.html -%}
+                            {%- endif -%}
+
+                            {%- if page.format == "log" -%}
+                            <!-- Layout 3 Logs-->                
+                                <h1 style="padding-bottom: 0px">
+                                {{ page.title }}
+                                </h1>
+                                <div class="meta-values" style="padding-bottom: var(--padding-broad);">
+                                    {% for item in page.meta %}
+                                        {{ item | last }}
+                                        {% if forloop.last %}{% else %} • {% endif %}
+                                    {% endfor %}
+                                </div>
+                                {%- include Content.html -%}       
+                            {%- endif -%}
+                    {%- endif -%}
+                {%- endif -%}
+                    {%- if page.content-type == "static" -%}
+                        <!-- Layout 5 Static-->
+                        <h1>{{ page.title }}</h1>
+                        {%- include Content.html -%}
+                    {%- endif -%}
+                    {%- include Footer.html -%}
+            </div>
         </div>
-    </section>   
-    {%- include Footer.html -%}             
-</main>
+    </main>
 </body>
 </html>

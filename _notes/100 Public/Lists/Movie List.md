@@ -2,8 +2,8 @@
 title: Movie List
 permalink: /movies
 format: list
+description: An attempt to list **good and better** (<2.5 in scale of 5) movies I saw. I started this page as a practice to log movies, but that's something I always fail to maintain!
 ---
-An attempt to list **good and better** (<2.5 in scale of 5) movies I saw. I started this page as a practice to log movies, but that's something I always fail to maintain!
 
 ### 2023
 - Romancham, Malayalam, 2022

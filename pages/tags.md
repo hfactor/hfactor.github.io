@@ -1,5 +1,4 @@
 ---
-permalink: /tags
 title: Movies
 list-name: movie
 content-type: static

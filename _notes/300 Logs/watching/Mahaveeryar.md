@@ -1,7 +1,9 @@
 ---
 title: Mahaveeryar
 date: 10-02-2023
-tldr: "An amazing experiment"
+tldr: An amazing experiment
+category: watching
+format: log
 meta: 
   type: movie
   language: malayalam

@@ -1,7 +1,7 @@
 ---
 title: Site Credits
 permalink: /credits
-tag: Static
+format: list
 ---
 
 This website is powered by [Jekyll SSG](https://jekyllrb.com/), and hosted using [Github Page](https://pages.github.com/). The theme is based on [Simply Jekyll](https://github.com/raghudotcc/simply-jekyll) and modified version is available at [Jekyll Garden Theme](https://jekyll-garden.github.io/posts/how-to). Highlight.css is based on [Jekyll Pygments](https://github.com/jwarby/jekyll-pygments-themes). Please feel free to fork and use!

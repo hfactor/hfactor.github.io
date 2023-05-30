@@ -208,7 +208,7 @@ main {
 }
 
 @media screen and (min-width: 768px) {
-    .buttons.for-back-home:not(:last-child) {}
+    
 }
 
 /* 05. Text Styles */
@@ -952,8 +952,6 @@ hr {
     font-size: 13px;
 }
 
-.content {}
-
 .content a {
     color: var(--color-text-link);
     text-decoration: none;
@@ -1158,7 +1156,6 @@ label.srs-toggle {
     left: 1rem;
     clear: both;
     margin: 1rem 2.5%;
-    vertical-align: baseline;
     position: relative;
     padding: 12px;
     width: 240px;
@@ -1456,14 +1453,12 @@ label.srs-toggle {
         clear: both;
         width: 95%;
         margin: 1rem 2.5%;
-        vertical-align: baseline;
         position: relative;
     }
 
     .sketch-left,
     .sketch-right {
         display: inline-block !important;
-        float: left !important;
         left: 1rem !important;
         clear: both !important;
         width: 95% !important;
@@ -1504,7 +1499,7 @@ label.srs-toggle {
 }
 
 li {
-    padding: var(--padding-thin) 0;
+    padding-bottom: var(--padding-normal);
     list-style: none;
     font-size: var(--text-s);
 }
@@ -1559,9 +1554,6 @@ a[href^="http"] {
     font-size: var(--text-s);
     color: var(--color-text-sub);
     padding-top: var(--padding-thin);
-}
-
-.home-intro {
 }
 
 @media screen and (max-width:320px)

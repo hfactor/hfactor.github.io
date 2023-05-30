@@ -1,12 +1,10 @@
 ---
 title: Now
 permalink: /now
-tag: Static
+content-type: static
 ---
 
 A page that tells you what I am focused on at this point of life. Inspired by [Derek Sivers's](https://sive.rs/nowff), [Now Page idea](https://nownownow.com/about). 
-
-## Now
 
 - Working on a design system for an enterprise product that needs to scale and support multiple use cases and regions.
 - DONE : Building an [[AntiLibrary]] by category and making reading a daily habit. (If any suggestions, do share via [email](mailto:hiran.v@gmail.com) or DM to [twitter](http://twitter.com/hfactor))

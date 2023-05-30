@@ -2,8 +2,9 @@
 title: AntiLibrary
 permalink: /antilibrary
 format: list
+description: By definition, An <a href="https://fs.blog/the-antilibrary/"> antilibrary</a> is a collection of books we own but have never read. In my case, it's list of books I would <i>like to own / read ;)</i> <a href="/library"><b>See my Reading list.</b></a>
 ---
-By definition, An [antilibrary](https://fs.blog/the-antilibrary/) is a collection of books we own but have never read. In my case, it's list of books I would *like to own / read ;)* <a href="/library"><b>See my Reading list.</b></a>
+
 
 ## Fiction - Malayalam
 - സോവിയ്റ്റ് സ്റ്റേഷന്‍കടവ്, Murali Krishnan

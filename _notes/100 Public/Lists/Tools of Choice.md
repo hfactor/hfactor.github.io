@@ -1,8 +1,9 @@
 ---
 title: Tools of Choice
 permalink: /tools
+format: list
+description: Explore my handpicked collection of preferred tools, covering analog and digital domains, tailored for Mac and Android platforms.
 ---
-Over the last 14 years, I’ve worked on a diverse range of products across multiple disciplines from UX research, visual design, interaction design, and code. Read More
 
 ### Devices
 - Mac Book Pro for design and office use
@@ -18,9 +19,10 @@ Over the last 14 years, I’ve worked on a diverse range of products across mult
 - [Raindrop](https://raindrop.io/) for Bookmark management
 
 ### Analog
-- [Bullet Journal](https://bulletjournal.com/pages/learn) for task, habit and event tracking
+- [Bullet Journal](https://bulletjournal.com/pages/learn) for task, thinking and jotting down.
 - [Neorah Dotted Journal](https://amzn.to/3IQX7ys) notebooks 
 - [TWSBI Eco](https://amzn.to/3h2FLyU) and [Jinhao](https://amzn.to/3XBuXvs) fountain pens
+- [Lamy Safari Finetip](https://amzn.to/3OHOs4z) and [uni-Ball Kuru Toga](https://amzn.to/45PbjRZ) for sketching
 
 ### Designing
 - [GIMP](https://www.gimp.org/) for Raster
