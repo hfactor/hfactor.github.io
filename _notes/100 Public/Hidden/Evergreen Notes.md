@@ -15,4 +15,4 @@ Both [[Zettelkasten]] and Evergreen Notes suggests the concept of making notes t
 --- 
 ### Source
 - [Andy on Evergreen notes](https://notes.andymatuschak.org/Evergreen_notes)
-- [https://maggieappleton.com/evergreens](https://maggieappleton.com/evergreens)
+- [Maggie Appleton](https://maggieappleton.com/evergreens)

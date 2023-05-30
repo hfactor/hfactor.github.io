@@ -127,7 +127,7 @@
                         <div class="note-page-section">
                             <div>
                                 <a onclick="window.history.back();">
-                                    <div class="back-arrow"> ↖ </div>
+                                    <div class="back-arrow"> ← </div>
                                 </a>
                             </div>
 
@@ -139,6 +139,14 @@
                             {%- endif -%}
 
                             {%- if page.category == "note" -%}
+                                <style>
+                                li::marker {
+                                    content: '• ';
+                                }
+                            </style>
+                            <!-- ഊള പരിപാടിയാണേലും ഇമ്മാതിരി എഴുതാനേ എന്നെ കൊണ്ടൊക്കൂ!
+                            ലോജിക്ക് വിസ്തരിക്കുന്നില്ല, എനിക്ക് തന്നെ നാണമാവുന്നു! -->
+
                                 <!-- Layout 2 Note-->
                                 <h1>{{ page.title }}</h1>
                                 {%- include Content.html -%}

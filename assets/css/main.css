@@ -1142,7 +1142,7 @@ ol p {
 .content ul {
   list-style: inside;
   margin-top: 1rem; 
-  padding-left: 0.4rem;
+  padding-left: 0rem;
   margin-block: 0;
 }
   .content ul ul {
@@ -1889,6 +1889,7 @@ a.tag:hover {
 .navbar {
   min-height: 3.25rem;
   position: relative;
+  padding-bottom: var(--padding-broad);
   z-index: 30; }
   .navbar.is-white {
     background-color: var(--color-bg-sub);
@@ -2435,7 +2436,9 @@ body.has-navbar-fixed-bottom {
 
 a.navbar-item,
 .navbar-link {
-  cursor: pointer; }
+  cursor: pointer; 
+  font-size: var(--ttext-smaller);
+}
   a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover, a.navbar-item.is-active,
   .navbar-link:focus,
   .navbar-link:focus-within,
@@ -3925,8 +3928,8 @@ a.tag:hover {
     align-self: auto;
     order: 0;
     flex: 0 0 50%;
-    font-size: var(--text-l);
-    font-weight: 600;
+    font-size: var(--ttext-largest);
+    font-weight: var(--text-weight-bold);
   }
   
   .title-right {

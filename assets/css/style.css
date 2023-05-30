@@ -71,6 +71,12 @@ html[data-theme="dark"] {
     --padding-thin: 0.8rem;
     --font-main: 'Inter';
     --font-sub: 'Newsreader';
+
+    --ttext-smallest: clamp(0.875rem, 0.875rem + 0vw, 0.875rem);
+    --ttext-smaller: clamp(0.875rem, 0.8527rem + 0.1116vw, 0.9375rem);
+    --ttext-base: clamp(0.9375rem, 0.9152rem + 0.1116vw, 1rem);
+    --ttext-large: clamp(1.125rem, 0.9911rem + 0.6696vw, 1.5rem);
+    --ttext-largest: clamp(1.5rem, 1.2321rem + 1.3393vw, 2.25rem);
 }
 
 /* 02. Typography */
@@ -83,50 +89,30 @@ html[data-theme="dark"] {
 }
 
 h1 {
-    font-size: var(--text-xxl);
+    font-size: var(--ttext-largest);
     line-height: var(--text-leading-narrow);
-    padding-bottom: var(--padding-broad);
+    padding-bottom: var(--padding-normal);
 }
 
-h2 {
-    font-size: var(--text-xl);
-    line-height: var(--text-leading-normal);
-    font-weight: var(--text-weight-bold);
-    padding: var(--padding-normal) 0;
-}
 
-h3 {
-    font-size: var(--text-xl);
+h2, h3, h4, h5 {
+    font-size: var(--ttext-large);
     line-height: var(--text-leading-normal);
     font-weight: var(--text-weight-normal);
     padding-top: var(--padding-normal);
     padding-bottom: var(--padding-thin);
 }
 
-h4 {
-    font-size: var(--text-l);
-    line-height: var(--text-leading-wide);
-    font-weight: var(--text-weight-bold);
-    padding: var(--padding-thin) 0;
-}
-
-h5 {
-    font-size: var(--text-l);
-    line-height: var(--text-leading-wide);
-    font-weight: var(--text-weight-normal);
-    padding: var(--padding-thin) 0;
-}
-
 h6 {
-    font-size: var(--text-m);
+    font-size: var(--ttext-smallest);
     line-height: var(--text-leading-normal);
     font-weight: var(--text-weight-bold);
     padding: var(--padding-thin) 0;
 }
 
 p {
-    font-size: var(--text-m);
-    line-height: var(--text-leading-normal);
+    font-size: var(--ttext-base);
+    line-height: var(--text-leading-wide);
     font-weight: var(--text-normal);
     margin: 0 0 1em 0;
 }
@@ -217,15 +203,19 @@ main {
     font-size: var(--text-m);
 }
 
-.centre-title {
+.center-title {
     text-align: center;
-    padding: var(--padding-normal);
+    /* padding: var(--padding-normal); */
+    font-size: var(--ttext-smaller);
+    font-weight: var(--text-weight-normal);
+    text-transform: uppercase;
+    letter-spacing: 0.3rem;
 }
 
 .excerpt {
     color: var(--color-text-main) !important;
     margin: 0;
-    font-size: var(--text-s);
+    font-size: var(--ttext-smallest);
 }
 
 /* 06. Related Notes */
@@ -1499,8 +1489,7 @@ label.srs-toggle {
 }
 
 li {
-    padding-bottom: var(--padding-normal);
-    list-style: none;
+    padding-bottom: var(--padding-thin);
     font-size: var(--text-s);
 }
 

@@ -7,7 +7,6 @@ tag: Knowledge-building
 *Zettelkasten* is a method of personal knowledge management used by Niklas Luhmann, a German sociologist. It recommends creating independent [[Atomicity]] notes so that we can connect them with other ideas and build new ideas.
 - [[Types of Notes in Zettelkasten]]	
 - [[Idea of having an Index Note]]
-
 - [[Normal note-taking fails to connect ideas]]
 - [[Difference between Evergreen and Zettel]]
 - [[Non-linear Note making]]
