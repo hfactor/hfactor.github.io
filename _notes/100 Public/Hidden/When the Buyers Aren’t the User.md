@@ -1,5 +1,6 @@
 ---
 title: When the Buyers Aren’t the User
+category: note
 tag: Product
 ---
 I agree to Jason Fried's [perspective](https://signalvnoise.com/posts/669-why-enterprise-software-sucks) (written in 2007) on why Enterprise Software Experiences is bad. It's primarily because **The Buyers Aren’t the Users**.

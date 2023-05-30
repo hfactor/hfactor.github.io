@@ -1,6 +1,7 @@
 ---
 title: Hick's Law
 tag: UX
+category: note
 ---
 
 The time it takes to make a decision increases with the number and complexity of choices. Don't provide too many choices, as it increases decision time.

@@ -1,6 +1,7 @@
 ---
 title: Availability Bias
 tag: Psychology 
+category: note
 ---
 The availability bias is a tendency to think that examples that come readily to mind are more representative than is the case.
 

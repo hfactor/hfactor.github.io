@@ -1,5 +1,6 @@
 ---
 title: Zeigarnik Effect
+category: note
 tag: Psychology
 ---
 

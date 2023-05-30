@@ -2,6 +2,7 @@
 title: Brand differs from person to person
 date: 17-07-2021
 feed: show
+category: note
 tag: Branding
 ---
 

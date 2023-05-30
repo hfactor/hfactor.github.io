@@ -2,6 +2,7 @@
 title: Design is Scaling
 date: 06-02-2021
 feed: show
+category: note
 tag: Design
 ---
 

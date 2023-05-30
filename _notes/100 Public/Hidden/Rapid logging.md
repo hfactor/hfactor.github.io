@@ -1,6 +1,7 @@
 ---
 title: Rapid logging
 tag: Knowledge-building 
+category: note
 ---
 
 Rapid logging is a note taking format, very is similar to [[Outline Notes]]. They are bite sized blocks, not paragraphs. It has four components -  **Title** to provide context, a **Page Number** to use in Index ([[Idea of having an Index Note]]), **Short phrases**, sentence and **Bullet icons** to act a separator or to provide idea on the content. [[Bullet Journaling]] has common set of icons for tasks, notes etc.

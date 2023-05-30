@@ -1,6 +1,7 @@
 ---
 title: Scorecards to Pilot Design System Migration
 tag: Design
+category: note
 ---
 
 Start building a design system by building a weighted [[Interface Inventory]], based on frequency of reuse of common components. Then start with a pilot project. Use [[Pareto Principle]].

@@ -2,6 +2,7 @@
 title: Strategic Laziness
 date: 15-07-2021
 feed: show
+category: note
 tag: Systems
 ---
 

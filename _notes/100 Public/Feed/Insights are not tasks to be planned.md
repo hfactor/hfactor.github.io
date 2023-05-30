@@ -2,6 +2,7 @@
 title: Insights are not tasks to be planned
 date: 07-09-2021
 feed: show
+category: note
 tag: Knowledge-building 
 ---
 

@@ -2,6 +2,7 @@
 title: Radical Delegation
 date: 04-04-2021
 feed: show
+category: note
 tag: Systems
 ---
 

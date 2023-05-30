@@ -2,6 +2,7 @@
 title: Software design should be opinionated
 date: 20-07-2021
 feed: show
+category: note
 tag: Product
 ---
 

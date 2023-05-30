@@ -2,6 +2,7 @@
 title: Design early to fail faster
 date: 20-07-2021
 feed: show
+category: note
 tag: 
 ---
 

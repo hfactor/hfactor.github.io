@@ -1,5 +1,6 @@
 ---
 title: Von Restorff Effect
+category: note
 tag: UX
 ---
 

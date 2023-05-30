@@ -1,5 +1,6 @@
 ---
 title: Less-is-more effect
+category: note
 tag: Psychology 
 ---
 

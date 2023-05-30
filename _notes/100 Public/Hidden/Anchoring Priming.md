@@ -1,5 +1,6 @@
 ---
 title: Anchoring Priming
+category: note
 tag: Psychology 
 ---
 

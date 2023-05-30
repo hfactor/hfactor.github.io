@@ -2,6 +2,7 @@
 title: Solve the problem not the feature
 date: 20-07-2021
 feed: show
+category: note
 tag: Product
 ---
 

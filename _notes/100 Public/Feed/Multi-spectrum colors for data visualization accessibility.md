@@ -2,6 +2,7 @@
 title: Multi-spectrum colors for data visualization accessibility
 date: 29-07-2021
 feed: show
+category: note
 tag: UX
 ---
 

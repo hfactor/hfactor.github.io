@@ -2,6 +2,7 @@
 title: Lots of inputs and a strong filter
 date: 07-09-2021
 feed: show
+category: note
 tag: Knowledge-building 
 ---
 

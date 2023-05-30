@@ -1,6 +1,7 @@
 ---
 title: Design Sprint Phases
 tag: Design
+category: note
 ---
 #### Understand
 - What is the problem we’re trying to solve? 

@@ -1,5 +1,6 @@
 ---
 title: About Working Notes
+category: note
 ---
 Working notes contains a collection of notes I have written over time, as a process to accumulate knowledge. These are my Second-brain / digital garden. The notes follow concepts from [[Zettelkasten]] method and Andy's [[Evergreen Notes]] - to be atomic, linked, and concept-oriented.
 

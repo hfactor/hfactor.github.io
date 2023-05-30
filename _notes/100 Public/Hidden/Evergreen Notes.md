@@ -1,6 +1,7 @@
 ---
 title: Evergreen Notes
 tag: Knowledge-building 
+category: note
 ---
 
 Evergreen notes are Andy Matuschak's take on [[Zettelkasten]]. This is more modern, digital-first way of note taking that focuses on 'accumulating knowledge over time' than building connections, or creating outputs.

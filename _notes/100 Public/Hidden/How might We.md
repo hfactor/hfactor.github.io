@@ -1,6 +1,7 @@
 ---
 title: How might We
 tag: Design
+category: note
 ---
 *How might We*, is a framework pattern for Decision building workshops which recommends rephrasing problems to opportunities before finding the solution. 
 

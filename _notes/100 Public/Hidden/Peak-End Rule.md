@@ -1,6 +1,7 @@
 ---
 title: Peak-End Rule
 tag: UX
+category: note
 ---
 People judge an experience largely based on how they felt at its peak and at its end, rather than the total sum or average of every moment of the experience. [[Overweighting the Recent]].
 

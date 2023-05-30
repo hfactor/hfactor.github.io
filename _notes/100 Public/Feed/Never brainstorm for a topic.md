@@ -2,6 +2,7 @@
 title: Never brainstorm for a topic
 date: 07-07-2021
 feed: show
+category: note
 tag: Knowledge-building  
 ---
 

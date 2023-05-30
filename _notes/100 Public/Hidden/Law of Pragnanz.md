@@ -1,6 +1,7 @@
 ---
 title: Law of Pragnanz
 tag: UX
+category: note
 ---
 People remember simple figures than complex ones. The human eye likes to find simplicity to prevents us from becoming overwhelmed with information.
 

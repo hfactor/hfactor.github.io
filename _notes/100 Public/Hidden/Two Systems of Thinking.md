@@ -1,6 +1,7 @@
 ---
 title: Two Systems of Thinking
 tag: Psychology 
+category: note
 ---
 
 There are two systems of thinking - System 1 and System 2. Consider system 1 as reactive, and system 2 as analytical.  System 1 (Thinking Fast) is the intuitive, reactive way of thinking based on first impression and quick reaction. (Jumping to conclusion) and System 2 (Thinking Slow) is about reflection, analysis, and problem-solving.

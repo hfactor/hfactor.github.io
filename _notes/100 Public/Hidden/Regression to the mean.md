@@ -1,6 +1,7 @@
 ---
 title: Regression to the mean
 tag: Psychology 
+category: note
 ---
 
 Regression to the mean is the statistical fact that any sequence of trials will eventually converge to the expected value. 

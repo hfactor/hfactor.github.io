@@ -1,6 +1,7 @@
 ---
 title: Goal-Gradient Effect
 tag: UX
+category: note
 ---
 
 The tendency to approach a goal increases with proximity to the goal. ie, A clear indication of progress in order to motivate users to complete tasks.

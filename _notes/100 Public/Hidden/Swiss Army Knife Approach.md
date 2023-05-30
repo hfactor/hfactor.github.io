@@ -1,6 +1,7 @@
 ---
 title: Swiss Army Knife Approach
 tag: Systems
+category: note
 ---
 
 Swiss Army Knife Approach suggest it's better more than one Mental Models, not too many, but few. "To the man with a hammer, every problem looks like a nail"

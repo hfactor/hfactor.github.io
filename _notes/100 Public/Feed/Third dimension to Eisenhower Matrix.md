@@ -2,6 +2,7 @@
 title: Third dimension to Eisenhower Matrix
 date: 03-07-2021
 feed: show
+category: note
 tag: Systems
 ---
 

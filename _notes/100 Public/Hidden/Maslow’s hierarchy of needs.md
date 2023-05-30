@@ -1,6 +1,7 @@
 ---
 title: Maslow’s hierarchy of needs
 tag: Psychology 
+category: note
 ---
 Maslow's hierarchy of needs is a motivational theory in psychology comprising a five-tier model of human needs, often depicted as hierarchical levels within a pyramid. 
 - **5.Self-actualization** - The top of the pyramid is more about personal growth, less concerned with the opinions of others. 

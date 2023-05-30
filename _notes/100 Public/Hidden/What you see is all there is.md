@@ -1,5 +1,6 @@
 ---
 title: What you see is all there is
+category: note
 tag: Psychology 
 ---
 

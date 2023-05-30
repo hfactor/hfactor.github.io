@@ -1,6 +1,7 @@
 ---
 title: Look for rabbit holes
 feed: show
+category: note
 date: 21-07-2021
 tag: Product
 ---

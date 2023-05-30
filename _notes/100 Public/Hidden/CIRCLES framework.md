@@ -1,6 +1,7 @@
 ---
 title: CIRCLES framework
 tag: Systems
+category: note
 ---
 Circles is a Problem solving framework with 7 steps. Comprehend, Identify, Report Needs, Cut through Prioritisation, List Solution, Evaluate and Summarise. 
 

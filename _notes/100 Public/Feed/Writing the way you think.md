@@ -2,6 +2,7 @@
 title: Writing the way you think
 date: 10-07-2021
 feed: show
+category: note
 tag: Knowledge-building
 ---
 

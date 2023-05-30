@@ -2,6 +2,7 @@
 title: Brand tribe influence buying decisions
 date: 17-07-2021
 feed: show
+category: note
 tag: Branding
 ---
 

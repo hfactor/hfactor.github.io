@@ -1,6 +1,7 @@
 ---
 title: Three Little Questions to the brand
 tag: Branding 
+category: note
 ---
 
 - While building a brand, it's important to ask three questions. Author calls it's three little questions (while I prefer them to be questions with smaller answer) - Who are you?, What do you do?, & Why does it _matter_?

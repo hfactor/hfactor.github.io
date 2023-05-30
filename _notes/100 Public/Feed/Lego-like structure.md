@@ -2,6 +2,7 @@
 title: Lego-like structure
 date: 07-10-2021
 feed: show
+category: note
 tag: Design
 ---
 

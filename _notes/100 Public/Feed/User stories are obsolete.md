@@ -2,6 +2,7 @@
 title: User stories are obsolete
 date: 20-05-2021
 feed: show
+category: note
 tag: Product
 ---
 

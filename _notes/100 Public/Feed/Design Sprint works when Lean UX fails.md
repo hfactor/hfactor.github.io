@@ -2,6 +2,7 @@
 title: Design Sprint works when Lean UX fails
 date: 04-02-2021
 feed: show
+category: note
 tag: Design
 ---
 [[Lean UX]] follows a `build > test > iterate` loop, while [[Design Sprints]] follows `unpack > ideate > evaluate > test > refine` loop. Design Sprint is more about evaluation, while lean UX is about evolution.

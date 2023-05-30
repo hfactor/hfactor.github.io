@@ -2,6 +2,7 @@
 title: Making notes is the easiest part
 date: 07-09-2021
 feed: show
+category: note
 tag: Knowledge-building 
 ---
 

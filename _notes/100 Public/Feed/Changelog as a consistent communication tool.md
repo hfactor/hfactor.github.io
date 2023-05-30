@@ -2,6 +2,7 @@
 title: Changelog as a consistent communication tool
 date: 03-05-2022
 feed: show
+category: note
 tag: Product
 category: note
 ---

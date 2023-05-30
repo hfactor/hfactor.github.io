@@ -2,6 +2,7 @@
 title: Use the language the others are speaking
 date: 10-07-2021
 feed: show
+category: note
 tag: Business
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Zettelkasten
+category: note
 tag: Knowledge-building 
 ---
 

@@ -2,6 +2,7 @@
 title: Implimenting a design System
 date: 06-02-2021
 feed: show
+category: note
 tag: Design
 ---
 Design System is a collection of reusable [[Components]], build using [[Atomicity]] and Sub-atomic [[Design Tokens]] particles that follow the guideline, behave consistently, and together work as the building block of the product. A design system is not a pattern library or a sticker sheet. Atoms being consistent or similar in a design system won't make the final result compatible. 

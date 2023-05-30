@@ -2,6 +2,7 @@
 title: Design System Branching in Figma
 date: 03-05-2022
 feed: show
+category: note
 tag: Design
 ---
 We, at Kaleyra Designs, currently follow [[Ship-Show-Ask]] format for Design System Branching. We keep [[Decision Documentation for Communication]], and use [[Changelog as a consistent communication tool]]. 

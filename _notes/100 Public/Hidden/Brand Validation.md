@@ -1,6 +1,7 @@
 ---
 title: Brand Validation
 tag: Branding
+category: note
 ---
 
 To validate the brand, the Brand gap suggests five criteria. They are distinctiveness, relevance, memorability, extendibility, and depth.

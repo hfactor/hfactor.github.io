@@ -1,5 +1,6 @@
 ---
 title: Lean UX
+category: note
 tag: UX
 ---
 

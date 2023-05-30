@@ -1,6 +1,7 @@
 ---
 title: Doherty Threshold
 tag: UX
+category: note
 ---
 Productivity soars when a computer and its users interact at a pace (<400ms) that ensures that neither has to wait on the other. Hence, provide system feedback within 400 ms in order to keep users’ attention.  If not, use Progress bars and Animation to visually engage people while process is happening in the background.
 

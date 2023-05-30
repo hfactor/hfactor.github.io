@@ -2,6 +2,7 @@
 title: Better Thinking over Better Note-taking
 date: 09-07-2021
 feed: show
+category: note
 tag: Knowledge-building 
 ---
 
