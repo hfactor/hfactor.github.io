@@ -163,7 +163,9 @@
                                         {{ item | last }}
                                         {% if forloop.last %}{% else %} • {% endif %}
                                     {% endfor %}
+                                    • <a href = "{{ page.link }}"> Link </a>
                                 </div>
+
                                 {%- include Content.html -%}       
                             {%- endif -%}
                     {%- endif -%}

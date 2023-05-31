@@ -1,9 +1,9 @@
 ---
 title: The Odd Book of Baby Names
 date: 11-02-2023
-tldr: Brilliant, like a painting
-permalink: /reading/The-Odd-Book-of-Baby-Names
-url: 
+format: log
+category: reading
+link: https://amzn.to/42gY09R
 meta: 
   type: book
   language: english

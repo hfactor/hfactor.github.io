@@ -6,11 +6,18 @@ description: An attempt to list **good and better** (<2.5 in scale of 5) movies 
 ---
 
 ### 2023
-- Romancham, Malayalam, 2022
+- Modern Love Chennai, Tamil, 2023
+- Pachuvum Athbutha Vilakkum, Malayalam, 2023
+- Ponniyin Selvan: II, Tamil, 2023
+- Madanolsavam, Malayalam, 2023
+- Neelavelicham, Malayalam, 2023
+- Purusha Pretham, Malayalam 2023
+- Iratta, Malayalam, 2023
+- Romancham, Malayalam, 2023
 - [[Mahaveeryar]], Malayalam, 2022
 - Menu, English, 2022
-- Thankam, Malayalam, 2022
-- Nanpakal Nerathu Mayakkam, Malayalam, 2022
+- Thankam, Malayalam, 2023
+- Nanpakal Nerathu Mayakkam, Malayalam, 2023
 - Gargi, Tamil, 2022
 - Saudi Vellakka, Malayalam, 2022
 - Mukundan Unni Associates, Malayalam, 2022
