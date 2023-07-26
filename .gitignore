@@ -2,8 +2,11 @@ _site
 .jekyll-cache
 _notes/.obsidian
 _notes/000 Inbox
-_notes/200 Private
-_notes/300 Templates
+_notes/500 Projects
+_notes/600 Private
+_notes/700 Dailylog
+_notes/800 Obsidian
+_notes/900 Archive
 .vscode/settings.json
 _notes/100 Public/.DS_Store
 assets/.DS_Store
@@ -11,3 +14,4 @@ assets/css/.DS_Store
 assets/img/.DS_Store
 _logs/watching/Romancham.md
 pages/tags.md
+

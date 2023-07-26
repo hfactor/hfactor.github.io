@@ -12,4 +12,4 @@ In the first four years of his career, he envisioned and christened Saltmangotre
 
 As side hustles, he co-created [Malayaleegraphy](https://www.facebook.com/malayaleegraphy/ "Malayaleegraphy"), [Chali Machine](http://www.chalimachine.com/create/ "Chali Machine"), initiated [Kerala Designer Co](https://kdco.info/ "Kerala Designer Co"), and designed a couple of fonts - [Dyuthi](https://www.behance.net/gallery/88259217/Dyuthi-Ornamental-Malayalam-Unicode-Typeface "Dyuthi") (Malayalam/2008), [Rufscript](https://www.behance.net/gallery/88284601/Rufscript-English-Handwriting-Unicode-Font "Rufscript") (Limited Latin/2009).
 
-Being a self-learned designer, Hiran is passionate about sharing his knowledge and doesn't miss a chance to have interactions with other minds who are interested in design, technology, or business. Other interest includes reading, movies, and traveling.
+Being a self-learner, Hiran is passionate about sharing his knowledge provides coaching and mentoring design and product. Other interest includes reading, movies, and traveling.

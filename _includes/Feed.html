@@ -31,8 +31,14 @@
 
 <!--Notes Feed-->
 <!--Static Page : pages/notes.md-->
-
-{%- if page.feedformat == "card" -%}
+<div class="title-container">
+    <div class="title-left">
+        <div>{{page.title}}</div>
+    </div>
+    <div class="title-right">
+        {%- include Content.html -%}
+    </div>
+</div>
     {%- if site.preferences.search.enabled -%}
         <!-- search bar -->
         <div class="block">
@@ -51,11 +57,10 @@
                     <a href="{{ site.baseurl }}{{note_items.url}}">
                         <h6>{{ note_items.title }}</h6>
                         <p class="excerpt">
-                            {{ note_items.content | strip_html | strip | remove: "[[" | remove: "]]" | remove: "-" | escape | truncate: 200 }}
+                            {{ note_items.content | strip_html | strip | remove: "[[" | remove: "]]" | remove: "-" | escape | truncate: 100 }}
                         </p>
                     </a>
                 </div>
         {%- endif -%}
     {%- endfor -%}
     </div>
-{%-endif -%}

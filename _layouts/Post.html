@@ -39,8 +39,7 @@
     <meta property="og:image" content="../assets/img/HirOG.png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600&display=swap"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;500;700&family=Newsreader:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
     {%- if page.title -%}
     <meta content="{{ page.title }}" property="og:title">
     <meta content="article" property="og:type">
@@ -69,105 +68,119 @@
 
 <body>
     <main>
-    {%- include Nav.html -%}
-    <section class="section">
         <div class="columns is-centered">
+            <div class="column is-5-widescreen is-6-desktop is-8-tablet is-12-mobile">
+                <!-- Navigation-->
+                {%- include Nav.html -%}
 
-            <!-- Homepage Layout-->
-            {%- if page.permalink == "/" -%}
-            <div class="column is-8-widescreen  is-8-desktop is-8-tablet is-12-mobile">
+
+                {%- if page.permalink == "/" -%}
+                    <!-- 1. Homepage. You can have a static homepage at _config.yml. Configure at homepage.html inside _includes -->                
                     {%- if site.preferences.homepage.enabled -%}
-                            <!--- Show Homepage -->
-                            {%- include Homepage.html -%}
+                        {%- include Homepage.html -%}
                     {%- else -%}
-                            <!--- Show Feed Part -->
-                <div class="column is-6-widescreen  is-8-desktop is-8-tablet is-12-mobile">
-                            <h5 class="meta-title"><a href="/">← Home</a></h5>
-                            <div class="jumbo">{{page.title}}</div>
-                            {%- include FeedContent.html -%}
-                            {%- include Feed.html -%}
-                </div>
+                        {%- include Feed.html -%}
                     {%- endif -%}
-            </div>
-            {%- endif -%}
-
-            <!--- Feedpage Layout-->
-            {%- if page.feedformat -%}
-            <div class="column is-6-widescreen  is-8-desktop is-8-tablet is-12-mobile">
-                <h5 class="meta-title"><a href="/">← Home</a></h5>
-                    <div class="jumbo">{{page.title}}</div>
-                    {%- include Content.html -%}
+                {%- elsif page.permalink == "/notes" -%}
+                    <!-- 2. If you have a static homepage, you can use this to configure feed page -->                
                     {%- include Feed.html -%}
-            {%- endif -%}
+                {%- elsif page.content-type == "notes" or page.content-type == "post" -%}
+                    <!-- 
+                        There are two collections, the default blog post named "Post" and "notes" for notes.
+                        I didn't create a seprate collection based on layout, to make it easier for Obsidian
+                        You can do that by duplicating this page, and breaking this if condition to layouts
 
-            <!--- Notes Layout-->
-            {%- if page.content-type == "notes" -%}
-            <div class="column is-5-widescreen  is-6-desktop is-8-tablet is-12-mobile">
-                    <div class="note-page-section">
-                        <div>
-                            {%- if site.preferences.homepage.enabled -%}
-                            <a onclick="window.history.back();">
-                            {%- else -%}
-                            <a onclick="window.location.assign('/');">
-                            {%- endif -%}
-                                    <h5 class="meta-title">← BACK</h5>
-                            </a>
-                        </div>
-
-                    <!--- List type Note Layout-->
+                        Defined layouts are : 
+                        1. List Page - Page with title+description, and content, which is mostly a list. No backlinks
+                        2. Post Page - Page with date, title and content 
+                        3. Note Page - Page with title, content and backlinks
+                        4. Log Page - Page with title, meta and content and backlink
+                        5. Static - Simple page, with title and content
+                    -->
                     {%- if page.format == "list" -%}
-                    <style>
-                        li {border-bottom: 1px solid var(--color-border-light); list-style: none; padding: 0.4rem 0 0.4rem 0;}
-                        .content ul { padding-left: 0px;}
-                        h3 {padding-top: 1rem; padding-bottom: 0rem;}
-                    </style>                    
-                    {%- endif -%}
-                    <h1>{{page.title}}</h1>
-                    <ul class="tags">
-                        {%- for tag in page.tags -%}                           
-                            <li><a href="/tags#{{ tag }}" class="tag">{{ tag }}</a></li>
-                        {%- endfor -%}
-                    </ul>
-                    {%- include Content.html -%}
-                    {%- include Backlinks.html -%}
-                    </div>
-            </div>
-            {%- endif -%}
-
-             <!--- Post Layout-->
-             {%- if page.content-type == "post"  -%}
-             <div class="column is-5-widescreen  is-6-desktop is-8-tablet is-12-mobile">
-                     <div class="note-page-section">
-                         <div>
-                             {%- if site.preferences.homepage.enabled -%}
-                             <a onclick="window.history.back();">
-                             {%- else -%}
-                             <a onclick="window.location.assign('/');">
-                             {%- endif -%}
-                                     <h5 class="meta-title">← BACK</h5>
-                             </a>
-                         </div>
-                     <h5 class="meta-title"> {{ page.date | date:"%B %Y" }}</h5>
-                     <h1>{{page.title}}</h1>
-                     {% if page.image %}
-                         <img style="padding-bottom: 2em;" src="{{page.image}}">
-                     {% endif %}             
-                     {%- include Content.html -%}
-                     {%- include Backlinks.html -%}
-                     </div>
-             </div>
-             {%- endif -%}
-
-            <!--- Static Page Layout-->
-            {%- if page.content-type == "static" -%}
-            <div class="column is-5-widescreen  is-6-desktop is-8-tablet is-12-mobile">
-                        <div class="jumbo">{{page.title}}</div>                        
+                        <!-- Layout 1 List Page-->
+                        <style>
+                            li {
+                                border-bottom: 1px solid var(--color-border-light);
+                                list-style: none;
+                                padding: var(--padding-thin) 0;
+                                font-size: var(--text-small);
+                            }
+                            .content ul {
+                                padding-left: 0px;
+                                padding-bottom: var(--padding-normal);
+                            }
+                            h3 {
+                                padding: 1rem 0rem;
+                            }
+                        </style>
+                        <div class="title-container">
+                            <div class="title-left">
+                                <div>{{ page.title }}</div>
+                            </div>
+                            <div class="title-right">
+                                <p>{{ page.description }}</p>
+                            </div>
+                        </div>
                         {%- include Content.html -%}
-                </div>
-            {%- endif -%}
+                    {%- else -%}
+                        <!-- Global Back arrow -->                
+                        <div class="note-page-section">
+                            <div>
+                                {% capture parent_url %}{{ site.baseurl }}/{{ page.url | remove_first: '/' | split: '/' | first }}{% endcapture %}
+                                <a href="{{ parent_url }}">← </a>
+                                
+                            </div>
+
+                            {%- if page.content-type == "post" -%}
+                                <!-- Layout 2 Post-->
+                                
+                                <h5 class="back-arrow" style="padding-bottom: 0px">{{ page.date | date_to_long_string }}</h5>
+                                <h1 style="padding-top: 0px">
+                                    {{ page.title }}
+                                    </h1>
+                            {%- include Content.html -%}
+                            {%- endif -%}
+
+                            {%- if page.category == "notes" -%}
+                                <style>
+                                li::marker {
+                                    content: '• ';
+                                }
+                            </style>
+                            <!-- ഊള പരിപാടിയാണേലും ഇമ്മാതിരി എഴുതാനേ എന്നെ കൊണ്ടൊക്കൂ!
+                            ലോജിക്ക് വിസ്തരിക്കുന്നില്ല, എനിക്ക് തന്നെ നാണമാവുന്നു! -->
+                                <!-- Layout 3 Note-->
+                                <h1>{{ page.title }}</h1>
+                                {%- include Content.html -%}
+                                {%- include Backlinks.html -%}
+                            {%- endif -%}
+
+                            {%- if page.format == "log" -%}
+                            <!-- Layout 4 Logs-->                
+                                <h1 style="padding-bottom: 0px">
+                                {{ page.title }}
+                                </h1>
+                                <div class="meta-values" style="padding-bottom: var(--padding-broad);">
+                                    {% for item in page.meta %}
+                                        {{ item | last }}
+                                        {% if forloop.last %}{% else %} • {% endif %}
+                                    {% endfor %}
+                                    • <a href = "{{ page.link }}"> Link </a>
+                                </div>
+
+                                {%- include Content.html -%}       
+                            {%- endif -%}
+                    {%- endif -%}
+                {%- endif -%}
+                    {%- if page.content-type == "static" -%}
+                        <!-- Layout 5 Static-->
+                        <h1>{{ page.title }}</h1>
+                        {%- include Content.html -%}
+                    {%- endif -%}
+                    {%- include Footer.html -%}
+            </div>
         </div>
-    </section>   
-    {%- include Footer.html -%}             
-</main>
+    </main>
 </body>
 </html>

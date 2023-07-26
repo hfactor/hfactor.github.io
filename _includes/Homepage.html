@@ -1,42 +1,41 @@
 <div class="home-intro">
-    <h5 class="meta-title">Hello, I'm Hiran Venugopalan ⸻</h5>
-    <div class="jumbo">I work on scaling and simplifying design experience. </div>
-    <div class="home-sub-text"> <h3>
-            Currently leading designs at <a href="https://kaleyra.com/" target="_blank">Kaleyra</a>. My <a href="{{ site.baseurl }}/notes">working notes</a> are public, resources are <a href="{{ site.baseurl }}/lists">listed</a>, and I send <a href="https://hiran.substack.com/" target="_blank">this and that</a> to your inbox.
-    </h3> 
-</div> </div>
-    <div class="home-wrapper">
-        <div class ="home-image">
-            <img src="..{{ site.baseurl }}/assets/img/BoldCMS-Product.png">
-            <div class="home-image-meta">
-                <div class="home-image-meta-text"> Bold CMS</div>
-                <div class="home-image-meta-text"> Product • 2019</div>
-            </div>
+        <div class="home-title"> Hiran Venugopalan </div>
+        <div class="home-sub-title" style="padding: 0px;"> Digital Product Designer </div>
+
+        <div class="home-content">
+                Product designer and design coach with 12+ years of experience in designing and building teams for agencies, startups and enterprises. Currently leading remote design team at <a href="https://www.kaleyra.com/">Kalerya</a>.
         </div>
-        <div class ="home-image">
-            <img src="..{{ site.baseurl }}/assets/img/EHQ-Product.png">
-            <div class="home-image-meta">
-                <div class="home-image-meta-text"> Engagement HQ</div>
-                <div class="home-image-meta-text"> Product • 2015</div>
-            </div>
+        <div class="home-content no-padding">
+                This website is my digital garden, a half-blog-half-wiki! Here, you'll find my ever-changing working notes, logs of my readings, watchlist, web-finds and more.</div>
+
+<div class="home-notes">
+        <a href="{{'/notes' | relative_url}}">
+                <h3 class="home-sub-title arrow-link">
+                        <span class="text"> Latest Working Notes</span>
+                        <span class="arrow">See All &rarr;</span>
+                </h3>
+        </a>
+
+        <div class="home-wrapper">  
+                {% assign notes = site.notes | where: 'category', 'notes' | where: 'feed', 'show' | sort: 'date' | reverse %}
+                {% for note in notes limit: 5 %}
+                <div class="homelist-feed"> <a href="{{ note.url }}">{{ note.title }}</a></div>
+                {% endfor %}
         </div>
-        <div class ="home-image">
-            <img src="{{ site.baseurl }}/assets/img/Dyuthi-Typeface.png">
-            <div class="home-image-meta">
-                <div class="home-image-meta-text"> Dyuthi Malayalam Font</div>
-                <div class="home-image-meta-text"> Typeface • 2007</div>
-            </div>
+</div>
+
+<div class="home-colln">
+        <h3 class="home-sub-title">
+                Collections
+        </h3> 
+        {%- include Collection.html -%}
+</div>
+
+<div class="home-contact ">
+        <div class="home-sub-title"> Collaborate / Connect </div>
+        <div class="home-content no-padding">
+                I offer  <a href="{{'/coaching' | relative_url}}">design coaching</a> through <a href="https://adplist.org/mentors/hiran-venugopalan">ADPList</a> and <a href="https://topmate.io/hiran">Topmate</a>.
+                Occasionally, I send <a href="https://hiran.substack.com/">This & That</a>  to your inbox. 
+                Feel free to reach me at <a href="mailto:hi@hiran.in">hi@hiran.in</a>
         </div>
-        <div class ="home-image">
-            <img src="..{{ site.baseurl }}/assets/img/Rufscript-Typeface.png">
-            <div class="home-image-meta">
-                <div class="home-image-meta-text"> Rufscript Font</div>
-                <div class="home-image-meta-text"> Typeface • 2006</div>
-            </div>
-        </div>
-    </div>
-<div class="home-intro">
-    <div class="home-sub-text">
-        <h3>I mentor designers and teams on design, strategy and knowledge management. Book slots via <a href="https://adplist.org/mentors/hiran-venugopalan" target="_blank">ADPList</a>, <a href="https://mentorcruise.com/mentor/hiranvenugopalan/" target="_blank">MentorCruise</a>, or Get in touch.</h3></div>
-        <h3 style="padding-top: 2rem;"><a href=mailto:hiran.v@gmail.com>hiran.v@gmail.com</a></h3>
-</div>   
+</div>

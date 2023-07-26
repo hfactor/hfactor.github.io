@@ -64,14 +64,10 @@ plugins:
   - jekyll-tidy
     
 ## Enable Collections
-## Suggested collects are "notes" and "blog"
 collections:
     notes:
       output: true
-      permalink: /note/:title
-    logs:
-      output: true
-      permalink: /:path
+      permalink: /:categories/:title
 
 markdown: kramdown
 
@@ -99,12 +95,6 @@ defaults:
     values:
       layout: Post
       content-type: notes
-  - scope:
-      path: ""
-      type: logs
-    values:
-      layout: Log
-      content-type: logs
       
 
 
@@ -118,8 +108,11 @@ defaults:
 #
 exclude:
   - _notes/000 Inbox
-  - _notes/200 Private
-  - _notes/300 Templates
+  - _notes/500 Projects
+  - _notes/600 Private
+  - _notes/700 Dailylog
+  - _notes/800 Obsidian
+  - _notes/900 Archive
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/

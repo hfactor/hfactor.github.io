@@ -29,25 +29,31 @@ And based on these three points, I chose **Markdown**. The reason is simple. It'
 I chose Obsidian since it was markdown-friendly. Similarly, I chose Jekyll for publishing and iWriter for writing from the iPad for its direct markdown support. My Obsidian setup is minimal, and I make sure that the plugins don't add any extra content inside the plain markdown. 
 
 ## Directory Structure 
-My current Obsidian vault has three folders - Inbox, Public, and Private. Anything new is sent to the Inbox, and everything published via Jekyll is in the 'Public' folder. The private folder contains everything from front matter templates to random private notes. The Public folder has three sub-folders to separate notes by feed visibility. (But that's an over-do, I did that for the theme, and will be removing it soon)
+My digital garden primarily serves as a knowledge project, and I keep it separate from project management and to-do lists. At the moment, I utilize a system consisting of ten folders, categorized as follows.
 
- ``` 
- - Inbox 
- - Public
- --- Feed
- --- Hidden
- --- Lists
- - Private
- --- Archives
- --- Templates
- ```
+```
+- 000 Inbox
+- 100 Notes
+- 200 Support Notes
+- 300 Logs
+- 400 Lists
+- 500 Projects
+- 600 Private
+- 700 Dailylog
+- 800 Obsidian
+- 900 Archive
+```
 
-## Identifying files without a folder structure
-Folders are helpful when you have to build a tree-like structure where every 'content' has a location to be in. But are notes like that? I am not sure. With [Zettel](https://zettelgraph.com/) and PKM's approach, the intent is to build a graph and not a tree.
+The Inbox serves as the starting point for building notes or creating to-write notes. The Notes folder contains atomic notes, which are more opinionated in nature, while the Support Notes folder is dedicated to terminologies, definitions, and similar content. Logs folder contains my personal reflections on consumed content, ranging from movies and books to travel experiences and coffee-related thoughts. Lists are used to catalog these logs, although I manually list interesting things without necessarily writing a log file for each item (as not all list items may have a corresponding log file). These four folders are public and accessible.
 
-Likewise, some atomic notes can be part of multiple topics (e.g. Atomic notes can be part of a design system and a note-taking system!). Folders are useful when there is only one defined category. The problem is similar to that of folders vs labels in email, [and like Gmail, I settled on labels.](http://gmail-miscellany.blogspot.com/2012/10/how-gmail-stores-your-mail.html) 
+The remaining folders serve different purposes. The Project/Idea folder is a space for articulating new ideas (a part of bullet journal migration). The Dailylog folder may contain some attempted daily logs, although this practice hasn't been successful for me. The Obsidian folder contains templates and other related materials, while the Archive is where I store "Old experiments" within the Obsidian framework.
+
+## Folderless, idea first
+
+Although I utilize folders, the main purpose is to publish content to GitHub/Jekyll. The notes I create are not categorized according to specific topics or subjects; instead, they follow a flat hierarchy that allows for the development of graph-structured notes, as opposed to the tree format typically found in textbooks.
 
 I use Jekyll tags in frontmatter for categorization. Another popular method is generating index pages for all topics and linking them to all related notes. This is helpful for sequential note-taking as these notes can later act as an [Index/Map of Concepts](https://www.youtube.com/watch?v=7GqQKCT0PZ4).
 
 ## Alternatives
+
 I recommend local-storage knowledge tools over cloud-based ones due to vendor lock-in. You can use any cloud-based tool for backup (I use [Dropbox](https://www.dropbox.com/home)), and GitHub + SSG for publishing. [Gitbook](https://www.gitbook.com/) is a tool to publish vaults, especially if you can organize notes in a folder-first format. For developers, there are [extensions](https://marketplace.visualstudio.com/items?itemName=lostintangent.wikilens) for VSCode and other text editors that support bi-linking. 
