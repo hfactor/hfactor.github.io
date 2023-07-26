@@ -1,6 +1,6 @@
 ---
 title: Work is like a hill
-category: note
+category: notes
 tag: Systems
 ---
 

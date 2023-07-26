@@ -241,7 +241,7 @@ pre {
 
 body {
   color: var(--color-text-main);
-  font-size: var(--text-m);
+  font-size: var(--text-base);
   font-weight: 400;
   line-height: 1.4;
   padding: 1rem;
@@ -640,13 +640,13 @@ a.has-text-danger:hover, a.has-text-danger:focus {
   font-weight: 700 !important; }
 
 .is-family-primary {
-  font-family: "Work Sans", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important; }
+  font-family: "Inter" !important; }
 
 .is-family-secondary {
-  font-family: "Work Sans", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important; }
+  font-family: "Inter" !important; }
 
 .is-family-sans-serif {
-  font-family: "Work Sans", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important; }
+  font-family: "Inter" !important; }
 
 .is-family-monospace {
   font-family: monospace !important; }
@@ -1041,7 +1041,7 @@ a.box-feed:active {
   flex-wrap: wrap;
   justify-content: flex-start; }
   .buttons .button {
-    margin-bottom: 0.3rem;
+    margin-bottom: 0.5rem;
     padding: 1rem 1rem 1rem 0rem; }
     .buttons .button:not(:last-child):not(.is-fullwidth) {
       margin-right: 0.5rem; }
@@ -1485,7 +1485,7 @@ ol p {
   background-color: var(--color-border-light);
   color: var(--color-text-main);
   display: inline-flex;
-  font-size: var(--text-s);
+  font-size: var(--text-small);
   height: 2em;
   justify-content: center;
   line-height: 1.5;
@@ -1791,7 +1791,7 @@ a.tag:hover {
     border-radius: 2px;
     font-size: 0.8rem; }
   .is-medium.input, .is-medium.textarea {
-    font-size: 1.25rem;
+    font-size: var(--text-base);
    }
   .is-large.input, .is-large.textarea {
     font-size: 1.25rem; }
@@ -2437,7 +2437,7 @@ body.has-navbar-fixed-bottom {
 a.navbar-item,
 .navbar-link {
   cursor: pointer; 
-  font-size: var(--ttext-smaller);
+  font-size: var(--text-small);
 }
   a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover, a.navbar-item.is-active,
   .navbar-link:focus,
@@ -2593,11 +2593,9 @@ a.navbar-item,
     justify-content: flex-end; }
   .navbar-start {
     justify-content: flex-end;
-    padding-top: 4px;
   }
   .navbar-end {
     justify-content: flex-end;
-    padding-right: 1rem;
     }
   .navbar-dropdown {
     background-color: var(--color-bg-sub);
@@ -3847,7 +3845,7 @@ a.navbar-item,
 }
 
 .meta-values {
-  font-size: var(--text-s);
+  font-size: var(--text-smalls);
   padding-bottom: var(--padding-thin);
   color: var(--color-border-dark);
   font-style: italic;
@@ -3928,7 +3926,7 @@ a.tag:hover {
     align-self: auto;
     order: 0;
     flex: 0 0 50%;
-    font-size: var(--ttext-largest);
+    font-size: var(--text-large);
     font-weight: var(--text-weight-bold);
   }
   
@@ -3945,4 +3943,5 @@ a.tag:hover {
   .title-right p {
     margin: 0px;
     font-size: var(--text-s);
+    font-family: 'Newsreader';
   }

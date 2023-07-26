@@ -2,9 +2,21 @@
 title: AntiLibrary
 permalink: /antilibrary
 format: list
-description: By definition, An <a href="https://fs.blog/the-antilibrary/"> antilibrary</a> is a collection of books we own but have never read. In my case, it's list of books I would <i>like to own / read ;)</i> <a href="/library"><b>See my Reading list.</b></a>
+description: An <a href="https://fs.blog/the-antilibrary/">antilibrary </a> usually includes unread books we own. For me, it's a list of books I aspire to own and read in various formats - 📖 books, 📟 ebooks, and 🎧 audiobooks. Also, explore my <a href="/reading"><b>Reading list.</b></a> 
+order: 2
 ---
-
+## New Founds
+- What do you care what other people think, Richard P Feynman
+- On Writing Well, William Zinsser
+- The Off Switch, Mark Cropley
+- This idea must die, John Brockman
+- To be a machine 
+- The new global roadmap
+- The Upstarts
+- The Power and the Story
+- Welcome to the N.H.K., Tatsuhiko Takimoto
+- Actionable Gamification by Yu-Kai Chou
+- Em and the Big Hoom by Jerry Pinto
 
 ## Fiction - Malayalam
 - സോവിയ്റ്റ് സ്റ്റേഷന്‍കടവ്, Murali Krishnan
@@ -40,6 +52,11 @@ description: By definition, An <a href="https://fs.blog/the-antilibrary/"> antil
 - Klara and the Sun by Kazuo Ishiguro
 - The last Children of Tokyo by Yoko Tawada
 - The Cat Who Saved Books by Sosuke Natsukawa
+- In Other Rooms, Other Wonders by Daniyal Mueenuddin
+- Upon a Sleepless Isle by Andrew Fidel Fernando
+- Kitchen by Banana Yoshimoto
+- The Restaurant of Love Regained by Ito Ogawa
+- Honeybees and Distant Thunder: A Novel by Riku Onda
 
 ## Design
 - User Friendly by Cliff Kuang and Robert Fabricant 
@@ -61,6 +78,7 @@ description: By definition, An <a href="https://fs.blog/the-antilibrary/"> antil
 - The Design Thinking Life Playbook by Michael Lewrick
 - This is Service Design Doing by Adam Lawrence
 - This Is Service Design Methods by Adam Lawrence
+- Logo Modernism by Jens Müller and R. Roger Remington
 
 ## Politics
 - The Silent Coup by Josy Joseph 📟
@@ -69,6 +87,8 @@ description: By definition, An <a href="https://fs.blog/the-antilibrary/"> antil
 - How the Word Is Passed by Clint Smith
 - The Precipice by Naom Chomsky
 - The War of Nerves: Inside the Cold War Mind by Martin Sixsmith
+- The Indian President (Zail Singh) by K.C. Singh
+- Defeating the Dictators by Charles Dunst
 
 ## Finance / Economics
 - Bulls, Bears and Other Beasts by Santosh Nair 📟
@@ -76,6 +96,7 @@ description: By definition, An <a href="https://fs.blog/the-antilibrary/"> antil
 - Coffee Can Investing by Surabh Mukherjea
 - The Man who solved the market by Gregory Zuckerman
 - The Changing world order by Ray Dalio 
+- The Alchemy of Finance by George Soros
 
 ## Business
 - Ask Your Developer by Jeff Lawson 📟
@@ -108,6 +129,10 @@ description: By definition, An <a href="https://fs.blog/the-antilibrary/"> antil
 - Black Box Thinking, Matthew Syed
 - Brainstorm by Daniel J Siegel 
 - Case Study by Graeme Macrae Burnet
+- Finite and Infinite Games by James P. Carse
+- Four Thousand Weeks by Oliver Burkeman
+- Gödel, Escher, Bach by Douglas Hofstadter
+- 
 
 ## Writing
 - On Writing Well by Wiliam Zinsser
@@ -134,6 +159,7 @@ description: By definition, An <a href="https://fs.blog/the-antilibrary/"> antil
 - The Work of Art in the Age of Mechanical Reproduction by Walter Benjamin
 - Ways of Seeing by John Berger
 - The Architecture of Happiness by by Alain de Botton
+- A Calendar of Wisdom by Leo Tolstoy
 
 ## Science
 - Brave New World by Aldous Huxley
@@ -144,8 +170,11 @@ description: By definition, An <a href="https://fs.blog/the-antilibrary/"> antil
 - What if? 2 by Randall Munroe
 - The Complete Guide to Absolutely Everything by Adam Rutherford by Hannah Fry
 - All we can save by Ayana Elizabetg Johnson
-- The idea of a brain by Mattew Cobb
-- The code breaker by Walter Issacson
+- The Idea of a brain by Mattew Cobb
+- The Code Breaker by Walter Issacson
+- The Insect Crisis by Oliver Milman
+- The Mind-Gut Connection by Emeran Mayer
+- Indica by Pranay Lal 📟
 
 ## Biography / Memoir
 - Unsung Genius, Kunal Ghosh
@@ -162,6 +191,10 @@ description: By definition, An <a href="https://fs.blog/the-antilibrary/"> antil
 - Mythology, Timeless tales of gods and heroes, Edith Hamilton
 - Asoka, Charles Allen
 - Coromandel, Charles Allen
+
+## Technology
+- System Error by Jeremy M. Weinstein, Mehran Sahami, and Rob Reich
+- 
 
 ## Feminism
 - Breast and Eggs by Mieko Kawakami

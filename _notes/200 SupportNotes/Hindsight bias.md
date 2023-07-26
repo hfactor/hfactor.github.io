@@ -1,7 +1,7 @@
 ---
 title: Hindsight bias
 tag: Psychology 
-category: note
+category: notes
 ---
 
 Hindsight bias, or the *I know it all along* bias. Humans tend to reconstruct stories around past events to underestimate the surprise caused by those events. 

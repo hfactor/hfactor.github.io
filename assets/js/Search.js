@@ -72,7 +72,7 @@
     }
 
     function searchInit() {
-        var dataUrl = "SearchData.json";
+        var dataUrl = "/SearchData.json";
 
         getSearchData(dataUrl)
             .then(function(responseText) {

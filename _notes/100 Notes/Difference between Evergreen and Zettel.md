@@ -1,8 +1,8 @@
 ---
 title: Difference between Evergreen and Zettel
-date: 19-05-2021
+date: 01-06-2023
 feed: show
-category: note
+category: notes
 tag: Knowledge-building 
 ---
 

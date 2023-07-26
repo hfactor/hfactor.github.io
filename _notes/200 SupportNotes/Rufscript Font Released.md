@@ -3,7 +3,7 @@ title: Rufscript Font Released
 feed: hide
 date: 2008-10-17
 permalink : /blog/rufscript-font
-category: note
+category: notes
 ---
 ![rufs](https://user-images.githubusercontent.com/1788677/170069948-89a523d2-5ace-46e8-af17-a2cf93e65e98.jpeg)
 

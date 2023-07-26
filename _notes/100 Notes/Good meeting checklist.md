@@ -2,7 +2,7 @@
 title: Good meeting checklist
 date: 12-03-2022
 feed: show
-category: note
+category: notes
 tag: Business
 ---
 

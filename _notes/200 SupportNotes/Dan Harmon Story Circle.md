@@ -1,7 +1,7 @@
 ---
 title: Dan Harmon Story Circle
 tag: Writing
-category: note
+category: notes
 ---
 ## 8 STEPS IN THE DAN HARMON STORY CIRCLE:
 1.  You — A character is in a zone of comfort,

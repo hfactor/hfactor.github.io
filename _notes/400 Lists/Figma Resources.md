@@ -1,9 +1,10 @@
 ---
 title: Figma Resources
+permalink: /using/figma
 format: list
-description: <a href="https://figma.com>Figma</a> is my current choice of tool for screen designing. These are a few plugins and template I use that helps me in improving the process and pace. 
+description: Currently, I rely on <a href="https:figma.com">Figma</a>  as my go-to tool for screen design. I've found a few plugins and templates that greatly enhance my workflow and efficiency in the process.
+order: 5
 ---
-
 
 ### Community Templates
 - [Material](https://www.figma.com/@materialdesign) from Google

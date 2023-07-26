@@ -2,7 +2,7 @@
 title: Nobody plays the role of the taskmaster
 date: 04-02-2021
 feed: show
-category: note
+category: notes
 tag: Product
 ---
 

@@ -54,13 +54,9 @@ html[data-theme="dark"] {
 }
 
 :root {
-    --text-xs: clamp(0.70rem, calc(0.79rem + -0.06vw), 0.78rem);
-    --text-s: clamp(0.94rem, calc(0.94rem + 0.00vw), 0.94rem);
-    --text-m: clamp(1.13rem, calc(1.11rem + 0.09vw), 1.25rem);
-    --text-l: clamp(1.35rem, calc(1.30rem + 0.23vw), 1.67rem);
-    --text-xl: clamp(1.62rem, calc(1.53rem + 0.43vw), 2.22rem);
-    --text-xxl: clamp(1.94rem, calc(1.80rem + 0.73vw), 2.96rem);
-    --text-jumbo: clamp(2.33rem, calc(2.10rem + 1.15vw), 4rem);
+    --text-large: 18px;
+    --text-base: 16px;
+    --text-small: 14.5px;
     --text-weight-bold: 600;
     --text-weight-normal: 400;
     --text-leading-wide: 1.6em;
@@ -68,57 +64,43 @@ html[data-theme="dark"] {
     --text-leading-narrow: 1.2em;
     --padding-normal: 1.2rem;
     --padding-broad: 2rem;
-    --padding-thin: 0.8rem;
+    --padding-thin: 0.6rem;
     --font-main: 'Inter';
-    --font-sub: 'Newsreader';
-
-    --ttext-smallest: clamp(0.875rem, 0.875rem + 0vw, 0.875rem);
-    --ttext-smaller: clamp(0.875rem, 0.8527rem + 0.1116vw, 0.9375rem);
-    --ttext-base: clamp(0.9375rem, 0.9152rem + 0.1116vw, 1rem);
-    --ttext-large: clamp(1.125rem, 0.9911rem + 0.6696vw, 1.5rem);
-    --ttext-largest: clamp(1.5rem, 1.2321rem + 1.3393vw, 2.25rem);
+    --font-sub: 'Newsreader';    
 }
 
 /* 02. Typography */
 
-.jumbo {
-    font-size: var(--text-xxl);
-    font-weight: var(--text-weight-normal);
-    line-height: var(--text-leading-narrow);
-    padding-bottom: 0;
-}
-
 h1 {
-    font-size: var(--ttext-largest);
-    line-height: var(--text-leading-narrow);
-    padding-bottom: var(--padding-normal);
+    font-size: var(--text-large);
+    padding: var(--padding-broad) 0;
 }
 
 
 h2, h3, h4, h5 {
-    font-size: var(--ttext-large);
+    font-size: var(--text-large);
     line-height: var(--text-leading-normal);
     font-weight: var(--text-weight-normal);
-    padding-top: var(--padding-normal);
-    padding-bottom: var(--padding-thin);
+    padding: var(--padding-normal) 0 var(--padding-thin) 0;
+    color: var(--color-text-sub);
 }
 
 h6 {
-    font-size: var(--ttext-smallest);
+    font-size: var(--text-small);
     line-height: var(--text-leading-normal);
     font-weight: var(--text-weight-bold);
-    padding: var(--padding-thin) 0;
+    padding: var(--padding-normal) 0;
 }
 
 p {
-    font-size: var(--ttext-base);
+    font-size: var(--text-base);
     line-height: var(--text-leading-wide);
     font-weight: var(--text-normal);
     margin: 0 0 1em 0;
 }
 
 code {
-    font-size: var(--text-m);
+    font-size: var(--text-base);
     font-weight: var(--text-leading-normal);
     padding: 0.25em 0.5em 0.25em;
 }
@@ -130,7 +112,6 @@ h4,
 h5,
 h6 {
     margin: 0;
-    font-family: 'Inter', sans-serif;
     }
 
 p a,
@@ -200,22 +181,19 @@ main {
 /* 05. Text Styles */
 
 .back-arrow {
-    font-size: var(--text-m);
+    font-size: var(--text-base);
 }
 
 .center-title {
     text-align: center;
-    /* padding: var(--padding-normal); */
-    font-size: var(--ttext-smaller);
+    font-size: var(--text-small);
     font-weight: var(--text-weight-normal);
-    text-transform: uppercase;
-    letter-spacing: 0.3rem;
 }
 
 .excerpt {
-    color: var(--color-text-main) !important;
+    color: var(--color-text-sub);
     margin: 0;
-    font-size: var(--ttext-smallest);
+    font-size: var(--text-small);
 }
 
 /* 06. Related Notes */
@@ -234,8 +212,15 @@ main {
 .related-wrapper {
     column-count: 2 !important;
     display: grid;
-    grid-gap: 1rem 1rem;
+    grid-gap: var(--padding-thin) var(--padding-thin);
     grid-template-columns: repeat(2, 1fr) ;
+}
+
+.home-nav-wrapper {
+    column-count: 2 !important;
+    display: grid;
+    grid-gap: 0.8rem;
+    grid-template-columns: repeat(3, 1fr) ;
 }
 
 .related-group {
@@ -277,7 +262,7 @@ ul ul {
 .notelist-feed {
     color: var(--color-text-main);
     display: block;
-    padding-bottom: 1rem;
+    padding-bottom: var(--padding-normal);
     border-bottom: 1px solid var(--color-border-light);
 }
 
@@ -290,7 +275,7 @@ ul ul {
 }
 
 .related-group h6, .notelist-feed h6 {
-    padding: 0.4rem 0 !important;
+    padding: var(--padding-thin) 0 0 0;
 }
 
 /* List Feed */
@@ -380,9 +365,10 @@ cite {
 }
 
 blockquote p {
-    font-family: inherit;
-    font-size: var(--text-normal);
+    font-family: 'Newsreader';
+    font-size: var(--text-large);
     margin: 0 !important;
+    font-style: italic;
 }
 
 table {
@@ -942,10 +928,6 @@ hr {
     text-decoration: none;
 }
 
-.content a:hover {
-    text-decoration: underline;
-}
-
 .sn-right,
 .mn-right {
     float: right;
@@ -1466,6 +1448,10 @@ label.srs-toggle {
         grid-template-columns: repeat(1, 1fr);
         grid-gap: 0rem;
     }
+
+    .home-nav-wrapper {
+        grid-template-columns: repeat(2, 1fr);
+    }
 }
 
 .work-meta {
@@ -1480,12 +1466,12 @@ label.srs-toggle {
 .work-credit {
     color: var(--color-text-sub) !important;
     margin: 0;
-    font-size: var(--text-s) !important;
+    font-size: var(--text-small) !important;
 }
 
 li {
     padding-bottom: var(--padding-thin);
-    font-size: var(--text-s);
+    font-size: var(--text-base);
 }
 
 a[href^="http"] {
@@ -1493,51 +1479,6 @@ a[href^="http"] {
     background-repeat: no-repeat;
     background-position: right;
     padding-right: 1.3rem;
-}
-
-.home-sub-text {
-    padding-top: 2rem;
-    color: var(--color-text-sub);
-}
-
-/*Home page links and decors*/
-
-.home-sub-text a {
-    color: var(--color-text-link);
-}
-
-.home-sub-text a:hover {
-    color: var(--color-text-link);
-    text-decoration: underline;
-}
-
-/*Homepage*/
-
-
-.home-wrapper {
-    display: flex;
-    flex-direction: column;
-}
-
-.home-image {
-    display: flex;
-    flex-direction: column;
-    padding-top: 4rem;
-}
-
-.home-image img {
-    opacity: 80%;
-}
-
-.home-image-meta {
-    display: flex;
-    justify-content: space-between;
-}
-
-.home-image-meta-text {
-    font-size: var(--text-s);
-    color: var(--color-text-sub);
-    padding-top: var(--padding-thin);
 }
 
 @media screen and (max-width:320px)
@@ -1551,5 +1492,98 @@ a[href^="http"] {
     }
 }
 
+.home-intro {
+    font-size: var(--text-base);
+}
+
+.home-title {
+    font-size: var(--text-large);
+    padding-top: var(--padding-broad);
+}
+
+.home-sub-title {
+    color: var(--color-text-sub);
+    font-size: var(--text-small);
+    padding-top: var(--padding-normal);
+    padding-bottom: var(--padding-normal);
+}
+
+.home-colln-title {
+    color: var(--color-text-main);
+    font-size: var(--text-small);
+    padding-top: var(--padding-normal);
+    padding-bottom: var(--padding-thin);
+}
+
+.home-sub-title a:hover {
+    color: var(--color-text-link);
+}
+
+.home-content {
+    font-size: var(--text-base);
+    line-height: var(--text-leading-wide);
+    padding: var(--padding-normal) 0;
+}
+
+.no-padding {
+    padding-top: 0;
+}
+
+.home-heading {
+    font-weight: var(--text-weight-normal);
+    padding: 2rem 0;
+    color: var(--color-text-sub);
+}
+
+.home-list {
+    font-size: var(--text-small);
+    padding-bottom: 0.6rem;
+    border-bottom: 1px solid var(--color-border-light);
+}
+
+.home-wrapper {
+    display: grid;
+    grid-gap: 0.8rem;
+    padding-bottom: var(--padding-normal);
+}
 
 
+.homelist-feed {
+    display: block;
+    padding-bottom: 0.8rem;
+    border-bottom: 1px solid var(--color-border-light);
+    font-size: var(--text-small);
+}
+
+.homelist-feed a {
+    color: var(--color-text-main);
+}
+
+.homelist-feed a:hover {
+    color: var(--color-text-link);
+}
+
+.home-nav-item {
+    display: flex;
+    border-bottom: 1px solid var(--color-border-light);
+    height: 100%;
+}
+
+.home-nav-item:hover {
+    color: var(--color-text-link);
+}
+  .arrow-link .arrow {
+    margin-left: 8px;
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  
+  .arrow-link:hover .arrow {
+    opacity: 1;
+    color: var(--color-text-link);
+  }
+  
+  .arrow-link:hover .text {
+    color: var(--color-text-link);
+  }
+  

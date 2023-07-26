@@ -1,7 +1,7 @@
 ---
 title: Types of Notes in Zettelkasten
 tag: Knowledge-building 
-category: note
+category: notes
 ---
 
 Zettelkasten suggest making three kinds of note. The first one is a **fleeting note**, which is a rough note, made for remembering ideas, terms, jarons or even examples. These are what you make while consuming knowledge (while reading, lecture etc). 

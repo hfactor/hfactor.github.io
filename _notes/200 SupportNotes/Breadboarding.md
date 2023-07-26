@@ -3,7 +3,7 @@ title: Breadboarding
 feed: hide
 date: 2021-07-20
 tag: Product
-category: note
+category: notes
 ---
 
 Breadboarding is how electronic prototypes are made. It focuses on function, has all components and wiring – but no industrial design. Not usable, but it works.

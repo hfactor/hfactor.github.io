@@ -2,7 +2,7 @@
 title: Prioritize enablers and blockers
 date: 21-07-2021
 feed: show
-category: note
+category: notes
 tag: Product 
 ---
 

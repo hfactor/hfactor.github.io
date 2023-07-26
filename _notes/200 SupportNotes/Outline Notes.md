@@ -1,7 +1,7 @@
 ---
 title: Outline Notes
 tag: Knowledge-building 
-category: note
+category: notes
 ---
 Outline notes use a bulleted list, with intend to build a structure. It reduces the need for further editing and reviewing. It starts by writing main topics on the far left of the page and adds related subtopics in bullet points below using indents.
 - [[Normal note-taking fails to connect ideas]]

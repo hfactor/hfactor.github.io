@@ -1,7 +1,7 @@
 ---
 title: Eisenhower Matrix
 tag: Systems
-category: note
+category: notes
 ---
 
 The Eisenhower Matrix or Urgent-Important Matrix is a framework that helps in prioritising tasks by urgency and importance. The matrix is divided into four :  

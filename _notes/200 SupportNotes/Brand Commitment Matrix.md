@@ -1,7 +1,7 @@
 ---
 title: Brand Commitment Matrix
 tag: Branding
-category: note
+category: notes
 ---
 Brand Commitment Matrix is describes as a “basic contract” brand owners can create between their company or brand and its customers. The matrix has two columns, each containing three key statements.
 

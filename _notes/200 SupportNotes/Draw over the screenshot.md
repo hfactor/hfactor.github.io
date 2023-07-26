@@ -1,7 +1,7 @@
 ---
 title: Draw over the screenshot
 tag: Design 
-category: note
+category: notes
 ---
 
 Instead of building wireframes using tools like Balsamiq, this method suggests taking screenshots and marking those specific changes with [[Fat-marker method]]. You can use an iPad or screenwriters, or even using tools like PowerPoint / MS Paint is enough.  The idea is to 'inform,' but without spending too much effort or time. 

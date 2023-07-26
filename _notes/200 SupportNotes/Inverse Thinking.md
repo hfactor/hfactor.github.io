@@ -1,7 +1,7 @@
 ---
 title: Inverse Thinking
 tag: Psychology 
-category: note
+category: notes
 ---
 
 Inversion is a way of thinking about what you want to achieve in _reverse_.

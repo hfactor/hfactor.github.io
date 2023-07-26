@@ -1,7 +1,7 @@
 ---
 title: The Fourfold Pattern
 tag: Psychology 
-category: note
+category: notes
 ---
 
 A 2x2 table, X-axis is Gain & Loss. Y-axis is Low & High Probability. 

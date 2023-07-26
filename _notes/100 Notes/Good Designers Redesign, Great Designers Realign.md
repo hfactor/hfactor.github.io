@@ -1,8 +1,8 @@
 ---
 title: Good Designers Redesign, Great Designers Realign
-date: 22-07-2021
+date: 01-06-2023
 feed: show
-category: note
+category: notes
 tag: Design
 ---
 

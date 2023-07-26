@@ -1,7 +1,7 @@
 ---
 title: Focus on Outcome, not Output
 feed: show
-category: note
+category: notes
 date: 2021-07-22
 tag: Product
 ---

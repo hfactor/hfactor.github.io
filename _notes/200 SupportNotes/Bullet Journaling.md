@@ -1,7 +1,7 @@
 ---
 title: Bullet Journaling
 tag: Systems
-category: note
+category: notes
 ---
 
 Ryder Carroll created a method of organising personal information such as tasks, reminders, to-do lists, notes in a single notebook called Bullet Journal.  It was primarily created for analog notebooks, while there are digital bullet journal users too.

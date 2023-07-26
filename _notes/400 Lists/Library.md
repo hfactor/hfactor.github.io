@@ -1,23 +1,25 @@
 ---
 title: Library
+permalink: /reading
 format: list
-description: This List of books I have read, along with my current reads. ✦ are for the must-reads, and ❷ are re-reads. Also, <a href="/antilibrary"><b>See Antilibrary.</b></a> for the bigger list ;)
+description: Here's a compilation of books I've read. The ones marked with ✦ are must-reads, and those marked with ❷ are re-reads. Check my <a href="/antilibrary"><b>Antilibrary </b></a> for the bigger list ;)
+order: 1
 ---
 
 
 ### Reading Now
-- Building Knowledge Graphs, Jesus Barrasa, Maya Natarajan and Jim Webber 
-- Build, Tony Fadell
 - English, August, Upamanyu Chatterjee
-- Incognito, David Eagleman
-
+- How to Get to Great Ideas, by Dave Birss
 
 ### 2023
-- The Back of the Napkin, Dan Roam
-- Ponniyin Selvan, Kalki Krishnamurthy ✦
-- കല്യാണിയെന്നും ദാക്ഷായണിയെന്നും പേരായ രണ്ടുസ്ത്രീകളുടെ കത, ആർ രാജശ്രീ ✦
-- ഖസാക്കിന്റെ ഇതിഹാസം, ഓ.വി. വിജയൻ ❷
-- The Odd Book of Baby Names, Anees Ahamed ✦
+- [[The Back of the Napkin]], Dan Roam
+- [[Ponniyin Selvan]], Kalki Krishnamurthy ✦
+- [[കല്യാണിയെന്നും ദാക്ഷായണിയെന്നും പേരായ രണ്ടു സ്ത്രീകളുടെ കത]], ആർ രാജശ്രീ ✦
+- [[ഖസാക്കിന്റെ ഇതിഹാസം]], ഓ.വി. വിജയൻ ❷
+- [[The Odd Book of Baby Names]], Anees Ahamed ✦
+- ഇന്ദുലേഖ, ഒ. ചന്തു മേനോൻ
+- Building Knowledge Graphs, Jesus Barrasa, Maya Natarajan and Jim Webber 
+- Build, Tony Fadell
 
 ### 2022
 - [Tropic of the Sea](https://amzn.to/3oJK6w0), Satoshi Kon ✦
@@ -36,8 +38,10 @@ description: This List of books I have read, along with my current reads. ✦ ar
 - [Ayako](https://amzn.to/3YOE6lV), Osamu Tezuka ✦
 - [I'm not here to give a speech](https://amzn.to/3FXaAli), Gabriel Garcia Marquez ✦
 - മറൈൻ കാന്റീൻ, സുഷ്മേഷ് ചന്ദ്രോത്ത്
-- കപ്പിത്താന്റെ ഭാര്യ, ബിപിൻ ചന്ദ്രൻ
-- സോളോ സ്റ്റോറീസ്, വേണു ISC.
+- [[കപ്പിത്താന്റെ ഭാര്യ]], ബിപിൻ ചന്ദ്രൻ
+- സോളോ സ്റ്റോറീസ്, വേണു ISC
+
+
 ### 2021 
 - [വിലായത്ത് ബുദ്ധ](https://buybooks.mathrubhumi.com/product/vilayath-budha/), ജി. ആർ. ഇന്ദുഗോപൻ 
 - [Crossing the Chasm](https://amzn.to/36x4kzQ), Geoffrey A. Moore
@@ -88,5 +92,3 @@ description: This List of books I have read, along with my current reads. ✦ ar
 - [The Brand Gap](https://amzn.to/2LKoeQj), Marty Neumeier
 - [Americanah](https://amzn.to/38o7B4D), Chimamanda Ngozi Adichie
 - [That Will Never Work](https://amzn.to/34wG6ok), Marc Randolph ✦
-
-WIP

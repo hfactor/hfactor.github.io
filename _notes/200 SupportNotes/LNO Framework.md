@@ -1,6 +1,6 @@
 ---
 title: LNO Framework
-category: note
+category: notes
 tag: Systems
 ---
 

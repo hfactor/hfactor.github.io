@@ -1,7 +1,7 @@
 ---
 title: OKR
 tag: Systems
-category: note
+category: notes
 ---
 Objectives and key results (OKR) is a goal-setting framework used by teams (or individuals) to define and track their goals and outcomes.
 

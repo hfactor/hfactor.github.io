@@ -1,8 +1,9 @@
 ---
 title: Tools of Choice
-permalink: /tools
+permalink: /using
 format: list
-description: Explore my handpicked collection of preferred tools, covering analog and digital domains, tailored for Mac and Android platforms.
+description: Check out my handpicked collection of favorite tools, spanning analog and digital domains (Web, Mac & Android)
+order: 4
 ---
 
 ### Devices
@@ -27,9 +28,8 @@ description: Explore my handpicked collection of preferred tools, covering analo
 ### Designing
 - [GIMP](https://www.gimp.org/) for Raster
 - [Inkscape](https://inkscape.org/)  for vector 
-- [Figma](https://www.figma.com/) for screen design. 
+- [Figma](https://www.figma.com/) for screen design.[[Figma Resources]]
 - [Procreate App](https://procreate.art/) on my iPad, but not that well used.
-- [[Figma Resources]]
 
 ### Note-Taking
 - Ex- [Evernote](https://evernote.com/) and [Notion](https://www.notion.so/) user.

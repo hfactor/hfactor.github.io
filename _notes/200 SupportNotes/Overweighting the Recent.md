@@ -1,7 +1,7 @@
 ---
 title: Overweighting the Recent
 tag: Psychology 
-category: note
+category: notes
 ---
 
 People tend to be overweight in recent experiences, and the positive or negative perception of one is disproportionately determined by the last episodes of the entire experience. 

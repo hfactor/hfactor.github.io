@@ -2,7 +2,7 @@
 title: UX templates for Stable Design
 date: 22-05-2021
 feed: show
-category: note
+category: notes
 tag: Design 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Design Sprints
 tag: Design
-category: note
+category: notes
 ---
 Design Sprint is a process for solving and validating ideas. Prototyping and testing are critical here. Without those, it will be just a brainstorming. 
 

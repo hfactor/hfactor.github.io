@@ -1,7 +1,7 @@
 ---
 title: Miller's Law
 tag: UX
-category: note
+category: notes
 ---
 
 The average person can only keep 7 (plus or minus 2) items in their working memory.

@@ -2,7 +2,7 @@
 title: Normal note-taking fails to connect ideas
 date: 04-02-2021
 feed: show
-category: note
+category: notes
 tag: Knowledge-building 
 ---
 

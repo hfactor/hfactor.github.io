@@ -1,7 +1,7 @@
 ---
 title: Law of Proximity
 tag: UX
-category: note
+category: notes
 ---
 Objects that are near, or proximate to each other, tend to be grouped together.[[Gestalt laws of grouping]].
 

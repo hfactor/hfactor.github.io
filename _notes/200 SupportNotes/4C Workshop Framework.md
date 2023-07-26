@@ -1,6 +1,6 @@
 ---
 title: 4C Workshop Framework
-category: note
+category: notes
 tag: Workshop
 ---
 

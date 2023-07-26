@@ -1,7 +1,7 @@
 ---
 title: Interface Inventory
 tag: Design
-category: note
+category: notes
 ---
 
 > An interface inventory is a comprehensive collection of the bits and pieces that make up your interface.

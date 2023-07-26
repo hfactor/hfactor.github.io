@@ -2,7 +2,7 @@
 title: Ship-Show-Ask
 date: 05-03-2022
 feed: show
-category: note
+category: notes
 tag: Product
 ---
 

@@ -1,15 +1,8 @@
 ---
 title: Collections
-permalink: /lists
+permalink: /collections
 format: list
-description: A list is an excellent way to create sharable and evergreen resources. Here are a few of those I've collected in my working notes
+description: Collections are curated resources presented in a list format, which appeals to del.icio.us enthusiasts in me.
 ---
 
-
-- [[Library]]
-- [[AntiLibrary]]
-- [[Movie List]]
-- [[Tools of Choice]]
-- [[Podcasts]]
-- [[Figma]]
-- [[Now]]
+{%- include Collection.html -%}

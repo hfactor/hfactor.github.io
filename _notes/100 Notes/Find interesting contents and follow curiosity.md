@@ -2,7 +2,7 @@
 title: Find interesting contents and follow curiosity
 date: 07-09-2021
 feed: show
-category: note
+category: notes
 tag: Knowledge-building 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Causes Trump Statistics
 tag: Psychology 
-category: note
+category: notes
 ---
 
 People are poor statistical reasoners, and they have minimal capacity to think statistically, even when they have relevant background data.

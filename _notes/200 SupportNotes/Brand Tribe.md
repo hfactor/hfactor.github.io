@@ -1,7 +1,7 @@
 ---
 title: Brand Tribe
 tag: Branding
-category: note
+category: notes
 ---
 
  [[Brand differs from person to person]], and as you build perspective, story, and culture around a brand in a strategic format, there will be a group of people who will have a shared belief around the brand. That's Brand Tribe. They are not just consumers. *They are also believers and promoters.* 

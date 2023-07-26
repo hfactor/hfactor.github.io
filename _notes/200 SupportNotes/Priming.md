@@ -1,7 +1,7 @@
 ---
 title: Priming
 tag: Psychology 
-category: note
+category: notes
 ---
 
 In Psychology, Priming is a phenomenon whereby previous stimulus influences a response to a subsequent stimulus, without conscious guidance or intention. *For example, the word NURSE is recognised more quickly following the word DOCTOR than following the word BREAD.* 

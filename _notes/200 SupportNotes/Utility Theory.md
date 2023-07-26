@@ -1,6 +1,6 @@
 ---
 title: Utility Theory
-category: note
+category: notes
 tag: Psychology 
 ---
 

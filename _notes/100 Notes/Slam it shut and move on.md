@@ -2,7 +2,7 @@
 title: Slam it shut and move on
 date: 07-09-2021
 feed: show
-category: note
+category: notes
 tag: Knowledge-building 
 ---
 

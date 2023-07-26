@@ -2,7 +2,7 @@
 title: Is this a real problem
 date: 15-06-2021
 feed: show
-category: note
+category: notes
 tag: Product
 ---
 There are two main definitions for the problem, 

@@ -1,7 +1,7 @@
 ---
 title: Components
 tag: Systems
-category: note
+category: notes
 ---
 
 - Components are portions of reusable code within your system, and they serve as the building blocks of your application’s interface.

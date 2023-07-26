@@ -2,7 +2,7 @@
 title: Lettering Calligraphy and Typography are different
 date: 29-11-2021
 feed: show
-category: note
+category: notes
 tag: Typography
 ---
 

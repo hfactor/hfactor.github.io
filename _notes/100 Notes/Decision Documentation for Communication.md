@@ -1,7 +1,7 @@
 ---
 title: Decision Documentation for Communication
 feed: show
-category: note
+category: notes
 date: 2022-05-03
 ---
 

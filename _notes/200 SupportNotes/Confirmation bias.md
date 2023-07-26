@@ -1,7 +1,7 @@
 ---
 title: Confirmation bias
 tag: Psychology 
-category: note
+category: notes
 ---
 
 - Confirmation bias is the tendency to search for, interpret, favor, and recall information in a way that confirms or supports one's prior beliefs or values.

@@ -2,7 +2,7 @@
 title: Decide when to stop
 date: 04-07-2021
 feed: show
-category: note
+category: notes
 tag: Product
 ---
 

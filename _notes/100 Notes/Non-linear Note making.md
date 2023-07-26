@@ -2,7 +2,7 @@
 title: Non-linear Note making
 date: 07-10-2021
 feed: show
-category: note
+category: notes
 tag: Knowledge-building 
 ---
 Normal notes are linear, mainly focused on subjects, topics, and subtopics. It's a good way if the intention is to collect data. But [[Normal note-taking fails to connect ideas]]

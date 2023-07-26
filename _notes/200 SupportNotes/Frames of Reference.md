@@ -1,7 +1,7 @@
 ---
 title: Frames of Reference
 tag: Psychology 
-category: note
+category: notes
 ---
 
 - How a problem is framed makes a big difference in perceptions and solutions. 

@@ -91,26 +91,27 @@
                         You can do that by duplicating this page, and breaking this if condition to layouts
 
                         Defined layouts are : 
-                        1. Post Page - Page with date, title and content 
-                        2. Note Page - Page with title, content and backlinks
-                        3. Log Page - Page with title, meta and content and backlink
-                        4. List Page - Page with title+description, and content, which is mostly a list. No backlinks
+                        1. List Page - Page with title+description, and content, which is mostly a list. No backlinks
+                        2. Post Page - Page with date, title and content 
+                        3. Note Page - Page with title, content and backlinks
+                        4. Log Page - Page with title, meta and content and backlink
                         5. Static - Simple page, with title and content
                     -->
                     {%- if page.format == "list" -%}
-                        <!-- Layout 4 List Page-->
+                        <!-- Layout 1 List Page-->
                         <style>
                             li {
                                 border-bottom: 1px solid var(--color-border-light);
                                 list-style: none;
-                                padding: 0.4rem 0 0.4rem 0;
+                                padding: var(--padding-thin) 0;
+                                font-size: var(--text-small);
                             }
                             .content ul {
                                 padding-left: 0px;
+                                padding-bottom: var(--padding-normal);
                             }
                             h3 {
-                                padding-top: 1rem;
-                                padding-bottom: 0rem;
+                                padding: 1rem 0rem;
                             }
                         </style>
                         <div class="title-container">
@@ -126,19 +127,22 @@
                         <!-- Global Back arrow -->                
                         <div class="note-page-section">
                             <div>
-                                <a onclick="window.history.back();">
-                                    <div class="back-arrow"> ← </div>
-                                </a>
+                                {% capture parent_url %}{{ site.baseurl }}/{{ page.url | remove_first: '/' | split: '/' | first }}{% endcapture %}
+                                <a href="{{ parent_url }}">← </a>
+                                
                             </div>
 
                             {%- if page.content-type == "post" -%}
-                                <!-- Layout 1 Post-->
-                                <h5 class="back-arrow">{{ page.date | date_to_long_string }}</h5>
-                                <h1>{{ page.title }}</h1>
-                                {%- include Content.html -%}
+                                <!-- Layout 2 Post-->
+                                
+                                <h5 class="back-arrow" style="padding-bottom: 0px">{{ page.date | date_to_long_string }}</h5>
+                                <h1 style="padding-top: 0px">
+                                    {{ page.title }}
+                                    </h1>
+                            {%- include Content.html -%}
                             {%- endif -%}
 
-                            {%- if page.category == "note" -%}
+                            {%- if page.category == "notes" -%}
                                 <style>
                                 li::marker {
                                     content: '• ';
@@ -146,15 +150,14 @@
                             </style>
                             <!-- ഊള പരിപാടിയാണേലും ഇമ്മാതിരി എഴുതാനേ എന്നെ കൊണ്ടൊക്കൂ!
                             ലോജിക്ക് വിസ്തരിക്കുന്നില്ല, എനിക്ക് തന്നെ നാണമാവുന്നു! -->
-
-                                <!-- Layout 2 Note-->
+                                <!-- Layout 3 Note-->
                                 <h1>{{ page.title }}</h1>
                                 {%- include Content.html -%}
                                 {%- include Backlinks.html -%}
                             {%- endif -%}
 
                             {%- if page.format == "log" -%}
-                            <!-- Layout 3 Logs-->                
+                            <!-- Layout 4 Logs-->                
                                 <h1 style="padding-bottom: 0px">
                                 {{ page.title }}
                                 </h1>

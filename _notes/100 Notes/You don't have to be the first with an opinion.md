@@ -2,7 +2,7 @@
 title: You don't have to be the first with an opinion
 date: 03-05-2021
 feed: show
-category: note
+category: notes
 tag: Business
 ---
 

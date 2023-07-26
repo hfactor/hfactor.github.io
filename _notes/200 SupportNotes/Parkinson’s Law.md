@@ -1,7 +1,7 @@
 ---
 title: Parkinson’s Law
 tag: UX
-category: note
+category: notes
 ---
 
 Any task will inflate until all of the available time is spent.
