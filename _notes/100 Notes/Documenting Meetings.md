@@ -1,8 +1,8 @@
 ---
 title: Documenting Meetings
-date: 31-07-2023
+date: 30-07-2023
 feed: show
-category: note
+category: notes
 tag: Business 
 ---
 ### Basic Principles
