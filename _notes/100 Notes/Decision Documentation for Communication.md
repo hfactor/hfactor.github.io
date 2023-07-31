@@ -2,24 +2,10 @@
 title: Decision Documentation for Communication
 feed: show
 category: notes
-date: 2022-05-03
+date: 2023-07-26
+tag: Business 
 ---
 
-For long term projects, without customer level 'release', (Eg While [[Implimenting a design System]]) it is good to have a time based change log. [[Figma]] version control is not that efficient It doesn't provide Version per frame, comparison or search inside push note. Hence we use Google Doc. 
+Similar to how I [[Documenting Meetings]], I use a simple Change log within Figma (Read: [[Changelog as a consistent communication tool]]) to track the design evolution from a design perspective. This log consists of a small component with a title (for version number and date) and a text-field (for bullet notes). The primary focus of this log is not on design changes or designers' efforts but rather on tracking common decisions and understanding shifts. (Read: [[Focus on Outcome, not Output]])
 
-- [[Changelog as a consistent communication tool]]
-
-## Version Numbering
-
-- Two number version system
-	- XX.YY
-- YY is any changes made in Single Source of Truth
-	- Any designer can add it
-	- Consider it more as Ship / Show of [[Ship-Show-Ask]]
-- XX is bi-weekly design meeting count
-	- Objective is to do the Ask part of [[Ship-Show-Ask]]
-	- Decisions are made, SST is updated
-
---- 
-### Source
-- #Design 
+We follow a two-number version system like XX.YY, where YY increments for any changes in design systems or minor tweaks (aligned with the concept of Ship and Show in [[Ship-Show-Ask]]). The XX part changes only when it's based on a decision we took (not necessarily a fork, but may involve significant changes from developers).

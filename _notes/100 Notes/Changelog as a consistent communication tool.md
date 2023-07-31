@@ -9,6 +9,9 @@ category: notes
 
 Changelogs are a great way of effective communication. It provides a clear idea on what is done, and why it's done. Also, it communicates to the user about the value the new feature adds / problem the new feature solves. 
 
+- [[Documenting Meetings]]
+- [[Decision Documentation for Communication]]
+
 --- 
 ### Source 
 - [Linear Method](https://linear.app/method)

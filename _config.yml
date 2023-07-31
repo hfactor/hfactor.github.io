@@ -109,10 +109,8 @@ defaults:
 exclude:
   - _notes/000 Inbox
   - _notes/500 Projects
-  - _notes/600 Private
-  - _notes/700 Dailylog
-  - _notes/800 Obsidian
-  - _notes/900 Archive
+  - _notes/600 Archive
+  - _notes/700 Obsidian
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/

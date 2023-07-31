@@ -17,6 +17,96 @@ order: 2
 - Welcome to the N.H.K., Tatsuhiko Takimoto
 - Actionable Gamification by Yu-Kai Chou
 - Em and the Big Hoom by Jerry Pinto
+- The Master and Margarita by Mikhail Bulgakov
+- The 38 Letters from J.D. Rockefeller to his son
+- Meditations by Marcus Aurelius
+- The Almanack Of Naval Ravikant by Eric Jorgenson 
+- How to Win Friends & Influence People by Dale Carnegie
+- The Science of Storytelling by Will Storr
+- How to Tell a Story by The Moth
+- Storyworthy by Matthew Dicks
+- The Storytelling Almanac by John Bucher
+- The Storytelling Animal by Jonathan Gottschall
+- Stories That Stick by Kindra Hall
+- Long Story Short by Margot Leitman
+- The Art of Storytelling by John Walsh
+- Storynomics by Robert McKee
+- Whoever Tells The Best Story Wins by Annette Sim
+- Wired for Story by Lisa Cron
+- The Hero With a Thousand Faces by Joseph Campbell
+- The Storyteller’s Secret by Carmine Gallo
+- The Anatomy of Story by John Truby
+- All Marketers Are Liars by Seth Godin
+- Let My People Go Surfing by Yvon Chouinard
+- The One Thing by Gary Keller
+- Bounce by Matthew Syed
+- Trillion Dollar Coach by Eric Schmidt
+- Outlive by Bill Gifford and Peter Attia
+-  $100M Offers by Alex Hormozi
+- Never Split the Difference by Chris Voss
+- EntreLeadership by Dave Ramsey
+- The Power of Broke by Daniel Paisner and Daymond John
+- The Art of the Start by Guy Kawasaki
+- The 4-Hour Workweek by Tim Ferriss
+- The $100 Startup by Chris Guillebeau
+- Financial Intelligence by Karen Berman, Joe Knight, John Case
+- Team of Teams by Gen. Stanley A. McChrystal
+- The 22 Immutable Laws of Marketing by Al Ries and Jack Trout
+- The E-Myth by Michael E. Gerber
+- Thinking in Systems by Donella Meadows
+- Steal the Show by Michael Port
+- The Lean Startup by Eric Ries
+- The Entrepreneur Mind by Kevin Johnson
+- Pricing Design by Dan Mall
+- The Stranger by Albert Camus, Matthew Ward
+- Tempo, by Venkatesh Rao
+- How To Live On 24 Hours by Arnold Bennett
+- Tools for Thought by Howard Rheingold
+- Stoicism and the Art of Happiness by Donald J. Robertson
+- The Mom Test: How to Talk to Customers by Rob Fitzpatrick
+- Badass: Making Users Awesome by Kathy Sierra
+- Contagious: Why Things Catch On by Jonah Berger
+- Product-Led Growth by Wes Bush
+- Product Mindset by Product School
+- Ship It by Product School, Nathan Thomas, Gabriela Araujo, Roy Cobby
+- Product Leadership by Richard Banfield, Martin Eriksson and Nate Walkingshow
+- Dare to Lead by Brené Brown
+- Turn the Ship Around: A True Story of Turning Followers into Leaders by L. David Marquet
+- Team of Teams: New Rules of Engagement for a Complex World by Stanley McChrystal, Chris Fussell, Tantum Collins, David Silverman
+- Empowered: Ordinary People, Extraordinary Products by Marty Cagan, Chris Jones
+- The Making of a Manager: What to Do When Everyone Looks to You by Julie Zhuo
+- The Team that Managed Itself: A Story of Leadership by Christina Wodtke
+- Inspired: How to Create Tech Products Customers Love by Marty Cagan
+- Loonshots: How to Nurture the Crazy Ideas That Win Wars, Cure Diseases, and Transform Industries by Safi Bahcall
+- Contagious: Why Things Catch On by Jonah Berger
+- Traffic Secrets: The Underground Playbook for Filling Your Websites and Funnels with Your Dream Customers by Russell Brunson
+- Good to Great: Why Some Companies Make the Leap… and Others Don’t by James C. Collins
+- Why Digital Transformations Fail: The Surprising Disciplines of How to Take Off and Stay Ahead by Tony Saldanha
+- Built to Last: Successful Habits of Visionary Companies by James C. Collins, Jerry I. Porras
+- The Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by Eric Ries
+- Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days by Jake Knapp, John Zeratsky, Brad Kowitz
+- The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapid Customer Feedback by Dan Olsen
+- Product-Led Onboarding: How to Turn New Users Into Lifelong Customers by Ramli John, Wes Bush
+- Launch: The Roadmap to Product Management Success by Nathan Thomas, Roby Coby, Gabriela Araujo, Katya Evdokimova, Jorge Jiménez, Dan Zirkelbach
+- Radical Candor: Be a Kickass Boss Without Losing Your Humanity by Kim Malone Scott
+- Non Violent Communication A Language of Life by Marshall B. Rosenberg
+- The Five Dysfunctions of a Team: A Leadership Fable by Patrick Lencioni
+- Product Roadmaps Relaunched: How to Set Direction while Embracing Uncertainty by C. Todd Lombardo, Bruce McCarthy, Evan Ryan, Michael Connors
+- The Jobs To Be Done Playbook: Align Your Markets, Organization, and Strategy Around Customer Needs by Jim Kalbach, Micahel Tanamachi (Illustrator), Michael Schrage
+- Epic alignment by Nils Janse
+- User Story Mapping: Discover the Whole Story, Build the Right Product by Jeff Patton, Peter Economy
+- Measure what matters by John E. Doerr
+- The 4-Hour Workweek by Timothy Ferriss
+- Rework by Jason Fried, David Heinemeier Hansson
+- Drive: The Surprising Truth About What Motivates Us by Daniel H. Pink
+- Getting a job as a Product Manager
+- The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change by Stephen R. Covey, Jim Collins
+- Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results by Christina Wodtke
+- The Four Agreements
+- Gödel, Escher, Bach by Douglas Hofstadter
+- Where Good Ideas Come From by Steven Johnson
+- Ultralearning by Scott H Young
+
 
 ## Fiction - Malayalam
 - സോവിയ്റ്റ് സ്റ്റേഷന്‍കടവ്, Murali Krishnan

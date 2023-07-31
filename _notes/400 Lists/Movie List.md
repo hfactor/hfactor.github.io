@@ -7,6 +7,7 @@ order: 3
 ---
 
 ### 2023
+- [[Maamannan]], Tamil, 2023
 - Barbie, English, 2023
 - [[Oppenheimer]], English, 2023
 - [[Modern Love Chennai]], Tamil, 2023
@@ -42,3 +43,6 @@ order: 3
 - Kadaisi Vivasayi, Tamil, 2022
 - Mahaan, Tamil, 2022
 - Bhoothakaalam, Malayalam, 2022
+
+### < 2022
+- [[Pariyerum Perumal]], Tamil, 2022

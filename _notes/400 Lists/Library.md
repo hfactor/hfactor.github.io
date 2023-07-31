@@ -9,7 +9,7 @@ order: 1
 
 ### Reading Now
 - English, August, Upamanyu Chatterjee
-- How to Get to Great Ideas, by Dave Birss
+- Starting & Sustaining, Garrett Dimon
 
 ### 2023
 - [[The Back of the Napkin]], Dan Roam
@@ -20,6 +20,7 @@ order: 1
 - ഇന്ദുലേഖ, ഒ. ചന്തു മേനോൻ
 - Building Knowledge Graphs, Jesus Barrasa, Maya Natarajan and Jim Webber 
 - Build, Tony Fadell
+- [[How to Get to Great Ideas]], Dave Birss
 
 ### 2022
 - [Tropic of the Sea](https://amzn.to/3oJK6w0), Satoshi Kon ✦

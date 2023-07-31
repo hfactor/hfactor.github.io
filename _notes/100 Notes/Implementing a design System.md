@@ -1,5 +1,5 @@
 ---
-title: Implimenting a design System
+title: Implementing a design System
 date: 06-02-2021
 feed: show
 category: notes

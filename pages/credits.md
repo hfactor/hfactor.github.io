@@ -19,5 +19,5 @@ Notably, this website stands out from other product designer websites, as it bol
 
 <a href="https://github.com/anishsheela">Anish Sheela</a>, for hosting and JS teaching.
 <a href="https://github.com/ershad">Ershad K</a> for Jekyl and Ruby 101
-<a href="https://github.com/asimkt">Asim K T</a> for designing the first version of HTML and for the Flex and Grid lectures.
+<a href="https://www.ktasim.com/">Asim K T</a> for designing the first version of HTML and for the Flex and Grid lectures.
 <a href="https://notes.binnyva.com/">Binny V A</a> for being a co-consiprator, a fellow zettelkasten learner, who created the Gatsby version of the same theme. 
