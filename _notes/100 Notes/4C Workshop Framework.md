@@ -5,6 +5,7 @@ tag: Design
 ---
 
 4C’s is framework is presented by AJ&Smart that can be used to design workshop. According to him, the topic, outcome or length of the workshop doesn't matter. The method has the following 4 steps: Collect, Choose, Create and Commit.
+
  - **Collect**
 	 - The goal of this phase is to collect the data and challenges from a team, and visualise it, so that it can set the scope of work. 
  - **Choose**
