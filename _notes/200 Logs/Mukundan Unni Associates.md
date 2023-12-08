@@ -1,15 +1,14 @@
 ---
 title: Mukundan Unni Associates
-date: 26-07-2023
+date: 2023-07-20
 format: log
-category: watching
-link: https://www.hotstar.com/in/shows/mukundan-unni-associates/1260128229/live/watch?utm_source=gwa
-meta: 
-  type: movie
-  language: Malayalam
-  year: 2022
-  people: Abhinav Sunder Nayak
-  publisher: Disney+ Hotstar
+link: https://www.hotstar.com/in/shows/mukundan-unni-associates/1260128229/
+cover: https://upload.wikimedia.org/wikipedia/en/d/df/Mukundan_Unni_Associates.jpg
+meta-type: Movie
+meta-lang: Malayalam
+meta-year: 2022
+meta-people: Abhinav Sunder Nayak
+meta-pub: Hotstar
 ---
 
 വിനീത് ശ്രീനിവാസൻ എന്ന വ്യക്തി ഒരു ഭൂലോക ഫ്രോഡാണെന്നും പുള്ളി വിനയകുനയനായി നടക്കുമ്പോൾ മനസ്സിൽ നല്ല പുച്ഛിക്കലും ചീത്തവിളിയും ഒക്കെ ആണെന്നും എന്ന ഒരു തിയറി എന്റെ തലയിൽ പണ്ട് തൊട്ടേ ഉണ്ടായിരുന്നു. ഒരാൾക്ക് ഇത്ര പാവം ആവാൻ സാധിക്കില്ലല്ലോ! ആ തിയറിയുടെ ബേസ് എന്റെ തലയിൽ ഉള്ളത് കൊണ്ടാവണം സിനിമ എനിക്ക് വർക്കൗട്ടായി. 

@@ -10,7 +10,7 @@ meta:
   year: 2021
   people: Anees Salim
 ---
-
+#--to-do-log
 Initial pages had a spark and engagement that kept me going, but still it was hard for me to understand the narration pattern. Soon the narrative structure and characters become more precise, letting the reader picture all eight characters with all details, like an oil painting, similar to the book's cover. 
 
 Similar to other Anees Salim books, I felt a hidden Malayalee-specific narration happening inside the universal story, more like a pack of easter eggs. അതിപ്പൊ എന്റെ വിവരത്തിന്റേതാണോ, എനിക്ക് കത്തിയപ്പോ അത് മലയാളി-ഫസ്റ്റ് ആയി തോന്നിയതാണോ എന്നറിയില്ല :) 

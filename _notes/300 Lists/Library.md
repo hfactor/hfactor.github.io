@@ -6,25 +6,36 @@ description: Here's a compilation of books I've read. The ones marked with ✦ a
 order: 1
 ---
 
-
 ### Reading Now
-- English, August, Upamanyu Chatterjee
-- Starting & Sustaining, Garrett Dimon
+- The Midnight Library, Matt Haig
+- Thinking in bets, Annie Duke
+- Cinema speculations, Quentin Tarantino
+- Desperately Seeking Shah Rukh, Sharanya Bhattacharya
 
 ### 2023
-- [[The Back of the Napkin]], Dan Roam
-- [[Ponniyin Selvan]], Kalki Krishnamurthy ✦
-- [[കല്യാണിയെന്നും ദാക്ഷായണിയെന്നും പേരായ രണ്ടു സ്ത്രീകളുടെ കത]], ആർ രാജശ്രീ ✦
-- [[ഖസാക്കിന്റെ ഇതിഹാസം]], ഓ.വി. വിജയൻ ❷
-- [[The Odd Book of Baby Names]], Anees Ahamed ✦
-- ഇന്ദുലേഖ, ഒ. ചന്തു മേനോൻ
-- Building Knowledge Graphs, Jesus Barrasa, Maya Natarajan and Jim Webber 
-- Build, Tony Fadell
+- [[Continuous Discovery Habits]], Teresa Torres
+- [[English, August]], Upamanyu Chatterjee ✦
+- [[Starting & Sustaining]], Garrett Dimon
+- [[Remote - No office required]], Jason Fried ❷ ✦
+- [[Jobs to be Done]], Jim Kalbach
+- [[It doesn’t have to be crazy at work]], Jason Fried & DHH
+- [[Pricing Design]], Dan Mall
+- [[The Minimalist Entrepreneur]], Sahil Lavingia ✦
+- [[Tools for Thought]], Howard Rheingold
+- [[On Writing Well]], William Zinsser ✦
 - [[How to Get to Great Ideas]], Dave Birss
+- [[Build]], Tony Fadell
+- [[Building Knowledge Graphs]], Jesus Barrasa, Maya Natarajan and Jim Webber 
+-  [[ഇന്ദുലേഖ]], ഒ. ചന്തു മേനോൻ
+-  [[The Odd Book of Baby Names]], Anees Ahamed ✦
+-  [[ഖസാക്കിന്റെ ഇതിഹാസം]], ഓ.വി. വിജയൻ ❷ ✦
+- [[കല്യാണിയെന്നും ദാക്ഷായണിയെന്നും പേരായ രണ്ടു സ്ത്രീകളുടെ കത]], ആർ രാജശ്രീ ✦
+-  [[The Back of the Napkin]], Dan Roam
+- [[Ponniyin Selvan]], Kalki Krishnamurthy ✦
 
 ### 2022
 - [Tropic of the Sea](https://amzn.to/3oJK6w0), Satoshi Kon ✦
-- പയ്യൻ കഥകൾ, വി. കെ. എൻ  ✦
+- [[പയ്യൻ കഥകൾ]], വി. കെ. എൻ ❷ ✦
 - [പച്ച മഞ്ഞ ചുവപ്പ്](https://amzn.to/3HIlCKW), ടി. ഡി. രാമകൃഷ്ണൻ 
 - [കാന്തമലചരിതം - ആറോലക്കാടിന്റെ രഹസ്യം](https://amzn.to/3AUWWw1), വിഷ്ണു എം സി
 - [Will](https://amzn.to/3KrhfoD), Will Smith
@@ -38,9 +49,9 @@ order: 1
 - [Indistractable](https://amzn.to/3FikTBi), Nir Eyal
 - [Ayako](https://amzn.to/3YOE6lV), Osamu Tezuka ✦
 - [I'm not here to give a speech](https://amzn.to/3FXaAli), Gabriel Garcia Marquez ✦
-- മറൈൻ കാന്റീൻ, സുഷ്മേഷ് ചന്ദ്രോത്ത്
+- [[മറൈൻ കാന്റീൻ]], സുഷ്മേഷ് ചന്ദ്രോത്ത്
 - [[കപ്പിത്താന്റെ ഭാര്യ]], ബിപിൻ ചന്ദ്രൻ
-- സോളോ സ്റ്റോറീസ്, വേണു ISC
+- [[സോളോ സ്റ്റോറീസ്]], വേണു ISC
 
 
 ### 2021 
@@ -53,9 +64,9 @@ order: 1
 - [മാമുക്കോയ](https://www.amazon.in/MAMUKKOYA-THAHA-MADAI/dp/8126414529), താഹാ മടായി ❷ ✦
 - [കളക്ടർ ബ്രൊ: ഇനി ഞാൻ തള്ളട്ടെ](https://amzn.to/3BYh28Q), പ്രശാന്ത് നായർ IAS
 - [The Thrilling Adventures of Lovelace and Babbage](https://amzn.to/3ib7nUt), Sydney Padua✦
-- പരിണാമം,നാരായണ പിള്ള ✦
+- [[പരിണാമം]],നാരായണ പിള്ള ✦
 - [Super Thinking](https://amzn.to/2V6rNp9), Gabriel Weinberg, Lauren McCann
-- യക്ഷി, മലയാറ്റൂർ രാമകൃഷ്ണൻ ❷ ✦
+- [[യക്ഷി]], മലയാറ്റൂർ രാമകൃഷ്ണൻ ❷ ✦
 - അമ്മിണിപ്പിള്ള വെട്ടുകേസ്, ജി. ആർ. ഇന്ദുഗോപൻ
 - [War Of Art](https://amzn.to/3x8JMIl), Steven Pressfield
 - നീലച്ചടയന്‍, അഖില്‍ കെ ✦
