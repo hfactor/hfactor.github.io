@@ -2,16 +2,14 @@
 title: Pariyerum Perumal
 date: 21-11-2018
 format: log
-category: watching
 link: https://www.primevideo.com/detail/Pariyerum-Perumal-BABL/0OWMTZTL4HDAINLOCZDGFPY4OL
-meta: 
-  type: movie
-  language: tamil
-  year: 2018
-  people: Mari Selvaraj
-  publisher: Amazon Prime
+cover: https://upload.wikimedia.org/wikipedia/en/3/35/Pariyerum_Perumal.jpg
+meta-type: Movie
+meta-lang: Tamil
+meta-year: 2018
+meta-people: Mari Selvaraj
+meta-pub: Amazon Prime
 ---
-#--to-do-log
 
 ജാതി പറയുന്ന, ജാതീയത പറയുന്ന സിനിമയാണ് പരിയേറും പെരുമാൾ. കേന്ദ്രകഥാപാത്രത്തിന്റെ പേരു തന്നെയാണ് സിനിമക്കും. അതൊരു ‘സാമി പേരാണെങ്കിൽ’ പോലും ആ പേരിന്റെ അർത്ഥമെന്തെന്ന് ആ സമൂഹത്തിൽ ഉള്ള മറ്റുള്ളവർക്ക് തന്നെ തിരിച്ചറിയുന്നില്ല. സമൂഹത്തിൽ നിന്ന് അത്രക്ക് മാറി നിൽക്കുന്ന, അകന്നിരിക്കുന്ന, ചരിത്രമോ മിത്തുകളോ അടയാളപ്പെടുത്താത ഒരു വർഗ്ഗത്തിൽ നിന്നാണ് കേന്ദ്രകഥാപാത്രം വരുന്നത്. അത് തന്നെയാണ് സിനിമ പറയുന്ന രാഷ്ട്രീയവും.
 

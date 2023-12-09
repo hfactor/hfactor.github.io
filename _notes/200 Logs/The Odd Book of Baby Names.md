@@ -1,16 +1,16 @@
 ---
 title: The Odd Book of Baby Names
 date: 11-02-2023
-format: log
-category: reading
+format: log 
 link: https://amzn.to/42gY09R
-meta: 
-  type: book
-  language: english
-  year: 2021
-  people: Anees Salim
+cover: https://m.media-amazon.com/images/I/91a0zPDDfhL._SL1500_.jpg
+meta-type: Book
+meta-lang: English
+meta-year: 2021
+meta-people: Anees Salim
+meta-pub: Penguin Random House
 ---
-#--to-do-log
+
 Initial pages had a spark and engagement that kept me going, but still it was hard for me to understand the narration pattern. Soon the narrative structure and characters become more precise, letting the reader picture all eight characters with all details, like an oil painting, similar to the book's cover. 
 
 Similar to other Anees Salim books, I felt a hidden Malayalee-specific narration happening inside the universal story, more like a pack of easter eggs. അതിപ്പൊ എന്റെ വിവരത്തിന്റേതാണോ, എനിക്ക് കത്തിയപ്പോ അത് മലയാളി-ഫസ്റ്റ് ആയി തോന്നിയതാണോ എന്നറിയില്ല :) 

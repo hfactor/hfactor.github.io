@@ -6,7 +6,7 @@ category: notes
 Circles is a Problem solving framework with 7 steps. Comprehend, Identify, Report Needs, Cut through Prioritisation, List Solution, Evaluate and Summarise. 
 
 - **1. Comprehend** - Team often lacks context. Provide them by focusing on four things
-- **2. Identify** Identify the ideal customer persona (one or more). [[--You can’t build a product that works for everyone]]
+- **2. Identify** Identify the ideal customer persona (one or more). [[You can’t build a product that works for everyone]]
 - **3. Report customer needs** Customers have needs and problems. Using surveys and interactions, the product team 'can' discover user needs and document them.
 - **4. Cut through & Prioritize needs** Plot results from step 3 to 4-Column matrix called Value Matrix
 	- X-Axis - Low Value to High Value

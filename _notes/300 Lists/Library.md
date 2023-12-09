@@ -26,7 +26,7 @@ order: 1
 - [[How to Get to Great Ideas]], Dave Birss
 - [[Build]], Tony Fadell
 - [[Building Knowledge Graphs]], Jesus Barrasa, Maya Natarajan and Jim Webber 
--  [[ഇന്ദുലേഖ]], ഒ. ചന്തു മേനോൻ
+-  ഇന്ദുലേഖ, ഒ. ചന്തു മേനോൻ
 -  [[The Odd Book of Baby Names]], Anees Ahamed ✦
 -  [[ഖസാക്കിന്റെ ഇതിഹാസം]], ഓ.വി. വിജയൻ ❷ ✦
 - [[കല്യാണിയെന്നും ദാക്ഷായണിയെന്നും പേരായ രണ്ടു സ്ത്രീകളുടെ കത]], ആർ രാജശ്രീ ✦
@@ -35,7 +35,7 @@ order: 1
 
 ### 2022
 - [Tropic of the Sea](https://amzn.to/3oJK6w0), Satoshi Kon ✦
-- [[പയ്യൻ കഥകൾ]], വി. കെ. എൻ ❷ ✦
+- പയ്യൻ കഥകൾ, വി. കെ. എൻ ❷ ✦
 - [പച്ച മഞ്ഞ ചുവപ്പ്](https://amzn.to/3HIlCKW), ടി. ഡി. രാമകൃഷ്ണൻ 
 - [കാന്തമലചരിതം - ആറോലക്കാടിന്റെ രഹസ്യം](https://amzn.to/3AUWWw1), വിഷ്ണു എം സി
 - [Will](https://amzn.to/3KrhfoD), Will Smith
@@ -51,7 +51,7 @@ order: 1
 - [I'm not here to give a speech](https://amzn.to/3FXaAli), Gabriel Garcia Marquez ✦
 - [[മറൈൻ കാന്റീൻ]], സുഷ്മേഷ് ചന്ദ്രോത്ത്
 - [[കപ്പിത്താന്റെ ഭാര്യ]], ബിപിൻ ചന്ദ്രൻ
-- [[സോളോ സ്റ്റോറീസ്]], വേണു ISC
+- സോളോ സ്റ്റോറീസ്, വേണു ISC
 
 
 ### 2021 
@@ -102,5 +102,6 @@ order: 1
 - [അന്ധര്‍ ബധിരര്‍ മൂകര്‍](https://amzn.to/34NEN4P), ടി ഡി രാമകൃഷ്ണൻ
 - [ഒരു പോലീസ് സര്‍ജന്റെ ഓര്‍മ്മക്കുറുപ്പുകള്‍](https://amzn.to/38kCg2V) by ബി ഉമാദത്തൻ
 - [The Brand Gap](https://amzn.to/2LKoeQj), Marty Neumeier
+- [[Shape Up]], Ryan Singer ❷ ✦
 - [Americanah](https://amzn.to/38o7B4D), Chimamanda Ngozi Adichie
 - [That Will Never Work](https://amzn.to/34wG6ok), Marc Randolph ✦

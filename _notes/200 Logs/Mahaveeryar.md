@@ -2,16 +2,14 @@
 title: Mahaveeryar
 date: 19-02-2023
 format: log
-category: watching
 link: https://www.sunnxt.com/malayalam-movie-mahaveeryar-2023/detail/157706
-meta: 
-  type: movie
-  language: malayalam
-  year: 2022
-  people: Abrid Shine
-  publisher: sunnxt
+cover: https://upload.wikimedia.org/wikipedia/en/b/b5/Mahaveeryar.jpg
+meta-type: Movie
+meta-lang: Malayalam
+meta-year: 2022
+meta-people: Abrid Shine
+meta-pub: SunNXT
 ---
-#--to-do-log
 
 അബ്രിഡിനെ പോലൊരു സംവിധായകൻ, നിവിനിനെ പോലൊരു ഹീറോയെ, അതും ആസിഫ് അലി പോലൊരു കോ-കാസ്റ്റിങ്ങ് വച്ച് ഈ സൈസ് പടമെടുക്കാൻ തുനിയുന്നത് ഒരു സംഭവമാണ്. അടിമുടി എക്സ്പിരിമെന്റൽ ആണ്. മോട്ടിഫും ഫിലോസഫിയും ഒക്കെ തന്നെ ആണ് സിനിമയുടെ മുഖഭാവവും. അത് കൊണ്ട് തന്നെ ഒരു active watching സിനിമ ആവശ്യപ്പെടുന്നുണ്ട്.*അല്ലെങ്കിൽ സിനിമ തീരുമ്പോൾ രാജാവിനെ പറ്റിയും കേസിനെ പറ്റിയും ഒക്കെ ചിന്തിച്ചിരിക്കും.*
 

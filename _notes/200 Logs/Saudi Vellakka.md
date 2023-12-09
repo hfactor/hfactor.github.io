@@ -2,16 +2,14 @@
 title: Saudi Vellakka
 date: 19-01-2023
 format: log
-category: watching
 link: https://www.sonyliv.com/movies/saudi-vellaka-malayalam-1000203293
-meta: 
-  type: movie
-  language: Malayalam
-  year: 2022
-  people: Tharun Moorthy
-  publisher: Sony LIV
+cover: 
+meta-type: Movie
+meta-lang: Malayalam
+meta-year: 2022
+meta-people: Tharun Moorthy
+meta-pub: Sony Liv
 ---
-#--to-do-log
 
 ഒരു ചെറിയ സിനിമ. മഹേഷിന്റെ പ്രതികാരത്തിന്റെ ഒക്കെ ഒരു ഫോർമാറ്റ് എന്ന് കഥയെ വിശേഷിപ്പിക്കാം. പറയാൻ മാത്രം കഥയില്ലാത്ത, എന്നാൽ മനുഷ്യന്മാരുമായി കണക്ട് ചെയ്യുന്ന, വലുതല്ലാത്ത, എന്നാൽ ചെറുതല്ലാത്ത ഒരു സിനിമ. 
 
