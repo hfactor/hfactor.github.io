@@ -5,12 +5,12 @@ format: list
 description: Here's a compilation of books I've read. The ones marked with ✦ are must-reads, and those marked with ❷ are re-reads. Check my <a href="/antilibrary"><b>Antilibrary </b></a> for the bigger list ;)
 order: 1
 ---
-
 ### Reading Now
 - The Midnight Library, Matt Haig
 - Thinking in bets, Annie Duke
 - Cinema speculations, Quentin Tarantino
 - Desperately Seeking Shah Rukh, Sharanya Bhattacharya
+- Hyperfocus, Chris Bailey
 
 ### 2023
 - [[Continuous Discovery Habits]], Teresa Torres
@@ -18,11 +18,14 @@ order: 1
 - [[Starting & Sustaining]], Garrett Dimon
 - [[Remote - No office required]], Jason Fried ❷ ✦
 - [[Jobs to be Done]], Jim Kalbach
+- Principles of Product Design, Aarron Walter
 - [[It doesn’t have to be crazy at work]], Jason Fried & DHH
 - [[Pricing Design]], Dan Mall
 - [[The Minimalist Entrepreneur]], Sahil Lavingia ✦
 - [[Tools for Thought]], Howard Rheingold
+- [[The Creative Act]], Rick Rubin ✦
 - [[On Writing Well]], William Zinsser ✦
+- [[Dinosaur Therapy]], @dinosaurcomics ✦
 - [[How to Get to Great Ideas]], Dave Birss
 - [[Build]], Tony Fadell
 - [[Building Knowledge Graphs]], Jesus Barrasa, Maya Natarajan and Jim Webber 

@@ -107,10 +107,11 @@ defaults:
 # their entries' file path in the `include:` list.
 #
 exclude:
-  - _notes/000 Inbox
-  - _notes/500 Projects
-  - _notes/600 Archive
-  - _notes/700 Obsidian
+- _notes/000 Inbox
+- _notes/600 Daily
+- _notes/700 Ideas
+- _notes/800 Fleets
+- _notes/900 Obsidian
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
