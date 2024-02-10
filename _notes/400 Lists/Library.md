@@ -8,11 +8,13 @@ order: 1
 ### Reading Now
 - The Midnight Library, Matt Haig
 - Thinking in bets, Annie Duke
-- Cinema speculations, Quentin Tarantino
-- Desperately Seeking Shah Rukh, Sharanya Bhattacharya
-- Hyperfocus, Chris Bailey
+- Whole Numbers and Half Truth, Rukmini S
 
 ### 2023
+- [The Psychology of Money](https://amzn.to/3L2XiFG), Morgan Housel ❷ ✦
+- [[Cinema speculations]], Quentin Tarantino
+- [[Desperately Seeking Shah Rukh]], Sharanya Bhattacharya
+- [[Hyperfocus]], Chris Bailey
 - [[Continuous Discovery Habits]], Teresa Torres
 - [[English, August]], Upamanyu Chatterjee ✦
 - [[Starting & Sustaining]], Garrett Dimon

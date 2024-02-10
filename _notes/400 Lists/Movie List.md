@@ -6,7 +6,16 @@ description: Here's an attempt to list movies I found good or better (rated 2.5+
 order: 3
 ---
 
+### 2024
+- Merry Christmas, Hindi, 2024
+- Dil Chahta Hai, Hindi, 2001
+- 12th Fail, Hindi, 2023
+- Curry & Cyanide: The Jolly Joseph Case, English, 2023
+- Aattam, Malayalam, 2024
+- Perilloor Premier League, Malayalam, 2023
+
 ### 2023
+- Neru, Malayalam, 2023
 - Garudan, Malayalam, 2023
 - [[The Archies]], Hindi, 2023
 - [[Kaathal - The Core]], Malayalam, 2023

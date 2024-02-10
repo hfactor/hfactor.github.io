@@ -1,6 +1,6 @@
 ---
 title: Ship-Show-Ask
-date: 05-03-2022
+date: 10-02-2024
 feed: show
 category: notes
 tag: Product

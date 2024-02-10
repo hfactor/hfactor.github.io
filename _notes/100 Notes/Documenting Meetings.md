@@ -1,6 +1,6 @@
 ---
 title: Documenting Meetings
-date: 30-07-2023
+date: 10-02-2024
 feed: show
 category: notes
 tag: Business 

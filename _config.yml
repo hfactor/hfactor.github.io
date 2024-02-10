@@ -108,9 +108,10 @@ defaults:
 #
 exclude:
 - _notes/000 Inbox
-- _notes/600 Daily
-- _notes/700 Ideas
-- _notes/800 Fleets
+- _notes/500 Now
+- _notes/600 Projects
+- _notes/700 Fleets
+- _notes/800 Archives
 - _notes/900 Obsidian
 #   - .sass-cache/
 #   - .jekyll-cache/
