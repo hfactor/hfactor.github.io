@@ -1,8 +1,7 @@
 ---
-layout: Post
+layout: Static
 permalink: /coaching
 title: Coaching
-content-type: static
 ---
 
 I offer coaching for individuals or teams looking to improve their design skills and knowledge. I provide 1:1 sessions like portfolio reviews and mock interviews on <a href="https://topmate.io/hiran">topmate</a>, and 30-minute design mentoring via <a href="https://adplist.org/mentors/hiran-venugopalan">ADPList</a>. If you're interested in other coaching models or have any questions, feel free to <a href="mailto:hi@hiran.in">email</a> me.

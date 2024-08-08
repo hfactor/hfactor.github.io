@@ -1,0 +1,44 @@
+{% assign front_matter_values = "" %}
+{% assign meta_fields = "meta-lang,meta-year,meta-people,meta-publisher" | split: "," %}
+
+{% for field in meta_fields %}
+    {% if page[field] %}
+        {% unless forloop.first %}
+            {% assign front_matter_values = front_matter_values | append: " &#x2022; " %}
+        {% endunless %}
+        {% if field == "meta-publisher" and page.meta-url %}
+            {% assign front_matter_values = front_matter_values | append: "<a href='" | append: page.meta-url | append: "'>" | append: page[field] | append: "</a>" %}
+        {% else %}
+            {% assign front_matter_values = front_matter_values | append: page[field] %}
+        {% endif %}
+    {% endif %}
+{% endfor %}
+
+<h1> 
+
+{% assign category_note = site.notes | where: "cat-value", page.category | first %}
+{% if page.local-title %} 
+<a href="{{ category_note.permalink }}">{{ page.category }}</a>/{{ page.local-title }}
+{% else %} 
+<a href="{{ category_note.permalink }}">{{ page.category }}</a>/{{ page.title }}
+{% endif %}
+{% if page.recommended == true %}✦{% endif %}
+{% if page.revisit == true %} ❷{% endif %}
+</h1>
+
+<div class="slot-small">
+    <div class="book-card">
+        {% if page.cover %}
+        <div class="book-card-left">
+          <img src="{{ page.cover }}" alt="Cover Image">  
+        </div>
+{% endif %}
+      <div class="book-card-right">
+        {% if front_matter_values != "" and front_matter_values != page.category %}
+<h6>{{ front_matter_values }}</h6>
+        {% endif %}
+        <div class="sub-txt">
+            {%- include content.html -%}
+        </div>
+      </div>
+    </div>

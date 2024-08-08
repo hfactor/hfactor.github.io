@@ -1,41 +1,34 @@
-<div class="home-intro">
-        <div class="home-title"> Hiran Venugopalan </div>
-        <div class="home-sub-title" style="padding: 0px;"> Digital Product Designer </div>
-
-        <div class="home-content">
-                Product designer and design coach with 12+ years of experience in designing and building teams for agencies, startups and enterprises. Currently leading remote design team at <a href="https://www.kaleyra.com/">Kalerya</a>.
-        </div>
-        <div class="home-content no-padding">
-                This website is my digital garden, a half-blog-half-wiki! Here, you'll find my ever-changing working notes, logs of my readings, watchlist, web-finds and more.</div>
-
-<div class="home-notes">
-        <a href="{{'/notes' | relative_url}}">
-                <h3 class="home-sub-title arrow-link">
-                        <span class="text"> Latest Working Notes</span>
-                        <span class="arrow">See All &rarr;</span>
-                </h3>
-        </a>
-
-        <div class="home-wrapper">  
-                {% assign notes = site.notes | where: 'category', 'notes' | where: 'feed', 'show' | sort: 'date' | reverse %}
-                {% for note in notes limit: 5 %}
-                <div class="homelist-feed"> <a href="{{ note.url }}">{{ note.title }}</a></div>
-                {% endfor %}
-        </div>
+<!-- intro section -->
+<div class="slot-large">
+  <h3>Hiran Venugopalan</h3> 
+  <p>A tinkerer who loves building <i>things</i>, a fan of minimalism, and someone who enjoys reading, 
+  traveling, brewing coffee, and watching movies. As a product designer, I currently lead design at Kaleyra.</p>
 </div>
 
-<div class="home-colln">
-        <h3 class="home-sub-title">
-                Collections
-        </h3> 
-        {%- include Collection.html -%}
+<!--links-->
+<div class="slot-large">
+  <h3>Digital Garden</h3> 
+  <p>This website is my digital garden, a half-blog-half-wiki! Here, you'll find my ever-changing 
+  {%- include moc-list.html -%}</p>
+</div>
+       
+<!-- now page -->
+<div class="slot-large">
+  <h3>Now</h3> 
+  {% assign now_page = site.pages | where: "name", "now.md" | first %}
+  {{ now_page.content | markdownify }}
 </div>
 
-<div class="home-contact ">
-        <div class="home-sub-title"> Collaborate / Connect </div>
-        <div class="home-content no-padding">
-                I offer  <a href="{{'/coaching' | relative_url}}">design coaching</a> through <a href="https://adplist.org/mentors/hiran-venugopalan">ADPList</a> and <a href="https://topmate.io/hiran">Topmate</a>.
-                Occasionally, I send <a href="https://hiran.substack.com/">This & That</a>  to your inbox. 
-                Feel free to reach me at <a href="mailto:hi@hiran.in">hi@hiran.in</a>
-        </div>
+<!-- subscribe bar -->
+<div class="slot-large" style="padding-top: 8px;">
+  <div class="subscribe-bar">
+    Now and then, I send bite-sized notes about
+    <a href="https://hiran.substack.com/">This&That</a> to your inbox          
+  </div>    
 </div>
+
+  <!-- contact section -->
+<div class="slot-large">
+  <h3>Contact</h3> 
+  <p>I offer coaching on design thinking and problem solving. If you need a design collaborator for small, 
+  fun projects, feel free to <a href="mailto:hiran@hiran.in">contact me</a>.</p>

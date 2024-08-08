@@ -9,7 +9,7 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
 # If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learn-the-web.algonquindesign.ca/categorys/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
 # Site settings
@@ -30,7 +30,7 @@ baseurl: ""
 heading: Hiran Venugopalan # Change this 
 content: Product and Type Designer | UI UX | Design Mentoring
 copyright:  
-  year: © 2022
+  year: © 2024
   msg: Contents under CC-BY-NC 
 
 # Set title and content for private & broken link tooltop
@@ -49,10 +49,10 @@ preferences:
     enabled: true
   backlinks:
     enabled: true
-# To enable a homepage, change the value to true and add content to _includes/Homepage.html
+# To enable a homepage, change the value to true and add content to _includes/homepage.html
 # If enable : false, notes feed will be as homepage. 
   homepage: 
-    enabled: true ##If you need a homepage, change this to true and edit _includes/Homepage.html
+    enabled: true ##If you need a homepage, change this to true and edit _includes/homepage.html
 
 encoding: utf-8
 
@@ -67,7 +67,7 @@ plugins:
 collections:
     notes:
       output: true
-      permalink: /:categories/:title
+      permalink: /note/:title
 
 markdown: kramdown
 
@@ -93,8 +93,9 @@ defaults:
       path: ""
       type: notes
     values:
-      layout: Post
-      content-type: notes
+      layout: Notes
+      permalink: /:categories/:title
+      content-type: notes            
       
 
 
@@ -107,12 +108,8 @@ defaults:
 # their entries' file path in the `include:` list.
 #
 exclude:
-- _notes/000 Inbox
-- _notes/500 Now
-- _notes/600 Projects
-- _notes/700 Fleets
-- _notes/800 Archives
-- _notes/900 Obsidian
+- _notes/00 Inbox
+- _notes/90 Private
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/

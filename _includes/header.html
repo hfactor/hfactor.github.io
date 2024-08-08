@@ -1,0 +1,143 @@
+<!-------------------------------------------------------------------------------------
+*
+* MIT License
+* Copyright (c) 2020 Raghuveer S, Hiran Venugopalan, Asim K T
+*
+* Permission is hereby granted, free of charge, to any person obtaining a copy
+* of this software and associated documentation files (the "Software"), to deal
+* in the Software without restriction, including without limitation the rights
+* to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+* copies of the Software, and to permit persons to whom the Software is
+* furnished to do so, subject to the following conditions:
+*
+* The above copyright notice and this permission notice shall be included in all
+* copies or substantial portions of the Software.
+*
+* THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+* IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+* FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+* AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+* LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+* OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+* SOFTWARE.
+*
+------------------------------------------------------------------------------------>
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta content="width=device-width, initial-scale=1" name="viewport" />
+    <meta content="Hiran Venugopalan" property="og:site_name" />
+    <meta
+        content="Product and Type Designer | UI UX | Design Mentoring"
+        property="og:description">
+    <meta content="{{ site.url }}/about/" property="article:author">
+    <meta property="og:image" content="/assets/img/HirOG.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;500;700&family=Newsreader:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+    {%- if page.title -%}
+    <meta content="{{ page.title }}" property="og:title">
+    <meta content="article" property="og:type">
+    <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+    {%- else -%}
+    <meta content="website" property="og:type">
+    <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+    {%- endif -%}
+
+    <title>{{page.title}} - {{site.heading}}</title>
+    <script defer src="https://app.tinyanalytics.io/pixel/om5CkwWaIXWqxiGf"></script>
+    <link rel="canonical" href="{{site.url}}{{page.url}}" />
+    <link rel="apple-touch-icon" href="{{ site.baseurl }}/assets/img/profile.png">
+    <link rel="icon" href="{{ site.baseurl }}/assets/img/favicon.png" type="image/png" sizes="16x16" />
+    <link href="{{ site.baseurl }}/assets/css/style.css" rel="stylesheet" media="all" class="default" />
+    <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet" media="all" class="default" />
+    <link href="{{ site.baseurl }}/assets/css/Util.css" rel="stylesheet" media="all" class="default" />
+    <link href="{{ site.baseurl }}/assets/css/vendor/Katex.css" rel="stylesheet" media="all" class="default" />
+
+    <!--[if IE]>
+        <link href="/assets/css/ie-target.css" rel="stylesheet" type="text/css"/>
+    <![endif]-->
+    <!--<link href="/assets/css/prism.css" rel="stylesheet" />-->
+    <link rel="alternate" type="application/rss+xml" href="{{ site.url }}/feed.xml">
+    <script type="text/javascript">
+        (function(c,l,a,r,i,t,y){
+            c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+            t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+            y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+        })(window, document, "clarity", "script", "i7wqmgx2ep");
+    </script>
+</head>
+
+<body>
+  <div class="wrapper">
+    <div class="centered-container">
+    <!-- navbar -->
+      <nav class="nav">
+        <div class="nav-left">
+          <a href="{{ site.baseurl }}/index.html">
+          <div class="logo-container">
+            <svg width="24" height="40" viewBox="0 0 24 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M1 19.1703V12.4354C1 10.9475 2.26568 9.74139 3.82708 9.74139C5.38848 9.74139 6.65416 10.9475 6.65416 12.4354V17.8234H12.0256V11.0884C12.0256 9.45852 13.425 8.125 15.1354 8.125C16.6968 8.125 17.9625 9.3311 17.9625 10.819V19.1703" stroke='#343331' stroke-width="1.2"/>
+              <path opacity="0.7" d="M1 20.8272V27.5622C1 29.0501 2.26568 30.2562 3.82708 30.2562C5.38848 30.2562 6.65416 29.0501 6.65416 27.5622V22.1742H12.0256V28.9092C12.0256 30.539 13.425 31.8726 15.1354 31.8726C16.6968 31.8726 17.9625 30.6665 17.9625 29.1786V20.8272" stroke='#6f6e69' stroke-width="1.2"/>
+              </svg>
+          </a>
+        </div>
+        </div>
+
+        <div class="nav-right">
+          <div class="inner-nav-group">
+            <ul class="nav-links">
+              <li class="nav-link-li">
+                <a href="/topics" class="nav-link">Topics</a>
+              </li>
+              <li class="nav-link-li">
+                <a href="/about" class="nav-link">About</a>
+              </li>
+              <li class="nav-link-li">
+                <a href="mailto:hiran@hiran.in" class="nav-link">Contact</a>
+              </li>
+            </ul>
+            <!------
+            <div class="theme-switch">
+              <div class="container">
+                <label class="toggle" for="switch">
+                  <input id="switch" class="input" type="checkbox">
+                    <div class="icon icon--moon">
+                        <img src="/assets/svg/sun.svg" alt="">
+                    </div>
+                
+                    <div class="icon icon--sun">
+                        <img src="/assets/svg/moon.svg" alt="">
+                    </div>
+                </label>
+              </div>
+            </div>
+          </div>
+        -->
+          <input
+            hidden=""
+            class="check-icon"
+            id="check-icon"
+            name="check-icon"
+            type="checkbox"
+          />
+          <label
+            onclick="show()"
+            id="menu"
+            class="icon-menu"
+            for="check-icon"
+          >
+            <div class="bar bar--1"></div>
+            <div class="bar bar--2"></div>
+            <div class="bar bar--3"></div>
+          </label>
+        </div>
+      </nav>
+
+  <script>
+   window.addEventListener('DOMContentLoaded', function() {
+      initTheme()
+    });
+  </script>

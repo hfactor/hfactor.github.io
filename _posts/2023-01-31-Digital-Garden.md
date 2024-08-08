@@ -18,7 +18,7 @@ My default action when I started using bookmarking tools was to store links with
 
 ### One idea per note. 
 
-While the concept of atomicity was clear in my experience of atomic design, it was challenging to put it in order when it came to note-making. It was my tendency to organize content by topic, and write it together. It took a while (and some [plugins](https://github.com/lynchjames/note-refactor-obsidian) helped me). 
+While the concept of atomicity was clear in my experience of atomic design, it was challenging to put it in order when it came to note-making. It was my tendency to organize content by category, and write it together. It took a while (and some [plugins](https://github.com/lynchjames/note-refactor-obsidian) helped me). 
 
 ### Keep it simple.
 A few months of overusing Notion taught me that vendor locks are real. If I have to migrate to another tool, I will have to delete everything and start fresh.
@@ -50,9 +50,9 @@ The remaining folders serve different purposes. The Project/Idea folder is a spa
 
 ## Folderless, idea first
 
-Although I utilize folders, the main purpose is to publish content to GitHub/Jekyll. The notes I create are not categorized according to specific topics or subjects; instead, they follow a flat hierarchy that allows for the development of graph-structured notes, as opposed to the tree format typically found in textbooks.
+Although I utilize folders, the main purpose is to publish content to GitHub/Jekyll. The notes I create are not categorized according to specific categorys or subjects; instead, they follow a flat hierarchy that allows for the development of graph-structured notes, as opposed to the tree format typically found in textbooks.
 
-I use Jekyll tags in frontmatter for categorization. Another popular method is generating index pages for all topics and linking them to all related notes. This is helpful for sequential note-taking as these notes can later act as an [Index/Map of Concepts](https://www.youtube.com/watch?v=7GqQKCT0PZ4).
+I use Jekyll tags in frontmatter for categorization. Another popular method is generating index pages for all categorys and linking them to all related notes. This is helpful for sequential note-taking as these notes can later act as an [Index/Map of Concepts](https://www.youtube.com/watch?v=7GqQKCT0PZ4).
 
 ## Alternatives
 

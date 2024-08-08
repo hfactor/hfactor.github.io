@@ -59,19 +59,22 @@
 {%- if site.preferences.backlinks.enabled -%}
 {%- assign display_class = 'show' -%}
 {%- endif -%}
-<div class="related {{display_class}}" id="jekyll-seamless-backlinks">
-    <h5 class="center-title">backlinks to this note</h5>
-    <div class="related-wrapper">
-        {%- for note in site.notes -%}
+
+
+<div class="slot-large">
+    <div class="backlink-group">
+      <h6>Links to the Notes</h6>
+      <ul class="two-column">
+      {%- for note in site.notes -%}
         {%- if note.url != page.url -%}
             {%- if note.content contains wiki_link_title -%}
-            <div class="notelist-feed"><a href="{{ site.baseurl }}{{note.url}}">
-                <h6>{{ note.title }}</h6>
-                <p class="excerpt" style="margin: 0px; color: var(--color-text-main) !important;">{{ note.content | strip_html | strip | remove: "[[" | remove: "]]" | remove: "-" | escape | truncate: 100 }}</p>
-            </a></div>
+            <li><a href="{{ site.baseurl }}{{note.url}}">
+                {{ note.title }}
+            </a></li>
             {%- endif -%}
         {%- endif -%}
         {%- endfor -%}
+        </ul>        
         <!--
         This code is to show other pages (note under collection) as Backlink. 
         Disabled as I don't see a need for this right now. 
@@ -89,6 +92,5 @@
 
         -->
     </div>
-    <br/>
+    {%- endif -%}    
 </div>
-{%- endif -%}
