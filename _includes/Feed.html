@@ -1,66 +1,86 @@
-{%- comment -%}
-*
-* MIT License
-* Copyright (c) 2020 Raghuveer S, Hiran Venugopalan
-*
-* Permission is hereby granted, free of charge, to any person obtaining a copy
-* of this software and associated documentation files (the "Software"), to deal
-* in the Software without restriction, including without limitation the rights
-* to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-* copies of the Software, and to permit persons to whom the Software is
-* furnished to do so, subject to the following conditions:
-*
-* The above copyright notice and this permission notice shall be included in all
-* copies or substantial portions of the Software.
-*
-* THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-* IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-* FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-* AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-* LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-* OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-* SOFTWARE.
-*
-* File: Feed.html
-* Author Raghuveer S, Hiran Venugopalan
-*
-* This file contains the markup for the context menu thingy you see when you right
-* click on the post titles on the home page.
-*
-{%- endcomment -%}
+{% assign sorted_notes = site.notes | sort: 'date' | reverse %}
+{% assign grouped_notes = "" | split: "|" %}
+{% assign current_group = "" %}
+{% assign last_group_date = nil %}
 
-<!--Notes Feed-->
-<!--Static Page : pages/notes.md-->
-<div class="title-container">
-    <div class="title-left">
-        <div>{{page.title}}</div>
-    </div>
-    <div class="title-right">
-        {%- include Content.html -%}
+<div class="slot-small">
+    <div class="title-group">
+        <h2> <span><a href="{{ site.baseurl }}/Topics">⌘</a>/</span>{{ page.title }}</h2>
+        <p>{{ page.description }}</p>
     </div>
 </div>
-    {%- if site.preferences.search.enabled -%}
-        <!-- search bar -->
-        <div class="block">
-            <input class="input is-medium" type="text" placeholder="Search notes.." id="search-input" autocomplete="off">
-            <div id="search-results" class="search-results"></div>
-        </div>
-        <script type="text/javascript" src="{{ site.baseurl }}/assets/js/vendor/lunr.min.js"></script>
-        <script src="{{ site.baseurl }}/assets/js/Search.js"></script>
-    {%- endif -%}
-    <!-- feed with filter-->
-    <div class="related-wrapper">
-    {% assign note_items = site.notes | sort: "date" | reverse %}
-    {% for note_items in note_items %}
-        {%- if note_items.feed == "show" -%}
-                <div class="notelist-feed">
-                    <a href="{{ site.baseurl }}{{note_items.url}}">
-                        <h6>{{ note_items.title }}</h6>
-                        <p class="excerpt">
-                            {{ note_items.content | strip_html | strip | remove: "[[" | remove: "]]" | remove: "-" | escape | truncate: 100 }}
-                        </p>
-                    </a>
-                </div>
-        {%- endif -%}
-    {%- endfor -%}
-    </div>
+
+<div class="slot-small">
+{% for note in sorted_notes %}
+    {% if note.category == page.cat-value %}
+        {% assign note_date = note.date | date: "%Y-%m-%d" %}
+        {% capture group_date %}
+        {% case page.group-by %}
+            {% when "year" %}
+                {{ note_date | date: "%Y" }}
+            {% when "quarter" %}
+                {% assign quarter = note_date | date: "%-m" | plus: 2 | divided_by: 3 %}
+                Q{{ quarter }} - {{ note_date | date: "%B - " }}{{ note_date | date: "%B" | append: " - " | append: quarter | append: ", " }}{{ note_date | date: "%Y" }}
+            {% when "month" %}
+                {{ note_date | date: "%B, %Y" }}
+            {% when "date" %}
+                {{ note_date | date: "%d" }}{% assign day_suffix = note_date | date: "%-d" %}{% if day_suffix == 1 or day_suffix == 21 or day_suffix == 31 %}st{% elsif day_suffix == 2 or day_suffix == 22 %}nd{% elsif day_suffix == 3 or day_suffix == 23 %}rd{% else %}th{% endif %} of {{ note_date | date: "%B, %Y" }}
+            {% when "none" %}
+                {% assign group_date = nil %}
+        {% endcase %}
+        {% endcapture %}
+        {% if group_date != null %}
+            {% if group_date != current_group %}
+                {% if current_group != "" %}
+                    {% assign grouped_notes = grouped_notes | push: group_content %}
+                {% endif %}
+                {% assign current_group = group_date %}
+                {% assign last_group_date = note_date %}
+                {% capture group_content %} 
+                    <h2> {{ group_date }} </h2>
+                {% endcapture %}
+            {% endif %}
+        {% endif %}      
+        {% capture note_content %}{{ note.content | replace: '---', '' | strip_newlines | strip_html | strip | replace: ' ', '' }}{% endcapture %}
+        {% capture meta_url %}{{ note.meta-url | strip_newlines | strip_html | strip }}{% endcapture %}
+        
+        {% capture group_content %}
+        {{ group_content }}
+            {% if note_content != "" %}
+                <li> <div class="note-title"> 
+                <a href="{{ site.baseurl }}{{ note.url }}"> 
+                    {% if note.local-title %} {{ note.local-title }} {% else %} {{ note.title }} {% endif %}                    
+                    {% if note.recommended == true %} ✦{% endif %}
+                    {% if note.revisit == true %} ❷{% endif %}
+                    </div>
+                    <span class="arrow-icon"><img src="/assets/svg/Arrow.svg" alt="" class="arrow-img" /></span>
+                </a></li>
+            {% elsif meta_url != "" %}
+                <li> <div class="note-title">
+                <a href="{{ meta_url }}"> 
+                    {% if note.local-title %} {{ note.local-title }}{% else %} {{ note.title }} {% endif %}
+                    {% if note.recommended == true %} ✦{% endif %}
+                    {% if note.revisit == true %} ❷{% endif %}
+                    </div>
+                    <span class="arrow-icon"> <img src="/assets/svg/Arrow.svg" alt="" class="arrow-img" /> </span>
+                </a>
+                </li>
+            {% else %}
+                <li> <div class="note-title">
+                    {% if note.local-title %} {{ note.local-title }} {% else %} {{ note.title }} {% endif %}
+                    {% if note.recommended == true %} ✦{% endif %}
+                    {% if note.revisit == true %} ❷{% endif %}
+                    {% if note.booktype %} {{ note.booktype }} {% endif %}
+                    </div>
+                </li>
+            {% endif %}
+        {% endcapture %}
+    {% endif %}
+{% endfor %}
+
+{% assign grouped_notes = grouped_notes | push: group_content %}
+{% for group in grouped_notes %}
+    <div class="note-list-sec"><ul class="note-list">
+        {{ group }}
+    </ul> </div>
+{% endfor %}

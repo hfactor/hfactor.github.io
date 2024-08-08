@@ -1,0 +1,24 @@
+{%- include header.html -%}
+{%- if page.permalink == "/" -%}
+        {%- include homepage.html -%}
+{%- else -%}
+<div class="slot-small">
+        <div class="title-group">
+          <h2>
+            {{ page.title }}
+        </h2>
+      </div>
+</div>
+<div class="slot-small">
+    {%- include Content.html -%}
+    {% if page.date %}
+    <div style=" font-size: 0.8rem;
+    font-style: italic;
+    color: var(--color-title-sub);">
+    Based on <a href="https://nownownow.com/about">Derek Sivers's Idea.</a> Last updated on {{ page.date | date: "%B, %Y" }}
+    </div>
+    {% endif %}
+{%- endif -%}
+</div>
+
+{%- include Footer.html -%}

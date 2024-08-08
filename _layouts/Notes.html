@@ -1,0 +1,11 @@
+{%- include header.html -%}
+
+{% assign target_page = site.notes | where: 'category', 'MOC' | where: 'cat-value', page.category | first %}
+
+{% if page.category == "MOC" %}
+    {%- include feed.html -%}
+{% else %}
+  {%- include log-metadata.html -%}
+{% endif %}
+{%- include Backlinks.html -%}
+{%- include footer.html -%}

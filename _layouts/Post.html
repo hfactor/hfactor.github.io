@@ -1,6 +1,5 @@
 ---
 ---
-
 <!-------------------------------------------------------------------------------------
 *
 * MIT License
@@ -78,9 +77,7 @@
         <div class="columns is-centered">
             <div class="column is-5-widescreen is-6-desktop is-8-tablet is-12-mobile">
                 <!-- Navigation-->
-                {%- include Nav.html -%}
-
-
+                {%- include header.html -%}
                 {%- if page.permalink == "/" -%}
                     <!-- 1. Homepage. You can have a static homepage at _config.yml. Configure at homepage.html inside _includes -->                
                     {%- if site.preferences.homepage.enabled -%}
@@ -111,7 +108,7 @@
                                 border-bottom: 1px solid var(--color-border-light);
                                 list-style: none;
                                 padding: var(--padding-thin) 0;
-                                font-size: var(--text-small);
+                                font-size: var(--font-smallall);
                             }
                             .content ul {
                                 padding-left: 0px;
@@ -130,15 +127,13 @@
                             </div>
                         </div>
                         {%- include Content.html -%}
+                    {% if page.date %}
+    
+    {% endif %}
                     {%- else -%}
                         <!-- Global Back arrow -->                
                         <div class="note-page-section">
-                            <div>
-                                {% capture parent_url %}{{ site.baseurl }}/{{ page.url | remove_first: '/' | split: '/' | first }}{% endcapture %}
-                                <a href="{{ parent_url }}">← </a>
-                                
-                            </div>
-
+                          
                             {%- if page.content-type == "post" -%}
                                 <!-- Layout 2 Post-->
                                 
@@ -175,7 +170,6 @@
                                     {% endfor %}
                                     • <a href = "{{ page.link }}"> Link </a>
                                 </div>
-
                                 {%- include Content.html -%}       
                             {%- endif -%}
                     {%- endif -%}

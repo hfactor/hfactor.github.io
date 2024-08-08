@@ -1,0 +1,42 @@
+{% assign sorted_notes = site.notes | sort: 'category-order' %}
+{% assign first_item = true %}
+{% assign item_index = 0 %}
+{% assign total_items = sorted_notes | size %}
+{% assign moc_notes = sorted_notes | where: "category", "MOC" %}
+{% assign moc_notes_count = 0 %}
+
+{% for note_page in moc_notes %}
+  {% assign count = 0 %}
+  {% for note in site.notes %}
+    {% if note.category == note_page.cat-value %}
+      {% assign count = count | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+  {% if count > 0 %}
+    {% assign moc_notes_count = moc_notes_count | plus: 1 %}
+  {% endif %}
+{% endfor %}
+
+{% for note_page in sorted_notes %}
+  {% if note_page.category == "MOC" %}
+    {% assign count = 0 %}
+    {% for note in site.notes %}
+      {% if note.category == note_page.cat-value %}
+        {% assign count = count | plus: 1 %}
+      {% endif %}
+    {% endfor %}
+    {% if count > 0 %}
+      {% assign item_index = item_index | plus: 1 %}
+      {% if first_item %}
+        {% assign first_item = false %}
+      {% else %}
+        {% if item_index == 2 %}
+        and logs of my 
+        {% elsif item_index == moc_notes_count %}
+          and 
+        {% else %},{% endif %}
+      {% endif %}
+      <a href="{{ note_page.url }}">{{ note_page.title }}</a><sup>{{ count }}</sup>
+    {% endif %}
+  {% endif %}
+{% endfor %}
