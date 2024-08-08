@@ -3,7 +3,7 @@ title: AeroPress with South Indian Coffee Powder
 date: 2023-12-14
 category: Coffee
 ---
-I have tried making Coffee using South Indian Coffee Powder (Robusta+Chicory, Generally 4:1 ratio) and it's worth mentioning. It's similar to [[V60-style AeroPress Recipe for Medium Dark Roast]], with reduced the temperature (which reduces the bitterness) and increased the water (diluting it)
+I have tried making Coffee using South Indian Coffee Powder (Robusta+Chicory, Generally 4:1 ratio) and it's worth mentioning. It's similar to [[V60-style Aeropress Recipe for Medium Dark Roast]], with reduced the temperature (which reduces the bitterness) and increased the water (diluting it)
 
 
 - AeroPress Position: Standard 

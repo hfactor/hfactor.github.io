@@ -1,5 +1,5 @@
 ---
-title: V60-style AeroPress Recipe for Medium Dark Roast
+title: V60-style Aeropress Recipe for Medium Dark Roast
 date: 01-04-2024
 category: Coffee
 ---
