@@ -9,7 +9,7 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
 # If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/categorys/markdown-yaml-cheat-sheet/#yaml
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
 # Site settings
@@ -49,10 +49,10 @@ preferences:
     enabled: true
   backlinks:
     enabled: true
-# To enable a homepage, change the value to true and add content to _includes/homepage.html
+# To enable a homepage, change the value to true and add content to _includes/Homepage.html
 # If enable : false, notes feed will be as homepage. 
   homepage: 
-    enabled: true ##If you need a homepage, change this to true and edit _includes/homepage.html
+    enabled: true ##If you need a homepage, change this to true and edit _includes/Homepage.html
 
 encoding: utf-8
 
@@ -67,7 +67,7 @@ plugins:
 collections:
     notes:
       output: true
-      permalink: /note/:title
+      permalink: /:categories/:title
 
 markdown: kramdown
 
@@ -95,7 +95,7 @@ defaults:
     values:
       layout: Notes
       permalink: /:categories/:title
-      content-type: notes            
+      content-type: notes    
       
 
 
