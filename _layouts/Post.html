@@ -126,7 +126,7 @@
                                 <p>{{ page.description }}</p>
                             </div>
                         </div>
-                        {%- include Content.html -%}
+                        {%- include content.html -%}
                     {% if page.date %}
     
     {% endif %}
@@ -141,7 +141,7 @@
                                 <h1 style="padding-top: 0px">
                                     {{ page.title }}
                                     </h1>
-                            {%- include Content.html -%}
+                            {%- include content.html -%}
                             {%- endif -%}
 
                             {%- if page.category == "notes" -%}
@@ -154,7 +154,7 @@
                             ലോജിക്ക് വിസ്തരിക്കുന്നില്ല, എനിക്ക് തന്നെ നാണമാവുന്നു! -->
                                 <!-- Layout 3 Note-->
                                 <h1>{{ page.title }}</h1>
-                                {%- include Content.html -%}
+                                {%- include content.html -%}
                                 {%- include Backlinks.html -%}
                             {%- endif -%}
 
@@ -170,14 +170,14 @@
                                     {% endfor %}
                                     • <a href = "{{ page.link }}"> Link </a>
                                 </div>
-                                {%- include Content.html -%}       
+                                {%- include content.html -%}       
                             {%- endif -%}
                     {%- endif -%}
                 {%- endif -%}
                     {%- if page.content-type == "static" -%}
                         <!-- Layout 5 Static-->
                         <h1>{{ page.title }}</h1>
-                        {%- include Content.html -%}
+                        {%- include content.html -%}
                     {%- endif -%}
                     {%- include Footer.html -%}
             </div>
