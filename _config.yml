@@ -49,10 +49,10 @@ preferences:
     enabled: true
   backlinks:
     enabled: true
-# To enable a homepage, change the value to true and add content to _includes/Homepage.html
+# To enable a homepage, change the value to true and add content to _includes/homepage.html
 # If enable : false, notes feed will be as homepage. 
   homepage: 
-    enabled: true ##If you need a homepage, change this to true and edit _includes/Homepage.html
+    enabled: true ##If you need a homepage, change this to true and edit _includes/homepage.html
 
 encoding: utf-8
 

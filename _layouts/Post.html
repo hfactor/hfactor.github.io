@@ -81,13 +81,13 @@
                 {%- if page.permalink == "/" -%}
                     <!-- 1. Homepage. You can have a static homepage at _config.yml. Configure at homepage.html inside _includes -->                
                     {%- if site.preferences.homepage.enabled -%}
-                        {%- include Homepage.html -%}
+                        {%- include homepage.html -%}
                     {%- else -%}
-                        {%- include Feed.html -%}
+                        {%- include feed.html -%}
                     {%- endif -%}
                 {%- elsif page.permalink == "/notes" -%}
                     <!-- 2. If you have a static homepage, you can use this to configure feed page -->                
-                    {%- include Feed.html -%}
+                    {%- include feed.html -%}
                 {%- elsif page.content-type == "notes" or page.content-type == "post" -%}
                     <!-- 
                         There are two collections, the default blog post named "Post" and "notes" for notes.
@@ -155,7 +155,7 @@
                                 <!-- Layout 3 Note-->
                                 <h1>{{ page.title }}</h1>
                                 {%- include content.html -%}
-                                {%- include Backlinks.html -%}
+                                {%- include backlinks.html -%}
                             {%- endif -%}
 
                             {%- if page.format == "log" -%}
@@ -179,7 +179,7 @@
                         <h1>{{ page.title }}</h1>
                         {%- include content.html -%}
                     {%- endif -%}
-                    {%- include Footer.html -%}
+                    {%- include footer.html -%}
             </div>
         </div>
     </main>
